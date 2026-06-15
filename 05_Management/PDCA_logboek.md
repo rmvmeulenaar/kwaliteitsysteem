@@ -15,8 +15,17 @@
 - ⬜ Open corrigerende acties: A1 beleid · A4 verbeter-/klachtenregister · A5 apparatuurbewijs · A6 RI&E · A7 nascholing · scope-check
 
 **Act (besluiten/bijsturen):**
-- Werkwijze vastgesteld: PDCA via inlog-sessies i.p.v. afhankelijk van teamafspraken.
+- Werkwijze vastgesteld: PDCA via inlog-sessies. **Per ronde prioriteren op hefboom (impact × moeite)** — de grootste hefboom eerst, geen mechanische afvinklijst.
 - **Scope-check ingebracht als prioriteit** (zie onder) → besluit aan directie.
+
+**Hefbomen nu (slimste eerst):**
+| Hefboom | Impact | Moeite | Wie |
+|---|---|---|---|
+| Scope-check met DEKRA afstemmen | hoog | laag | Rogier |
+| A4 verbeter-/klachtenregister automatiseren (Clinicminds) | midden-hoog | midden | Claude |
+| Tevredenheidsmailing live zetten | midden | laag | Rogier |
+| A6 RI&E-notitie | midden | laag | Claude |
+| A1 beleid actualiseren | midden | midden | samen |
 
 ---
 
