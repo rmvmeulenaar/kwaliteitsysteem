@@ -23,7 +23,7 @@
 - 🔵 **A5** Apparatuuroverzicht gemaakt — onderhoudsbewijs Vectra/koelkast + leveranciers nog invullen
 - 🔵 **A6** Lichte RI&E / ARBO opgesteld — status-velden + toetsing checken
 - 🔵 **A7** Nascholingsplan 2024–2029 gemaakt (GAIA 9/200) — punten halen + kwartaalbewaking
-- ⬜ **V2** Bekwaamheidsborging: overzicht per medewerker + **tweejaarlijkse kennisquiz/opleiding** (AI-gegenereerd uit de SOP's, continu bijgewerkt → bewijs §7.2)
+- 🔵 **V2** Bekwaamheidsborging: **jaarlijkse kennisquiz ✅ gemaakt** (AI-gegenereerd uit SOP's) — medische antwoorden verifiëren + bekwaamheidsoverzicht per medewerker
 - ⬜ **V3** Taken/verantwoordelijkheden helder vastleggen (incl. Romy)
 - ⬜ Oude "SOP laserbehandeling" (ChatGPT-transcript) schrappen
 

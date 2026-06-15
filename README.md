@@ -53,7 +53,7 @@ Bron = markdown (versiebeheerd). Word/PDF = export voor de auditor.
 - [Gecombineerde formulieren](03_Registraties/Gecombineerde_formulieren.md) · [Receptabonnementen](03_Registraties/Receptabonnementen.md)
 
 ### 04_Personeel
-- [Nascholingsplan (arts)](04_Personeel/Nascholingsplan.md) · [Arbeidscontract-sjabloon](04_Personeel/Arbeidscontract_sjabloon.md) · [Personeelsdocument-sjabloon](04_Personeel/Personeelsdocument_sjabloon.md)
+- [Nascholingsplan (arts)](04_Personeel/Nascholingsplan.md) · [Bekwaamheidsquiz (jaarlijks)](04_Personeel/Bekwaamheidsquiz.md) · [Arbeidscontract-sjabloon](04_Personeel/Arbeidscontract_sjabloon.md) · [Personeelsdocument-sjabloon](04_Personeel/Personeelsdocument_sjabloon.md)
 - Moumen Al Saadon: [Arbeidscontract](04_Personeel/Moumen_al_Saadon/Arbeidscontract.md) · [Functiebeschrijving](04_Personeel/Moumen_al_Saadon/Functiebeschrijving.md)
 
 ### 05_Management
