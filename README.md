@@ -48,12 +48,12 @@ Bron = markdown (versiebeheerd). Word/PDF = export voor de auditor.
 ### 03_Registraties — levende registers
 - **[📌 Actielijst — openstaande taken](03_Registraties/Actielijst.md)**
 - [Verbeterregister](03_Registraties/Verbeterregister.md) · [Interne controles](03_Registraties/Interne_controles.md) · [Incidentenformulier (brondata)](03_Registraties/Incidentenformulier_brondata.md)
-- [Stakeholder-analyse](03_Registraties/Stakeholder_analyse.md) · [Acties opleiding/kwaliteit](03_Registraties/Acties_Opleiding_Kwaliteit.md) · [ISO-checklist](03_Registraties/ISO_checklist.md)
+- [Apparatuuroverzicht & onderhoud](03_Registraties/Apparatuuroverzicht.md) · [Stakeholder-analyse](03_Registraties/Stakeholder_analyse.md) · [Acties opleiding/kwaliteit](03_Registraties/Acties_Opleiding_Kwaliteit.md) · [ISO-checklist](03_Registraties/ISO_checklist.md)
 - [KPI-spreadsheet](03_Registraties/KPI/KPI_spreadsheet.md) · [Clinicminds-data](03_Registraties/KPI/Clinicminds_data.md) · [Clinicminds-instellingen](03_Registraties/Clinicminds_instellingen.md)
 - [Gecombineerde formulieren](03_Registraties/Gecombineerde_formulieren.md) · [Receptabonnementen](03_Registraties/Receptabonnementen.md)
 
 ### 04_Personeel
-- [Arbeidscontract-sjabloon](04_Personeel/Arbeidscontract_sjabloon.md) · [Personeelsdocument-sjabloon](04_Personeel/Personeelsdocument_sjabloon.md)
+- [Nascholingsplan (arts)](04_Personeel/Nascholingsplan.md) · [Arbeidscontract-sjabloon](04_Personeel/Arbeidscontract_sjabloon.md) · [Personeelsdocument-sjabloon](04_Personeel/Personeelsdocument_sjabloon.md)
 - Moumen Al Saadon: [Arbeidscontract](04_Personeel/Moumen_al_Saadon/Arbeidscontract.md) · [Functiebeschrijving](04_Personeel/Moumen_al_Saadon/Functiebeschrijving.md)
 
 ### 05_Management
