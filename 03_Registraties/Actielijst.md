@@ -15,17 +15,16 @@
 - ✅ Doelstellingen 2026 vastgesteld
 
 ### Corrigerende acties uit de interne audit
-- ⬜ **A1** Kwaliteitsbeleid actualiseren + scope-check DEKRA (TRT / gewichtsverlies / hormonen)
-- ⬜ **A2** Risicoregister 2026 opstellen
+- ⬜ **A1** Kwaliteitsbeleid actualiseren + **scope-check DEKRA** (TRT / gewichtsverlies / hormonen) — *jouw actie: contact M. Smit*
+- ✅ **A2** Risicoregister 2026 opgesteld
 - 🔵 **A3** Voorraadregistratie — hervat, kwartaalschema loopt
-- ⬜ **A4** AI-beheerd verbeter-/klachtenregister opzetten
-- ⬜ **A5** Apparatuuroverzicht + onderhoudsbewijs (Vectra, koelkast)
+- ✅ **A4** Verbeter-/klachtenregister (AI-beheerd)
+- 🔵 **A5** Apparatuuroverzicht gemaakt — onderhoudsbewijs Vectra/koelkast + leveranciers nog invullen
 - ⬜ **A6** Lichte RI&E / ARBO-notitie opstellen
-- ⬜ **A7** Nascholingsplan 2026–2028 (GAIA: 9/200 punten) + bewaking via systeem
+- 🔵 **A7** Nascholingsplan 2024–2029 gemaakt (GAIA 9/200) — punten halen + kwartaalbewaking
 - ⬜ **V2** Bekwaamheids-/nascholingsoverzicht per medewerker
 - ⬜ **V3** Taken/verantwoordelijkheden helder vastleggen (incl. Romy)
 - ⬜ Oude "SOP laserbehandeling" (ChatGPT-transcript) schrappen
-- ⬜ De 6 auditor-vragen definitief beantwoorden
 
 ## ⚙️ Systeem / operationeel
 - ✅ Clinicminds-API gekoppeld (KPI's live)
