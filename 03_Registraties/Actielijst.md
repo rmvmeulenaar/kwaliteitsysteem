@@ -1,6 +1,7 @@
-# Actielijst — openstaande taken kwaliteitssysteem
+# Actielijst & weekstart — operationele cockpit
 
-> Centrale lijst van openstaande acties. Dekt verbetermogelijkheid #4 uit het DEKRA-rapport (feb 2025): *"periodieke taken in een kalender/actielijst opnemen."*
+> **🗓️ Begin hier elke week.** Loop door: (1) de wekelijkse taken in het ritme, (2) de open acties hieronder, (3) signalen (voorraad / nascholing / KPI's uit Clinicminds). Dit is je vaste werkplek van waaruit je de praktijk runt.
+> Dekt verbetermogelijkheid #4 uit het DEKRA-rapport: *"periodieke taken in een kalender/actielijst opnemen."*
 > Status: ⬜ open · 🔵 mee bezig · ✅ klaar. Bijgewerkt: 2026-06-15.
 
 ## 💶 Financieel / boekhouding (Snelstart — Albatros Health Services B.V.)
@@ -31,6 +32,13 @@
 - ✅ Klanttevredenheid: formulier 2026/27 + kwartaal-mailing (dry-run)
 - ⬜ Tevredenheidsmailing **live zetten** (na akkoord testmail) — `DRY_RUN=0`
 - ⬜ Eventueel `praktijkvoorinjectables.nl` als afzender verifiëren in Resend (nu via radianceclinic.nl)
+
+## 🔁 Terugkerende taken (ritme)
+- **Wekelijks:** salarisstrook + reiskostenvergoeding Moumen · schoonmaak alle locaties ✅
+- **Kwartaal:** voorraadcontrole (§8.5.4) · klanttevredenheidsmailing (automatisch) · GAIA-nascholingsstand checken
+- **Jaarlijks:** interne audit · directiebeoordeling · risicoregister herzien · externe DEKRA-audit
+
+*Kandidaat voor automatisering (jouw administratie-doelstelling): salaris/reiskosten Moumen verwerken.*
 
 ---
 *Werkwijze: nieuwe taak gezien → hier toevoegen. Afgerond → ✅. Per kwartaal (bij de interne controle) doorlopen.*
