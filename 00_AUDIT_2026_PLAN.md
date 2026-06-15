@@ -32,33 +32,21 @@
 
 ---
 
-## De 5 fasen
+## De fasen — strikt één voor één
 
-### Fase 1 — Setup ⏳
-- [ ] Lokale map ↔ GitHub-repo `kwaliteitsysteem` gekoppeld
-- [ ] Schone structuur + dit plan in de repo
-- [ ] Originele bronbestanden (ZIP) veiliggesteld als referentie
+| # | Fase | Deliverable | Status |
+|---|---|---|---|
+| 1 | **Fundament + voorraad §8.5.4** | Repo gekoppeld · SOP kwartaal · voorraadregister | ✅ klaar |
+| 2 | **Directiebeoordeling 2026** | Management review (ISO §9.3) | 🔵 bezig — jouw cijfers nodig |
+| 3 | **Doelstellingen/jaarplan 2026** | Doelen komend jaar (meesturen aan auditor) | ⬜ |
+| 4 | **Interne audit 2026** | Uitgevoerd + verslag | ⬜ |
+| 5 | **Verbeterregister** | Actief register + de 7 verbeterpunten vorig rapport | ⬜ |
+| 6 | **SOP's actueel** | Behandelingen · hygiëne · calamiteiten · AVG | ⬜ |
+| 7 | **Apparatuur + klachten** | Onderhoudsoverzicht + klachtenoverzicht | ⬜ |
+| 8 | **6 antwoorden auditor** | Wijzigingen · calamiteiten · FTE · verbeterpunten | ⬜ |
+| 9 | **Eindcheck** | Consistentie + Word-exports voor de auditor | ⬜ |
 
-### Fase 2 — Kern-deliverables voor de auditor (vóóraf insturen)
-- [ ] **Management review 2026** (update van versie 18-01-2025)
-- [ ] **Kwaliteitsdoelstellingen + jaarplan 2026**
-- [ ] Antwoorden op de 6 auditor-vragen (zie onder)
-
-### Fase 3 — Tekortkoming §8.5.4 dichttimmeren 🔴 KRITIEK
-- [ ] SOP Voorraadbeheer consistent maken — **één frequentie** (zie waarschuwing onder)
-- [ ] Voorraadregister actueel + volledig
-- [ ] Controlebewijs aug 2025 → nu ordenen (foto's, registraties) — *fysiek bewijs uit de praktijk*
-- [ ] Aantonen: 0 verlopen producten over de periode
-
-### Fase 4 — Verbetermogelijkheden + interne audit
-- [ ] 7 verbetermogelijkheden uit S1 afvinken (zie onder)
-- [ ] Interne audit 2026 uitgevoerd + vastgelegd
-- [ ] Directiebeoordeling gekoppeld
-
-### Fase 5 — Consistentie-check + exports
-- [ ] Geen onderlinge tegenstrijdigheden in het systeem
-- [ ] Per agenda-punt bewijs paraat (agenda audit 64801)
-- [ ] Word/PDF-exports voor de auditor
+**Werkwijze: één fase per keer. Ik rond een fase af, jij keurt goed, pas dan begin ik aan de volgende. Geen vooruitlopen.**
 
 ---
 

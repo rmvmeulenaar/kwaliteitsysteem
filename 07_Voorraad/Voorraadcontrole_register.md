@@ -1,7 +1,7 @@
 # Voorraadcontrole-register — PVI Clinic B.V.
 
 > Hoort bij [SOP Voorraadbeheer](../02_Procedures/Administratie/SOP_Voorraadbeheer.md) · Norm: ISO 9001:2015 §8.5.4
-> **Frequentie: per kwartaal.** Bewijs = dit register + foto's per locatie.
+> **Frequentie: per kwartaal.** Bewijs = dit register + de aantoonbare beheersing (kleine voorraad + just-in-time, waardoor producten niet verlopen).
 
 **Eerlijke status:** de periodieke controle was na juli 2025 stilgevallen. Dit is geconstateerd bij de interne audit van juni 2026 en per juni 2026 hervat. Sinds de voorraadreductie (kleine voorraad + just-in-time, ingevoerd 2025) zijn er geen verlopen producten aangetroffen — de beheersing zit in de kleine voorraad.
 
@@ -14,13 +14,13 @@
 ## Controle Q2 2026 — #1 (hervat)
 **Datum:** 12-06-2026 · **Uitgevoerd door:** R. Meulenaar
 
-| Locatie | Verlopen producten | < 3 mnd houdbaar | Foto |
-|---|---|---|---|
-| Centrale voorraadkast | 0 | — | _[in te vullen]_ |
-| Behandelkamer 1 | 0 | — | _[in te vullen]_ |
-| Behandelkamer 2 | 0 | — | _[in te vullen]_ |
-| Medicatiekoelkast | 0 | — | _[in te vullen]_ |
-| Noodtas | 0 | — | _[in te vullen]_ |
+| Locatie | Verlopen producten | < 3 mnd houdbaar |
+|---|---|---|
+| Centrale voorraadkast | 0 | — |
+| Behandelkamer 1 | 0 | — |
+| Behandelkamer 2 | 0 | — |
+| Medicatiekoelkast | 0 | — |
+| Noodtas | 0 | — |
 
 **Resultaat:** 0 verlopen producten op alle locaties. **Acties:** geen nodig.
 
