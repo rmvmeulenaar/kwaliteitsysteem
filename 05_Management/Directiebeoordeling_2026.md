@@ -64,7 +64,13 @@ AVG, Wet BIG, Wkkgz, WGBO: geen issues. Veldnorm cosmetische sector doorgevoerd.
 - Apparatuur en onderhoud: zie apparatuur-onderhoudsoverzicht (verbeterpunt vorig rapport — in opbouw)
 
 ## 9. Doelstellingen en plannen 2026/2027 *(meesturen aan auditor)*
-**Kernrichting 2026:** de interne organisatie minder afhankelijk maken van losse personen door processen te automatiseren met AI / het digitale kwaliteitssysteem. Niet langer afhankelijk van "of iemand eraan denkt", maar geborgd in het systeem.
+**Strategische richting 2026/2027 — vier stromingen:**
+- **AI breder implementeren** — steeds meer processen door AI / het systeem laten draaien.
+- **Radiance Clinic (Nijmegen) uitbouwen** — holistische benadering + afvalbegeleiding als groeipijlers.
+- **Eigen software i.p.v. dure abonnementen** — lagere kosten, meer eigen regie.
+- **Minder afhankelijkheid van mensen voor routinezaken** — geborgd in het systeem, niet in "of iemand eraan denkt".
+
+Concreet uitgewerkt in de doelstellingen hieronder:
 
 1. **Automatisering interne processen (AI):** terugkerende taken via het kwaliteitssysteem laten lopen i.p.v. handmatig — voorraadsignalering, klanttevredenheidsmeting, administratie. *(Klanttevredenheidsmeting ✅ live als eerste; voorraad + administratie volgen.)*
 2. **Software / systeem verbeteren:** het kwaliteitssysteem (centrale repo) als operationele infrastructuur uitbouwen — vindbaar, geborgd, zelf-monitorend.
