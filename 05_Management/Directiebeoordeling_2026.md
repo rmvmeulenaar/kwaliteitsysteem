@@ -41,9 +41,9 @@ Datum: ‹ROGIER → kies datum vóór verzending aan auditor›
 > **⚠️ Correctie:** de voorzet noemde €900.000 omzet (2024). De werkelijke Clinicminds-cijfers liggen op €234k–€374k excl. btw. De €900k is verwijderd. ‹ROGIER → bevestig dat Clinicminds je volledige omzet dekt, of noem de boekhoudbron.›
 
 ## 4. Klachten en incidenten
-- Calamiteiten: geen ‹ROGIER → bevestig 2025/26›
-- Formele klachten: geen ‹ROGIER → bevestig›
-- Inspectie (IGJ): geen contact ‹ROGIER → bevestig›
+- Calamiteiten: geen
+- Formele klachten: geen (bevestigd door directie, 2025)
+- Inspectie (IGJ): geen contact
 - Klachten worden in het patiëntdossier vastgelegd; vanaf 2026 ook in een centraal klachtenoverzicht (verbeterpunt vorig rapport — zie verbeterregister).
 
 ## 5. Auditresultaten en corrigerende maatregelen
@@ -72,8 +72,15 @@ AVG, Wet BIG, Wkkgz, WGBO: geen issues. Veldnorm cosmetische sector doorgevoerd.
 4. **Administratie verbeteren:** processen stroomlijnen en koppelen (Clinicminds, boekhouding) zodat cijfers actueel en betrouwbaar zijn.
 5. **Borging (ISO):** voorraad 4/4 kwartaalcontroles met 0 verlopen producten; interne audit jaarlijks uitgevoerd.
 
+**Strategische groeiplannen 2026/2027:**
+6. **Radiance Clinic** verder professionaliseren en strakker organiseren.
+7. **Afvalbegeleiding** (gewichtsverlies/GLP-1) uitbouwen als groeipijler.
+8. **Kosten verlagen** door dure externe software te vervangen door eigen, op maat gebouwde oplossingen (zoals dit kwaliteitssysteem) — minder abonnementen, meer eigen regie.
+
 ## 10. Conclusie directie
-Het kwaliteitsmanagementsysteem is geschikt, toereikend en doeltreffend ‹ROGIER → akkoord met deze conclusie?›. Benodigde besluiten/middelen: ‹ROGIER → bijv. tijd voor kwartaalcontroles + afronding digitalisering›.
+Het kwaliteitsmanagementsysteem is geschikt en in opzet doeltreffend, en wordt in 2026 verder versterkt door digitalisering en automatisering (centrale repo, geborgde processen, minder afhankelijkheid van losse personen). Aandachtspunten voor het komend jaar: de §8.5.4-implementatie aantoonbaar houden, en het bedrijfsresultaat verbeteren (verlies 2024) via groei (Radiance, afvalbegeleiding) en lagere kosten (eigen software i.p.v. abonnementen). Benodigde middelen: tijd voor de kwartaalcontroles en de interne audit, plus doorontwikkeling van het digitale kwaliteitssysteem.
+
+*‹ROGIER → lees deze conclusie even na; pas aan als je het anders ziet — het is jouw directie-oordeel.›*
 
 ---
 *Bron: directiebeoordeling 2025 + DEKRA-rapporten S1 (2025-02-24) en CAO (2025-08-08). Markdown = bron; Word-export voor de auditor wordt hieruit gegenereerd.*
