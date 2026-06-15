@@ -58,7 +58,7 @@ Bron = markdown (versiebeheerd). Word/PDF = export voor de auditor.
 
 ### 05_Management
 - [Directiebeoordeling 2026](05_Management/Directiebeoordeling_2026.md) · [Directiebeoordeling 2025](05_Management/Directiebeoordeling_2025.md)
-- [Interne audit 2026](05_Management/Interne_audit_2026.md) · [Risicoregister 2026](05_Management/Risicoregister_2026.docx) (Word)
+- [Interne audit 2026](05_Management/Interne_audit_2026.md) · [Risicoregister 2026](05_Management/Risicoregister_2026.md)
 
 ### 06_DEKRA_Audit — auditcorrespondentie
 - [Auditrapport feb-2025](06_DEKRA_Audit/DEKRA_auditrapport_S1_2025-02-24.md) · [Vervolgbeoordeling aug-2025](06_DEKRA_Audit/DEKRA_CAO_beoordeling_2025-08-08.md)
