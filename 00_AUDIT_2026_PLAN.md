@@ -34,17 +34,17 @@
 
 ## De fasen — strikt één voor één
 
-| # | Fase | Deliverable | Status |
+| # | Fase | Waar het komt te staan | Status |
 |---|---|---|---|
-| 1 | **Fundament + voorraad §8.5.4** | Repo gekoppeld · SOP kwartaal · voorraadregister | ✅ klaar |
-| 2 | **Directiebeoordeling 2026** | Management review (ISO §9.3) | 🔵 bezig — jouw cijfers nodig |
-| 3 | **Doelstellingen/jaarplan 2026** | Doelen komend jaar (meesturen aan auditor) | ⬜ |
-| 4 | **Interne audit 2026** | Uitgevoerd + verslag | ⬜ |
-| 5 | **Verbeterregister** | Actief register + de 7 verbeterpunten vorig rapport | ⬜ |
-| 6 | **SOP's actueel** | Behandelingen · hygiëne · calamiteiten · AVG | ⬜ |
-| 7 | **Apparatuur + klachten** | Onderhoudsoverzicht + klachtenoverzicht | ⬜ |
-| 8 | **6 antwoorden auditor** | Wijzigingen · calamiteiten · FTE · verbeterpunten | ⬜ |
-| 9 | **Eindcheck** | Consistentie + Word-exports voor de auditor | ⬜ |
+| 1 | **Fundament + voorraad §8.5.4** | `02_Procedures/Administratie/SOP_Voorraadbeheer.md` + `07_Voorraad/Voorraadcontrole_register.md` | ✅ klaar |
+| 2 | **Directiebeoordeling 2026** | `05_Management/Directiebeoordeling_2026.md` | 🔵 jouw cijfers nodig |
+| 3 | **Doelstellingen 2026** | `01_Beleid/Kwaliteitsdoelstellingen.md` | ⬜ |
+| 4 | **Interne audit 2026** | `05_Management/Interne_audit_2026.md` | ⬜ |
+| 5 | **Verbeterregister + 7 punten** | `03_Registraties/Verbeterregister.md` | ⬜ |
+| 6 | **SOP's actueel** | `02_Procedures/` (Behandelingen · Risicobeheer · Administratie) | ⬜ |
+| 7 | **Apparatuur + klachten** | `03_Registraties/` (twee nieuwe overzichten) | ⬜ |
+| 8 | **6 antwoorden auditor** | `06_DEKRA_Audit/` | ⬜ |
+| 9 | **Eindcheck** | hele repo + Word-exports | ⬜ |
 
 **Werkwijze: één fase per keer. Ik rond een fase af, jij keurt goed, pas dan begin ik aan de volgende. Geen vooruitlopen.**
 
