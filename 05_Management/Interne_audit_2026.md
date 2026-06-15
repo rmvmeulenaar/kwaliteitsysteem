@@ -1,86 +1,78 @@
 # Interne audit 2026 — PVI Clinic B.V.
 
-- **Auditdatum:** _[de dag dat jullie dit samen doorlopen]_
-- **Auditor:** R. Meulenaar (directeur). Bij een micro-organisatie is zelf-auditeren met een gestructureerde checklist geaccepteerd; we benoemen de beperkte onafhankelijkheid in het verslag.
+- **Auditdatum:** _[de dag dat jullie dit samen doorlopen]_ · **Auditor:** R. Meulenaar (directeur)
+- Bij een micro-organisatie (±2,5 FTE) is zelf-auditeren met gestructureerde checklist geaccepteerd; de beperkte onafhankelijkheid is hieronder benoemd.
 - **Norm:** NEN-EN-ISO 9001:2015 · **Scope:** ambulante cosmetische behandelingen, niet-chirurgisch
-- **Methode:** documentbeoordeling + fysieke rondgang + registratiecontrole, per proces uit de DEKRA-procesmatrix
-- **Team:** Rogier (directeur/arts) · Moumen (doktersassistent) · Romy (partner, bestellingen/administratie)
+- **Methode:** documentbeoordeling + fysieke rondgang + registratiecontrole · **Team:** Rogier (directeur/arts), Moumen (doktersassistent), Romy (partner — bestellingen/administratie)
 
-> **Werkwijze:** loop de 7 blokken één voor één door. Per vraag een eerlijk antwoord: **goed / afwijking / verbeterpunt**, met bewijs. Een afwijking die je zelf vindt + corrigeert is GOED — dat bewijst dat het systeem werkt.
-
----
-
-## BLOK 1 — Beleidcyclus / Risico's / Kansen (§4–6) · *beantwoordt: Rogier*
-- 1.1 Is het kwaliteitsbeleid actueel en passend bij de huidige organisatie?
-- 1.2 Zijn de doelstellingen 2025 geëvalueerd en zijn er doelstellingen 2026?
-- 1.3 Is er een actueel risicoregister?
-- 1.4 Is de stakeholderanalyse actueel? Wijzigingen in locaties/team/diensten?
-
-**Bevindingen:**
-- **A1** (afwijking §4.1/§5.2): kwaliteitsbeleid (feb 2025) sluit niet meer volledig aan bij de huidige organisatie → actualiseren. Check of verbreed dienstenaanbod (TRT, gewichtsverlies, bio-identieke hormonen) binnen de certificaatscope valt en of dit aan DEKRA gemeld moet worden.
-- **A2** (afwijking §6.1): geen actueel risicoregister (laatste 2020) → risicoregister 2026 opstellen, eigenaar directeur.
-- **V1:** doelstellingen 2026 zijn geformuleerd in de directiebeoordeling 2026 ✅
-
-## BLOK 2 — Gedocumenteerde informatie (§7.5) · *beantwoordt: Rogier*
-- 2.1 Zijn de SOP's actueel en vindbaar? (nu geborgd via de repo + wegwijzer ✅)
-- 2.2 Weet het team waar de documenten staan en gebruikt het ze?
-- 2.3 Versiebeheer: staat versie/datum/eigenaar op de documenten?
-- 2.4 "SOP laserbehandeling" was een ChatGPT-transcript zonder SOP-structuur — vervangen of schrappen?
-
-**Bevindingen:** _[in te vullen]_
-
-## BLOK 3 — Directiebeoordeling & verbeterprocessen (§9.3, §10) · *beantwoordt: Rogier*
-- 3.1 Directiebeoordeling 2026 uitgevoerd? ✅ (zie [Directiebeoordeling 2026](Directiebeoordeling_2026.md))
-- 3.2 Verbeterregister: wordt het gebruikt? Staan er acties in van na feb 2025?
-- 3.3 Is er een vast moment waarop verbeteracties in het team besproken worden?
-- 3.4 Status van de 7 verbetermogelijkheden uit DEKRA-rapport 55640-1 (per stuk: opgepakt ja/nee/deels)
-
-**Bevindingen:** _[in te vullen]_
-
-## BLOK 4 — Primair proces: cosmetische behandelingen (§8) · *beantwoordt: Rogier + Moumen*
-- 4.1 Intake → consult → informed consent → behandeling → nazorg: verloopt het volgens SOP? (steekproef 3 dossiers in Clinicminds)
-- 4.2 Is de dossiervorming compleet? (anamnese, consent, behandelverslag, foto's, nazorg)
-- 4.3 Klachten/complicaties: geregistreerd en in één overzicht? (verbeterpunt DEKRA)
-- 4.4 Gebeurt nabellen/nazorg en wordt het vastgelegd?
-
-**Bevindingen:** _[in te vullen]_
-
-## BLOK 5 — Logistiek en voorraad (§8.5.4) — KERNBLOK (open tekortkoming) · *beantwoordt: Romy + Moumen + Rogier*
-- 5.1 Fysieke controle NU op alle locaties: verlopen producten? AANTAL: _[__]_
-- 5.2 Vervaldatumregistratie / voorraadregister actueel?
-- 5.3 FIFO zichtbaar toegepast?
-- 5.4 Maandcontroles sinds aug 2025: welke zijn echt gedaan? (eerlijk)
-- 5.5 Koelkast-temperatuurregistratie doorlopen?
-- 5.6 Enschede/Sittard: hoe is de meegenomen voorraad geborgd?
-
-**Bevindingen:**
-- Fysieke vervaldatumcontrole alle locaties (12-06-2026): **0 verlopen producten** — de maatregelen uit 2025 (kleine voorraad, FIFO) blijken effectief ✅
-- **A3** (afwijking §8.5.4-borging): periodieke registratie was na juli 2025 niet consequent vastgelegd. Correctie: register hervat per 12-06-2026, kwartaalschema ingericht (zie [Voorraadcontrole-register](../07_Voorraad/Voorraadcontrole_register.md) + [SOP Voorraadbeheer](../02_Procedures/Administratie/SOP_Voorraadbeheer.md)). Oorzaak = dezelfde als 2025 (taak zonder back-up) → opgelost via systeem-borging i.p.v. afhankelijkheid van een persoon.
-
-## BLOK 6 — Personeel & competentie (§7.1.2, §7.2) · *beantwoordt: Rogier*
-- 6.1 Actueel team + dienstverband + FTE? (Rogier directeur/arts; Moumen enige werknemer; Romy parttime ondersteuning)
-- 6.2 BIG-registratie arts en GAIA-accreditatie actueel?
-- 6.3 Scholing/bekwaamheid vastgelegd?
-- 6.4 Zijn taken/verantwoordelijkheden helder verdeeld?
-
-**Bevindingen:** _[in te vullen]_
-
-## BLOK 7 — Facilitair & apparatuur (§7.1.3–7.1.4) · *beantwoordt: Rogier + Moumen*
-- 7.1 Apparatuuroverzicht met onderhoudseisen + deadlines? (verbeterpunt DEKRA — nog te maken)
-- 7.2 Onderhoud uitgevoerd (Fotona-laser, Vectra, koelkast, sterilisator) — bewijs?
-- 7.3 Sterilisator: in gebruik? Zo ja, gebruikstermijnen geregeld? Zo nee, vastleggen dat 'ie niet in gebruik is.
-- 7.4 Hygiëne/schoonmaak per locatie geregeld?
-- 7.5 ARBO/RI&E passend bij de omvang? (verbeterpunt DEKRA)
-
-**Bevindingen:** _[in te vullen]_
+> **Rode draad in de bevindingen:** de praktijk borgt processen bewust in het **systeem (AI/digitaal) en bij de directeur** in plaats van in losse teamafspraken — passend bij de kleine omvang, en een directe correctie op de hoofdoorzaak van eerdere tekortkomingen ("taken die van mensen afhingen en niet gebeurden").
 
 ---
 
-## Samenvatting (na afloop invullen)
-- **Afwijkingen:** A1 (beleid), A2 (risicoregister), A3 (voorraadregistratie) — _aanvullen_
-- **Verbeterpunten:** _V1…_
-- **Corrigerende acties + eigenaar + deadline:** _tabel_
-- **Conclusie:** werkt het systeem? Waar wel/niet?
+## BLOK 1 — Beleidcyclus / Risico's / Kansen (§4–6)
+**Bevindingen:**
+- **A1** (§4.1/§5.2): kwaliteitsbeleid (feb 2025) niet meer volledig actueel → actualiseren; check of verbreed dienstenaanbod (TRT, gewichtsverlies, bio-identieke hormonen) binnen de certificaatscope valt en aan DEKRA gemeld moet worden.
+- **A2** (§6.1): geen actueel risicoregister (laatste 2020) → risicoregister 2026 opstellen.
+- **V1:** doelstellingen 2026 vastgelegd in de directiebeoordeling ✅
+
+## BLOK 2 — Gedocumenteerde informatie (§7.5)
+**Bevindingen:**
+- **Vindbaarheid: opgelost** ✅ — alle documenten staan in de centrale repo met een wegwijzer (één klik per document); het team vindt ze via die ingang.
+- **Versiebeheer: geregeld** ✅ — beheerd via Git (elke wijziging traceerbaar met datum/auteur); levende documenten dragen versie/datum (zie bv. SOP Voorraadbeheer v1.1). Vastgelegd als werkwijze: markdown = bron, Git = versiehistorie.
+- **Aandachtspunt:** een oude "SOP laserbehandeling" was een ChatGPT-transcript zonder SOP-structuur → te schrappen/vervangen. Actualiteit van de overige SOP's wordt door de directeur (met AI-ondersteuning) nagelopen.
+
+## BLOK 3 — Directiebeoordeling & verbeterprocessen (§9.3, §10)
+**Bevindingen:**
+- Directiebeoordeling 2026 uitgevoerd ✅
+- **A4** (§10.3): het verbeterregister werd niet structureel gebruikt en er is geen vast teammoment. **Corrigerende maatregel:** het verbeter-/klachtenproces wordt geborgd in het digitale systeem (AI-beheerd register), met dagelijks kort overleg directeur–Moumen en een jaarlijkse systematische review bij de interne audit. Dit past bij de omvang en heft de oorzaak (afhankelijkheid van losse personen) op.
+- **Status 7 verbetermogelijkheden DEKRA 55640-1:** (1) lijstgebruik → via systeem/AI, jaarlijks bij audit nagelopen · (2) klachtenoverzicht → klachten/complicaties geregistreerd in Clinicminds ✅, overzicht eruit te halen · (3) vast verbetermoment → dagelijks overleg + systeemborging · (4) takenlijst/kalender → ✅ in repo · (5) ARBO → plan in opstelling · (6) apparatuuroverzicht → te maken · (7) sterilisator-termijnen → geregeld ✅
+
+## BLOK 4 — Primair proces: cosmetische behandelingen (§8)
+**Bevindingen — sterk blok, geen afwijkingen:**
+- Intake → consult → informed consent → behandeling → nazorg verloopt **volgens SOP** ✅
+- Dossiervorming compleet (anamnese, consent, verslag, foto's) **volgens SOP** ✅
+- Klachten/complicaties worden geregistreerd in **Clinicminds** ✅
+- Nabellen/nazorg wordt vastgelegd (uitgevoerd door Moumen) ✅
+
+## BLOK 5 — Logistiek en voorraad (§8.5.4) — KERNBLOK (open tekortkoming)
+**Bevindingen:**
+- Fysieke vervaldatumcontrole alle locaties (12-06-2026): **0 verlopen producten** ✅ — maatregelen 2025 (kleine voorraad, FIFO) effectief.
+- **A3** (§8.5.4-borging): periodieke registratie was na juli 2025 niet consequent vastgelegd → hervat per 12-06-2026, kwartaalschema ingericht (zie [register](../07_Voorraad/Voorraadcontrole_register.md) + [SOP](../02_Procedures/Administratie/SOP_Voorraadbeheer.md)). Oorzaak structureel opgelost via systeemborging.
+
+## BLOK 6 — Personeel & competentie (§7.1.2, §7.2)
+**Bevindingen:**
+- Team: Rogier (directeur/arts), Moumen (enige werknemer), Romy (partner, parttime). BIG-registratie + GAIA-accreditatie **actueel** ✅
+- Scholing/bekwaamheid aanwezig; bewijs = BIG + GAIA (arts) + functiebeschrijving Moumen.
+- **V2** (§7.2): geen compact bekwaamheids-/nascholingsoverzicht per medewerker → opstellen.
+- **V3** (§5.3): taken/verantwoordelijkheden zijn deels verdeeld ("een beetje") → helder vastleggen wie-wat-doet (incl. Romy's rol bestellingen/administratie).
+
+## BLOK 7 — Facilitair & apparatuur (§7.1.3–7.1.4)
+**Bevindingen:**
+- Sterilisator: in gebruik en termijnen geregeld ✅ (controle door Moumen)
+- Hygiëne/schoonmaak: wekelijks uitgevoerd ✅
+- Fotona-laser: onderhoud geregeld ✅
+- **A5** (§7.1.4): geen apparatuuroverzicht met onderhoudseisen/deadlines, en onderhoudsbewijs Vectra + koelkast ontbreekt → overzicht maken + bewijs verzamelen.
+- **A6** (ARBO): geen actuele RI&E passend bij de omvang → lichte RI&E/ARBO-notitie opstellen.
+
+---
+
+## Samenvatting
+
+**Afwijkingen (corrigeren):**
+| # | Afwijking | Corrigerende actie | Eigenaar |
+|---|---|---|---|
+| A1 | Kwaliteitsbeleid niet actueel | Beleid actualiseren + scope-check DEKRA | Rogier |
+| A2 | Geen actueel risicoregister | Risicoregister 2026 opstellen | Rogier |
+| A3 | Voorraadregistratie onderbroken | Hervat + kwartaalschema ✅ (loopt) | Rogier/Romy |
+| A4 | Verbeterregister niet gebruikt | AI-beheerd verbeter-/klachtenregister | Rogier + systeem |
+| A5 | Geen apparatuuroverzicht/onderhoudsbewijs | Overzicht maken + bewijs Vectra/koelkast | Rogier/Moumen |
+| A6 | ARBO/RI&E niet passend | Lichte RI&E opstellen | Rogier |
+
+**Verbeterpunten:** V1 doelstellingen ✅ · V2 bekwaamheidsoverzicht · V3 taken helder verdelen
+
+**Conclusie:** Het primaire proces (behandelingen, dossiers, nazorg) en de voorraadbeheersing functioneren goed. De openstaande punten betreffen vooral *vastlegging/borging* (risicoregister, apparatuur, ARBO) — die worden geborgd in het digitale systeem i.p.v. in losse afspraken. Het kwaliteitsmanagementsysteem is daarmee geschikt en, met de corrigerende acties, doeltreffend.
+
+**Onafhankelijkheid:** auditor = directeur (micro-organisatie); deels gecompenseerd door objectieve systeemdata (Clinicminds, registers) en het feit dat afwijkingen actief zijn opgezocht en benoemd.
 
 ## Koppeling externe audit
-Elke afwijking die je hier zelf vindt + corrigeert is op de auditdag een plus, geen min. Dit verslag gaat **niet** vooraf naar DEKRA (alleen de management review + doelstellingen), maar ligt klaar bij het agendapunt "Verbeterproces, directiebeoordeling".
+Dit verslag ligt klaar bij het agendapunt "Verbeterproces, directiebeoordeling". De afwijkingen + corrigerende acties staan ook in de [actielijst](../03_Registraties/Actielijst.md).

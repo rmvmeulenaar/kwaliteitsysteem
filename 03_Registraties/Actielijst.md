@@ -9,13 +9,21 @@
 - ⬜ Nagaan: certificaat staat op **PVI Clinic B.V.**, boekhouding op **Albatros Health Services B.V.** — klopt de entiteit/naam voor de audit?
 
 ## 📋 Audit-voorbereiding (zie [auditplan](../00_AUDIT_2026_PLAN.md))
-- 🔵 Directiebeoordeling 2026 — KPI's + klanttevredenheid ingevuld; mist nog winst + personeelsverloop
-- ⬜ Doelstellingen/jaarplan 2026 vaststellen
-- ⬜ Interne audit 2026 uitvoeren + vastleggen
-- ⬜ Verbeterregister bijwerken met de 7 verbetermogelijkheden uit S1
-- ⬜ Apparatuur-onderhoudsoverzicht maken (verbeterpunt #6)
-- ⬜ Centraal klachtenoverzicht maken (verbeterpunt #2)
-- ⬜ De 6 auditor-vragen beantwoorden
+- ✅ Directiebeoordeling 2026 (cijfers compleet)
+- ✅ Interne audit 2026 uitgevoerd + vastgelegd
+- ✅ Doelstellingen 2026 vastgesteld
+
+### Corrigerende acties uit de interne audit
+- ⬜ **A1** Kwaliteitsbeleid actualiseren + scope-check DEKRA (TRT / gewichtsverlies / hormonen)
+- ⬜ **A2** Risicoregister 2026 opstellen
+- 🔵 **A3** Voorraadregistratie — hervat, kwartaalschema loopt
+- ⬜ **A4** AI-beheerd verbeter-/klachtenregister opzetten
+- ⬜ **A5** Apparatuuroverzicht + onderhoudsbewijs (Vectra, koelkast)
+- ⬜ **A6** Lichte RI&E / ARBO-notitie opstellen
+- ⬜ **V2** Bekwaamheids-/nascholingsoverzicht per medewerker
+- ⬜ **V3** Taken/verantwoordelijkheden helder vastleggen (incl. Romy)
+- ⬜ Oude "SOP laserbehandeling" (ChatGPT-transcript) schrappen
+- ⬜ De 6 auditor-vragen definitief beantwoorden
 
 ## ⚙️ Systeem / operationeel
 - ✅ Clinicminds-API gekoppeld (KPI's live)
