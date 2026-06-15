@@ -43,7 +43,7 @@
 | 5 | **Verbeterregister + 7 punten** | `03_Registraties/Verbeterregister.md` | ✅ klaar |
 | 6 | **SOP's actueel** | `02_Procedures/` (Behandelingen · Risicobeheer · Administratie) | 🔵 V4: afstemmen op wetenschap/Radiance loopt |
 | 7 | **Apparatuur + klachten** | `03_Registraties/Apparatuuroverzicht.md` + `Verbeterregister.md` | 🔵 onderhoudsbewijs/leveranciers (A5) |
-| 8 | **6 antwoorden auditor** | `06_DEKRA_Audit/Auditvragen_antwoorden_2026.md` + PDF-bijlagen | ✅ verzendklaar |
+| 8 | **6 antwoorden auditor** | `06_DEKRA_Audit/Auditvragen_antwoorden_2026.md` + PDF-bijlagen | ✅ **verzonden aan auditor 15-06-2026** |
 | 9 | **Eindcheck** | hele repo (document-doorloop + AVG-opschoning jun 2026) | 🔵 loopt |
 
 **Werkwijze: per hefboom prioriteren (impact × moeite); afgeronde fasen worden vastgelegd en gecommit.**
