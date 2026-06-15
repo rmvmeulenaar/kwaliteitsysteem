@@ -23,14 +23,4 @@
 | NVCG | Stellen veldnormen op van hoe de behandelingen uitgevoerd worden | Implementeren veldnorm | | |
 | SOCG | | | | |
 
-## Tabel 2 — Stakeholders (tweede tabblad, generiek)
-
-| Stakeholder §4.2 | Eisen en verwachtingen §4.2 | Borgen §4.2 | Monitoring procesprestatie §4.2 |
-|---|---|---|---|
-| Opdrachtgever | Functionele eisen; Technische omschrijving; Bestek; Lage onderhoudskosten | | |
-| Bouwplaatspersoneel | Probleemloos gebruik; Snelle service | | |
-| Overheid | Arbowet inzake: bediening van hijskranen; keuring kranen; keuring hijsgereedschappen | | |
-| Leveranciers | Stellen geen eisen aan de kwaliteit van onze activiteiten | | |
-| Bemande kranen | Kraanverhuurder in bezit VCA | | |
-| Verzekeraar | Bedrijfsaansprakelijkheidsverzekering stelt geen eisen | | |
-| Omwonenden van bouwplaatsen | Restricties aan werktijden; eisen t.a.v. verkeersveiligheid en overlast | Maatregelen staan aangegeven in de V&G plannen en/of opdracht | |
+*Noot: een tweede tabblad uit het bron-spreadsheet bevatte een generiek voorbeeld uit een ander (bouw)sector-template en is verwijderd — niet van toepassing op PVI Clinic.*

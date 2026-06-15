@@ -12,7 +12,8 @@
 - ✅ Fases 1–3 af: voorraad §8.5.4 · directiebeoordeling 2026 · interne audit 2026 · risicoregister 2026
 - ✅ Operationele laag draait: Clinicminds live · klanttevredenheidsmeting (kwartaal, dry-run) · weekstart-cron
 - ✅ Cockpit + wegwijzer + afvink-issue
-- ⬜ Open corrigerende acties: A1 beleid · A4 verbeter-/klachtenregister · A5 apparatuurbewijs · A6 RI&E · A7 nascholing · scope-check
+- ✅ A1 beleid · A2 risicoregister · A4 verbeter-/klachtenregister · interne scope-check (R10, besluit hieronder)
+- 🔵 In uitvoering (fysieke uitvoering Rogier): A3 voorraadcontrole · A5 apparatuurbewijs · A6 RI&E-maatregelen bevestigen · A7 nascholing (GAIA)
 
 **Act (besluiten/bijsturen):**
 - Werkwijze vastgesteld: PDCA via inlog-sessies. **Per ronde prioriteren op hefboom (impact × moeite)** — de grootste hefboom eerst, geen mechanische afvinklijst.
@@ -21,7 +22,7 @@
 **Hefbomen nu (slimste eerst):**
 | Hefboom | Impact | Moeite | Wie |
 |---|---|---|---|
-| Scope-check met DEKRA afstemmen | hoog | laag | Rogier |
+| Interne scope-check (R10) — besloten: buiten certificaat houden | hoog | laag | Rogier ✅ |
 | A4 verbeter-/klachtenregister automatiseren (Clinicminds) | midden-hoog | midden | Claude |
 | Tevredenheidsmailing live zetten | midden | laag | Rogier |
 | A6 RI&E-notitie | midden | laag | Claude |
@@ -37,4 +38,4 @@
 1. Ze blijven **buiten** het ISO-certificaat (toegestaan, mits je niet claimt dat ze ISO-gecertificeerd zijn).
 2. De **scope wordt verbreed** en aan DEKRA gemeld.
 
-**Advies (directie-besluit):** neem **vóór de audit proactief contact op met de lead auditor (M. Smit, DEKRA)** en stem af of de scope aangepast moet worden. Proactief afstemmen voorkomt een verrassing op de auditdag en laat zien dat je de scope serieus beheert. → *Besluit Rogier: _[in te vullen]_*
+**Besluit directie (Rogier, jun 2026):** de scope wordt **intern beheerd** (risico R10) — er wordt **niet proactief** contact opgenomen met DEKRA hierover. De medische/endocriene diensten (TRT, GLP-1, BHT) blijven vooralsnog **buiten** het ISO-certificaat (optie 1); ze worden niet als ISO-gecertificeerd geclaimd. Komt het op de auditdag ter sprake, dan lichten we het transparant toe. Verbreding van de scope is een latere, aparte afweging.

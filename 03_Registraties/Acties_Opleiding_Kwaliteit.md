@@ -5,9 +5,9 @@
 
 ## Inhoud
 
-| Onderwerp | Functie | Certificaat | Vervaldatum | Training nodig | Status | E-mail |
-|---|---|---|---|---|---|---|
-| Rogier Meulenaar | arts | Cosmetisch arts KNMG | 15-03-2029 | #ERROR! | #ERROR! |  |
-| Moumen Al Hassaadon | doktersassistent | aan het behalen |  |  |  |  |
-| Dekra Audit | PVI | dekra audit (09:00-13:00) | 03-02-2026 |  |  |  |
-| Interne audit | PVI | interne audit | 01-01-2026 |  |  |  |
+| Onderwerp | Functie | Certificaat | Vervaldatum | Training nodig | Status |
+|---|---|---|---|---|---|
+| Rogier Meulenaar | arts | Cosmetisch arts KNMG (BIG) | 15-03-2029 | GAIA-nascholing (zie [Nascholingsplan](../04_Personeel/Nascholingsplan.md)) | actueel, nascholing loopt |
+| Moumen Al Saadon | doktersassistent | opleiding doktersassistent | aan het behalen | diploma afronden | in opleiding |
+| Dekra-audit | PVI | externe certificeringsaudit | 03-02-2026 (datum bevestigen) | — | gepland |
+| Interne audit | PVI | interne audit §9.2 | volgende: 2027 | — | uitgevoerd jun 2026 ✅ |

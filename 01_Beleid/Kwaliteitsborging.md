@@ -100,7 +100,7 @@ Opgesteld door: Rogier Meulenaar
 
 Goedgekeurd door: Romy Bosvelt
 
-Goedkeuringsdatum: [19-01-2024]
+Goedkeuringsdatum: 19-01-2024
 
 Pagina 1 van X VERSIEBEHEER
 
@@ -108,4 +108,4 @@ Versie | Datum | Wijzigingen | Verantwoordelijke
 
  ----------------------------------------------------------
 
-1.0 | 23-02-2025 | Eerste uitgave | [Rogier Meulenaar]
+1.0 | 23-02-2025 | Eerste uitgave | Rogier Meulenaar

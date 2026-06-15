@@ -15,7 +15,7 @@
 | R7 | **Sleutelpersoon-risico: alles hangt op één arts/directeur** | 3 | 3 | **9** | Taken delen + documentatie + AI/systeemborging (dit systeem) | structureel aandachtspunt |
 | R8 | Apparatuur niet onderhouden → uitval/onveilig | 2 | 2 | 4 | Apparatuuroverzicht + onderhoudsschema | opgesteld, deels te regelen |
 | R9 | Koelketen-falen medicatiekoelkast | 1 | 3 | 3 | Dagelijkse temperatuurregistratie | bewijs ordenen |
-| R10 | Diensten buiten certificaatscope (TRT, GLP-1, BHT) zonder melding | 2 | 2 | 4 | Scope-check, zo nodig melden aan DEKRA | **nu beoordelen** |
+| R10 | Diensten buiten certificaatscope (TRT, GLP-1, BHT) | 2 | 2 | 4 | Intern beoordeeld: buiten certificaat gehouden, niet als ISO-gecertificeerd geclaimd; geen proactieve DEKRA-melding | beoordeeld jun 2026 |
 | R11 | Verlies toegang systemen (Clinicminds, repo, Drive) | 1 | 2 | 2 | Wachtwoordbeheer, back-ups, leverancierafspraken | laag |
 | R12 | Financieel: cashflow/verlies raakt kwaliteit | 2 | 2 | 4 | Betaalkalender vaste verplichtingen; groei + kostenbesparing (zie doelstellingen) | aandacht (verlies 2024) |
 
@@ -24,4 +24,4 @@
 - **R1 & R3 (score 6):** herhalingsrisico van de twee eerdere tekortkomingen; beheerst via vaste cyclus + systeemsignalering.
 
 ## Besluit directie
-Vastgesteld op _[datum]_ · volgende herziening: jaarlijks bij de directiebeoordeling.
+Vastgesteld op 15-06-2026 · volgende herziening: jaarlijks bij de directiebeoordeling.

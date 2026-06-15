@@ -15,12 +15,12 @@
 ## Verbeteracties
 | # | Verbeteractie | Bron | Status | Eigenaar |
 |---|---|---|---|---|
-| A1 | Kwaliteitsbeleid actualiseren + scope-check DEKRA | interne audit | ⬜ | Rogier |
-| A2 | Risicoregister 2026 | interne audit | ✅ | Claude |
+| A1 | Kwaliteitsbeleid + PVI/Radiance-methode geactualiseerd (interne scope-check, zie R10) | interne audit | ✅ | Rogier |
+| A2 | Risicoregister 2026 | interne audit | ✅ | Rogier (AI-ondersteund) |
 | A3 | Voorraadregistratie hervat (kwartaalcontrole) | §8.5.4 | 🔵 | Rogier/Romy |
-| A4 | Dit verbeter-/klachtenregister (AI-beheerd) | verbeterpunt 1–3 | ✅ | Claude |
+| A4 | Dit verbeter-/klachtenregister (AI-beheerd) | verbeterpunt 1–3 | ✅ | Rogier (AI-ondersteund) |
 | A5 | Apparatuuroverzicht + onderhoudsbewijs | interne audit | 🔵 | Rogier/Moumen |
-| A6 | Lichte RI&E / ARBO | interne audit | ⬜ | Claude |
+| A6 | Lichte RI&E / ARBO | interne audit | 🔵 | Rogier (AI-ondersteund) |
 | A7 | Nascholingsplan 2024–2029 (GAIA) | interne audit | 🔵 | Rogier |
 | — | Dossier-sjablonen (uit oud register feb 2025) | 2025 | ✅ via Clinicminds | Rogier |
 

@@ -26,7 +26,7 @@ Bron = markdown (versiebeheerd). Word/PDF = export voor de auditor.
 | Verbeterproces + directiebeoordeling | [Directiebeoordeling 2026](05_Management/Directiebeoordeling_2026.md) · [Verbeter-/klachtenregister](03_Registraties/Verbeterregister.md) · [Interne audit 2026](05_Management/Interne_audit_2026.md) |
 | Behandelingen (P.P.) | [02_Procedures/Behandelingen](02_Procedures/Behandelingen) · [Dossiervoering](02_Procedures/Administratie/SOP_Medische_dossiervoering.md) |
 | Logistiek en voorraad | [SOP Voorraadbeheer](02_Procedures/Administratie/SOP_Voorraadbeheer.md) · [Register](07_Voorraad/Voorraadcontrole_register.md) · [Lijst injectables](07_Voorraad/Lijst_injectables.md) |
-| Onderhoud apparatuur en ruimte | _apparatuuroverzicht — fase 7, in opbouw_ |
+| Onderhoud apparatuur en ruimte | [Apparatuuroverzicht & onderhoud](03_Registraties/Apparatuuroverzicht.md) |
 
 ---
 
@@ -38,7 +38,7 @@ Bron = markdown (versiebeheerd). Word/PDF = export voor de auditor.
 - [Organisatiestructuur](01_Beleid/Organisatiestructuur.md) · [Proces-integratie](01_Beleid/Proces_integratie.md) · [Systeem-mapping](01_Beleid/Systeem_mapping.md)
 - [Regelgeving privéklinieken](01_Beleid/Regelgeving_kleine_priveklinieken.md) · [Personeelshandboek](01_Beleid/Personeelshandboek.md)
 - [Verbeterproces digitale systemen](01_Beleid/Verbeterproces_digitale_systemen.md) · [Registratieformulieren kwaliteitsverbetering](01_Beleid/Registratieformulieren_kwaliteitsverbetering.md)
-- [PVI-methode](01_Beleid/PVI_methode_actueel.md) — ⚠️ leeg, nog aan te vullen
+- [Praktijkmethode (Radiance/PVI)](01_Beleid/PVI_methode_actueel.md) — geactualiseerd
 
 ### 02_Procedures — SOP's
 **Behandelingen:** [Patiëntenintake](02_Procedures/Behandelingen/SOP_Patientenintake.md) · [Fillers/Botox](02_Procedures/Behandelingen/SOP_Fillers_Botox.md) · [Bio-identieke hormonen](02_Procedures/Behandelingen/SOP_Bioidentieke_hormonen.md) · [TRT](02_Procedures/Behandelingen/SOP_TRT.md) · [Fotona laser](02_Procedures/Behandelingen/SOP_Fotona_laser.md) · [Seffiller](02_Procedures/Behandelingen/SOP_Seffiller.md) · [Gewichtsverlies](02_Procedures/Behandelingen/SOP_Gewichtsverlies.md) · [Dermatologische ingrepen](02_Procedures/Behandelingen/SOP_Dermatologische_ingrepen.md)

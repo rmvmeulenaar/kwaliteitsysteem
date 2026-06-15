@@ -37,16 +37,16 @@
 | # | Fase | Waar het komt te staan | Status |
 |---|---|---|---|
 | 1 | **Fundament + voorraad §8.5.4** | `02_Procedures/Administratie/SOP_Voorraadbeheer.md` + `07_Voorraad/Voorraadcontrole_register.md` | ✅ klaar |
-| 2 | **Directiebeoordeling 2026** | `05_Management/Directiebeoordeling_2026.md` | 🔵 jouw cijfers nodig |
-| 3 | **Doelstellingen 2026** | `01_Beleid/Kwaliteitsdoelstellingen.md` | ⬜ |
-| 4 | **Interne audit 2026** | `05_Management/Interne_audit_2026.md` | ⬜ |
-| 5 | **Verbeterregister + 7 punten** | `03_Registraties/Verbeterregister.md` | ⬜ |
-| 6 | **SOP's actueel** | `02_Procedures/` (Behandelingen · Risicobeheer · Administratie) | ⬜ |
-| 7 | **Apparatuur + klachten** | `03_Registraties/` (twee nieuwe overzichten) | ⬜ |
-| 8 | **6 antwoorden auditor** | `06_DEKRA_Audit/` | ⬜ |
-| 9 | **Eindcheck** | hele repo + Word-exports | ⬜ |
+| 2 | **Directiebeoordeling 2026** | `05_Management/Directiebeoordeling_2026.md` | ✅ klaar (ROGIER-velden ingevuld) |
+| 3 | **Doelstellingen 2026** | `Directiebeoordeling_2026.md §9` · `01_Beleid/Kwaliteitsdoelstellingen.md` | ✅ klaar |
+| 4 | **Interne audit 2026** | `05_Management/Interne_audit_2026.md` | ✅ klaar |
+| 5 | **Verbeterregister + 7 punten** | `03_Registraties/Verbeterregister.md` | ✅ klaar |
+| 6 | **SOP's actueel** | `02_Procedures/` (Behandelingen · Risicobeheer · Administratie) | 🔵 V4: afstemmen op wetenschap/Radiance loopt |
+| 7 | **Apparatuur + klachten** | `03_Registraties/Apparatuuroverzicht.md` + `Verbeterregister.md` | 🔵 onderhoudsbewijs/leveranciers (A5) |
+| 8 | **6 antwoorden auditor** | `06_DEKRA_Audit/Auditvragen_antwoorden_2026.md` + PDF-bijlagen | ✅ verzendklaar |
+| 9 | **Eindcheck** | hele repo (document-doorloop + AVG-opschoning jun 2026) | 🔵 loopt |
 
-**Werkwijze: één fase per keer. Ik rond een fase af, jij keurt goed, pas dan begin ik aan de volgende. Geen vooruitlopen.**
+**Werkwijze: per hefboom prioriteren (impact × moeite); afgeronde fasen worden vastgelegd en gecommit.**
 
 ---
 
@@ -60,30 +60,32 @@ Maar de beoordeelde SOP heet "v1.0" met **3-maandelijkse** checklist, en de loss
 
 ## De 6 auditor-vragen (vooraf aanleveren)
 
-1. **Grote wijzigingen** afgelopen jaar (markt, regelgeving, organisatie, locaties, processen, scope)? → _in te vullen_
-2. **Calamiteiten / formele klachten / inspectiebezoek** (IGJ) afgelopen jaar? → _bij S1: geen — bevestigen voor 2025/26_
-3. **FTE klopt = 2,5?** (artsen, doktersassistenten, manager, schoonmaak indien in dienst, administratie) → _bevestigen_
-4. **Verbetermogelijkheden vorig rapport** opgepakt? → zie 7-puntenlijst
-5. **Implementatie verbetermaatregelen §8.5.4** → Fase 3
-6. **Management review + jaarplan/doelstellingen 2026** → Fase 2
+> ✅ **Alle zes beantwoord en verzendklaar** in [`06_DEKRA_Audit/Auditvragen_antwoorden_2026.md`](06_DEKRA_Audit/Auditvragen_antwoorden_2026.md) (+ PDF-bijlagen). Samengevat:
+
+1. **Grote wijzigingen** afgelopen jaar? → geen structurele; wel digitalisering kwaliteitssysteem + Radiance-positionering.
+2. **Calamiteiten / formele klachten / inspectiebezoek** (IGJ)? → alle drie: geen.
+3. **FTE = 2,5?** → bevestigd (arts/directeur + doktersassistent + parttime administratie; schoonmaak extern).
+4. **Verbetermogelijkheden vorig rapport** opgepakt? → ja, zie 7-puntenlijst hieronder.
+5. **Implementatie §8.5.4** → kwartaalcontrole + FIFO + kleine voorraad; 0 verlopen producten.
+6. **Management review + doelstellingen 2026** → Directiebeoordeling 2026 (+ §9 doelstellingen).
 
 ---
 
 ## 7 verbetermogelijkheden uit S1 (24-02-2025)
 
-- [ ] 1. Gebruik van lijstjes (o.a. verbeterregister) **door medewerkers** activeren
-- [ ] 2. Klachten ook in een **overzicht** vastleggen (trend herkennen), niet alleen in dossier
-- [ ] 3. Verbeterregister: **vast teammoment** afspreken om verbeteracties te bekijken
-- [ ] 4. Periodieke taken in een **kalender/actielijst** opnemen
-- [ ] 5. **ARBO**-wetgeving opnieuw bezien voor de praktijkomvang
-- [ ] 6. **Apparatuuroverzicht** met periodieke controle-eisen + deadlines
-- [ ] 7. **Sterilisator**: bij ingebruikname rekening houden met bewaartermijnen instrumentarium
+- [x] 1. Gebruik van lijstjes (o.a. verbeterregister) **door medewerkers** — geborgd in het systeem (PDCA-ronde)
+- [x] 2. Klachten ook in een **overzicht** vastleggen (trend) — verbeter-/klachtenregister uit Clinicminds
+- [x] 3. Verbeterregister: **vast moment** — PDCA-cyclus + dagelijks overleg
+- [x] 4. Periodieke taken in een **kalender/actielijst** — actielijst + ritme
+- [ ] 5. **ARBO** opnieuw bezien — 🔵 lichte RI&E opgesteld; maatregelen fysiek bevestigen
+- [x] 6. **Apparatuuroverzicht** met controle-eisen — gemaakt; 🔵 onderhoudsbewijs/leveranciers deels
+- [x] 7. **Sterilisator**: bewaartermijnen — geregeld
 
 ---
 
 ## Eerlijk punt over bewijs
 
-Documenten, SOP's, reviews en antwoorden kan ik opstellen. Het **fysieke bewijs** voor §8.5.4 — dat de maandelijkse voorraadcontroles sinds aug 2025 écht zijn uitgevoerd, mét foto's/registratie — moet uit de praktijk komen. Is dat er → we ordenen het als sluitend bewijs. Is dat er niet → we kijken eerlijk wat wél aantoonbaar is en wat dat betekent voor het afsluiten van de tekortkoming.
+Documenten, SOP's, reviews en antwoorden kan ik opstellen. Het **bewijs** voor §8.5.4 — dat de voorraadcontroles daadwerkelijk lopen — komt uit de praktijk via het [voorraadcontrole-register](07_Voorraad/Voorraadcontrole_register.md). Eerlijk vastgelegd: de registratie was na juli 2025 stilgevallen en is per juni 2026 hervat. We documenteren naar waarheid wat er is; we verzinnen geen controles die niet zijn vastgelegd (ISO vraagt registratie, geen fotobewijs).
 
 ---
 

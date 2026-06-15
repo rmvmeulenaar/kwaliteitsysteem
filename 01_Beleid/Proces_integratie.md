@@ -84,7 +84,7 @@ Opgesteld door: Rogier Meulenaar
 
 Goedgekeurd door: Romy Bosvelt
 
-Goedkeuringsdatum: [22-02-2025]
+Goedkeuringsdatum: 22-02-2025
 
 Pagina 1 van X VERSIEBEHEER
 
@@ -92,4 +92,4 @@ Versie | Datum | Wijzigingen | Verantwoordelijke
 
  ----------------------------------------------------------
 
-1.0 | 02-02-2025 | Eerste uitgave | [Naam]
+1.0 | 02-02-2025 | Eerste uitgave | R. Meulenaar
