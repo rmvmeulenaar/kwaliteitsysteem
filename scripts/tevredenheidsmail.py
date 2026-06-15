@@ -60,10 +60,11 @@ def afzender(locatie):
         return "Praktijk voor Injectables", "praktijkvoorinjectables@radianceclinic.nl"
     return "Radiance Clinic", "info@radianceclinic.nl"
 
-def mail_html(naam, link):
+def mail_html(naam, link, behandeling=""):
     hi = f"Beste {naam}," if naam else "Beste cliënt,"
+    wat = f"voor je behandeling ({behandeling})" if behandeling else "voor een behandeling"
     return f"""<p>{hi}</p>
-<p>Je bent recent bij ons geweest voor een behandeling. We willen onze zorg continu verbeteren en horen graag hoe je je ervaring vond — het invullen duurt ongeveer 1 minuut.</p>
+<p>Je bent onlangs bij ons geweest {wat}. We willen onze zorg continu verbeteren en horen graag hoe je je ervaring vond — het invullen duurt ongeveer 1 minuut.</p>
 <p><a href="{link}">Klik hier om de korte vragenlijst in te vullen</a></p>
 <p>Hartelijk dank!<br>Met vriendelijke groet</p>
 <hr><p style="font-size:12px;color:#888">Geen tevredenheidsmails meer ontvangen? <a href="{UNSUB}">Afmelden</a>.</p>"""
@@ -85,9 +86,12 @@ def main():
 
     behandeld = rows(cm(f"treatments?date_from={d_from}&date_to={d_to}"))
     patienten = rows(cm(f"patients-with-treatment?date_from={d_from}&date_to={d_to}"))
-    locatie_van = {}
+    locatie_van, behandeling_van = {}, {}
     for t in behandeld:
-        locatie_van.setdefault(t.get("Patiëntnummer"), t.get("Locatie", ""))
+        pn = t.get("Patiëntnummer")
+        locatie_van.setdefault(pn, t.get("Locatie", ""))
+        b = (t.get("Behandeling") or "").strip()
+        if b: behandeling_van.setdefault(pn, []).append(b)
     al_gedaan = reeds_ingevuld()
 
     doelgroep = []
@@ -98,8 +102,11 @@ def main():
         if str(pid) in al_gedaan: overgeslagen_ingevuld += 1; continue
         sn, se = afzender(locatie_van.get(pid))
         link = f"{FORM_URL}?pid={urllib.parse.quote(str(pid))}"
+        beh = list(dict.fromkeys(behandeling_van.get(pid, [])))  # uniek, volgorde behouden
+        beh_tekst = " en ".join(beh[:2]) + (" e.a." if len(beh) > 2 else "")
         doelgroep.append({"pid": pid, "email": email, "naam": p.get("Voornaam", ""),
-                          "sender_name": sn, "sender_email": se, "html": mail_html(p.get("Voornaam", ""), link)})
+                          "sender_name": sn, "sender_email": se,
+                          "html": mail_html(p.get("Voornaam", ""), link, beh_tekst)})
 
     pvi = sum(1 for d in doelgroep if d["sender_email"].startswith("praktijkvoor"))
     print(f"  behandeld: {len(patienten)} | al ingevuld (overgeslagen): {overgeslagen_ingevuld} | "
