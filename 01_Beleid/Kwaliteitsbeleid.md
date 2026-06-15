@@ -317,8 +317,8 @@ Het gecombineerde VIM-formulier is beschikbaar op [locatie aangeven] en omvat se
 
 #### **Verantwoordelijkheden**
 
-  - Verwerkingsverantwoordelijke: [naam kliniek]
-  - Privacy Officer: [naam], contactgegevens: ______
+  - Verwerkingsverantwoordelijke: PVI Clinic B.V.
+  - Privacy-contactpersoon (AVG): R. Meulenaar (directeur), info@praktijkvoorinjectables.nl
   - Alle medewerkers zijn verantwoordelijk voor naleving privacyregels
 
 #### **Verwerking persoonsgegevens**
@@ -360,7 +360,7 @@ Het gecombineerde VIM-formulier is beschikbaar op [locatie aangeven] en omvat se
 
 3.  **Procedure rechten uitoefenen**
 
-      - Verzoek indienen via: [e-mailadres]
+      - Verzoek indienen via: info@praktijkvoorinjectables.nl
       - Reactietermijn: binnen 1 maand
       - Identificatie vereist
 
