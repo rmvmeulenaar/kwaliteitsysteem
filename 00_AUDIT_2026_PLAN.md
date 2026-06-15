@@ -6,6 +6,16 @@
 
 ---
 
+## Ontwerpprincipes
+
+1. **Markdown = bron, Word/PDF = export.** Eén bron-van-waarheid, versiebeheerd.
+2. **Twee lagen.** Document-laag (beleid/SOP's — auditbaar) + operationele laag (taken, registers, monitoring — door Claude bedienbaar). Het systeem ís de borging, niet het papier erover.
+3. **Minimale afhankelijkheid van anderen.** Rogier + Claude kunnen elke controle/taak draaien en bewaken; het systeem signaleert wat moet gebeuren in plaats van te vertrouwen op of personeel een reminder oppakt. Dit adresseert precies de hoofdoorzaak van beide tekortkomingen van 2025.
+4. **Records = waarheid.** Registraties weerspiegelen wat er echt gebeurde. Wat gedaan is maar niet vastgelegd → leggen we naar waarheid alsnog vast. Verzinnen doen we niet.
+5. **Consolideren, niet stapelen.** Bestaande documenten verbeteren; geen nieuwe versies of archieven ernaast.
+
+---
+
 ## Audit-context (uit de DEKRA-rapporten)
 
 | Feit | Waarde |

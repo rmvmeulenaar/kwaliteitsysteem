@@ -1,50 +1,46 @@
-# 5) SOP: Voorraadbeheer
+# SOP Voorraadbeheer
 **Praktijk voor Injectables**
 
-> Bron: Google Drive fileId: 1sG7_7lY0UmcRX8aDiw6C9ZqQRjgkUwz7
-> Origineel bestandsnaam: "5) SOP_ Voorraadbeheer (1).docx"
-> Documentcode: SOP_005 | Versie: 1.0 | Datum: 22-03-2025
-> Norm: NEN-EN-ISO 9001:2015 norm 8.5.4
+> Documentcode: SOP_005 · Versie: 1.1 · Bijgewerkt: 2026-06-15
+> Norm: NEN-EN-ISO 9001:2015 §8.5.4 (preservering / houdbaarheid)
+> Frequentie: **per kwartaal** · Register: [Voorraadcontrole-register](../../07_Voorraad/Voorraadcontrole_register.md)
 
 ---
 
 ## Doel
-
-Zorgen voor een systematische controle van alle medische producten en verbruiksmateriaal, waarbij vervaldatums worden bewaakt en kwaliteitseisen worden gewaarborgd.
+Systematische controle van alle medische producten en verbruiksmateriaal, waarbij vervaldatums worden bewaakt en houdbaarheidseisen worden gewaarborgd. Kernprincipe: **kleine voorraad + just-in-time + zichtbare vervaldatums**, zodat verloop structureel wordt voorkomen.
 
 ## Verantwoordelijkheden
-
-- **Management assistente (P.P.):** Maandelijkse controle en Excel-administratie.
-- **Medisch specialist / behandelaar:** Dagelijkse controle bij gebruik en melding van tekorten.
-- **Alle medewerkers:** FIFO-principe naleven en WhatsApp communicatie.
+- **Aangewezen teamlid:** voert de kwartaalcontrole uit en werkt het register bij.
+- **Directeur + kwaliteitssysteem:** bewaken dát de kwartaalcontrole plaatsvindt (signalering per kwartaal). De borging hangt niet af van één persoon.
+- **Alle medewerkers:** FIFO-principe naleven; tekorten of bijna-verlopen producten direct melden.
 
 ## Stappenplan
 
-### 1. Dagelijkse controle
-- Controle vervaldatum voor elk gebruik.
-- Gebruik van oudste product eerst (FIFO-principe).
-- Melding via WhatsApp PVI groep bij tekorten.
-- Koelkast: Botox-producten tellen en vervaldatums checken.
+### 1. Doorlopend (bij elk gebruik)
+- Vervaldatum checken vóór gebruik; oudste product eerst (FIFO).
+- Tekort of bijna-verlopen product melden.
 
-### 2. Kwartaal inventarisatie
-- Volledige controle van alle kasten: alle fillers, disposables en medicatie controleren.
-- Noodtas: EpiPen vervaldatum extra aandacht.
+### 2. Kwartaalcontrole
+- Volledige controle van alle locaties: centrale kast, behandelkamers, medicatiekoelkast, noodtas.
+- Alle fillers, disposables en medicatie op vervaldatum; EpiPen (noodtas) extra aandacht.
+- Foto per locatie als bewijs.
 
-### 3. Registratie en documentatie
-- Voorraadregistratie bijwerken.
-- WhatsApp update naar team: "Controle gedaan - status OK/problemen".
+### 3. Registratie
+- Voorraadcontrole-register bijwerken: datum, uitvoerder, bevindingen per locatie, foto's.
+- Korte statusmelding aan het team.
 
 ### 4. Bestelprocedure
-- Bestellen bij <2 stuks voorraad of <3 maanden houdbaar.
-- EpiPen bestellen bij <6 maanden houdbaar.
-- Eis minimaal 6 maanden houdbaar bij nieuwe leveringen.
+- Bestellen bij < 2 stuks of < 3 maanden houdbaar; EpiPen bij < 6 maanden.
+- Nieuwe leveringen: minimaal 6 maanden houdbaar eisen.
+- Voorraad bewust klein houden (richtlijn: max ~20 weken; ~50 kernproducten).
 
-### 5. Afwijkingen en correcties
-- Verlopen producten direct wegwerpen.
-- Management assistente informeren.
-- Excel bijwerken en vervangend product bestellen.
+### 5. Afwijkingen
+- Verlopen product direct verwijderen, registreren en vervangen.
 
 ## Registratieformulieren
+- [Voorraadcontrole-register](../../07_Voorraad/Voorraadcontrole_register.md)
+- [Lijst injectables](../../07_Voorraad/Lijst_injectables.md)
 
-- Voorraadregistratie (inclusief checklist) PVI.
-- Bestelling en leverancier correspondentie.
+---
+*Versiehistorie: v1.0 (22-03-2025, beoordeeld door DEKRA 08-08-2025) → v1.1 (15-06-2026): frequentie consistent gemaakt op kwartaal, borging/signalering toegevoegd, register naar markdown.*
