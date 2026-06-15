@@ -46,6 +46,7 @@ Bron = markdown (versiebeheerd). Word/PDF = export voor de auditor.
 **Risicobeheer:** [Risicoanalyse](02_Procedures/Risicobeheer/SOP_Risicoanalyse.md) · [Hygiëne & infectiepreventie](02_Procedures/Risicobeheer/SOP_Hygiene_infectiepreventie.md) · [Calamiteiten](02_Procedures/Risicobeheer/SOP_Calamiteiten.md) · [Behandelingscomplicaties](02_Procedures/Risicobeheer/SOP_Behandelingscomplicaties.md) · [Klachten & incidenten](02_Procedures/Risicobeheer/SOP_Klachten_incidentbeheer.md)
 
 ### 03_Registraties — levende registers
+- **[📌 Actielijst — openstaande taken](03_Registraties/Actielijst.md)**
 - [Verbeterregister](03_Registraties/Verbeterregister.md) · [Interne controles](03_Registraties/Interne_controles.md) · [Incidentenformulier (brondata)](03_Registraties/Incidentenformulier_brondata.md)
 - [Stakeholder-analyse](03_Registraties/Stakeholder_analyse.md) · [Acties opleiding/kwaliteit](03_Registraties/Acties_Opleiding_Kwaliteit.md) · [ISO-checklist](03_Registraties/ISO_checklist.md)
 - [KPI-spreadsheet](03_Registraties/KPI/KPI_spreadsheet.md) · [Clinicminds-data](03_Registraties/KPI/Clinicminds_data.md) · [Clinicminds-instellingen](03_Registraties/Clinicminds_instellingen.md)
