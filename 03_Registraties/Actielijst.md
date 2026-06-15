@@ -15,7 +15,8 @@
 - ✅ Doelstellingen 2026 vastgesteld
 
 ### Corrigerende acties uit de interne audit
-- ⬜ **A1** Kwaliteitsbeleid + PVI-methode actualiseren (scope intern bezien — géén proactieve DEKRA-melding, besluit directie)
+- ✅ **A1** Kwaliteitsbeleid + PVI/Radiance-methode geactualiseerd (geïntegreerde Radiance-richting)
+- ⬜ **V4** SOP's afstemmen op actuele wetenschap + Radiance-positionering (per behandeling)
 - ✅ **A2** Risicoregister 2026 opgesteld
 - 🔵 **A3** Voorraadregistratie — hervat, kwartaalschema loopt
 - ✅ **A4** Verbeter-/klachtenregister (AI-beheerd)

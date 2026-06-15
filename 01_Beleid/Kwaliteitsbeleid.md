@@ -1,12 +1,12 @@
-**Kwaliteitsbeleid Praktijk voor Injectables**
+**Kwaliteitsbeleid — Radiance Clinic / Praktijk voor Injectables**
 
 **1. Inleiding**
 
-Praktijk voor Injectables is een gespecialiseerde privékliniek die zich richt op dermatologische ingrepen, gewichtsverlies, fillers en injectables, hormoontherapie (BHT/TRT), Seffiller-behandelingen, laserbehandelingen met Fotona-laser en peelings. Wij streven naar hoogwaardige zorg en optimale klanttevredenheid door continue verbetering en naleving van kwaliteitsnormen. Dit kwaliteitsbeleid vormt de basis voor ons kwaliteitsmanagementsysteem (QMS) conform ISO9001.
+De praktijk werkt onder twee merken: **Radiance Clinic** (Nijmegen) met een geïntegreerde, holistische benadering — esthetiek + functionele geneeskunde + longevity — en **Praktijk voor Injectables / PVI** (Enschede, Sittard), gericht op cosmetische behandelingen. Het aanbod omvat fillers en injectables, biostimulators, Fotona-laserbehandelingen, peelings, bio-identieke hormoontherapie (BHT/TRT), GLP-1 gewichtsmanagement en kleine dermatologische ingrepen. Kerngedachte: *"de huid vertelt het verhaal van de gezondheid — wij behandelen beide."* Wij streven naar hoogwaardige, wetenschappelijk onderbouwde zorg en optimale klanttevredenheid door continue verbetering. Dit kwaliteitsbeleid vormt de basis voor ons kwaliteitsmanagementsysteem (QMS) conform ISO 9001.
 
-**2. Missie** Onze missie is om veilige en effectieve cosmetische en medische behandelingen aan te bieden met een persoonlijke en professionele benadering, waarbij kwaliteit, patiëntveiligheid en innovatie centraal staan.
+**2. Missie** Veilige, effectieve en persoonlijke zorg bieden waarbij esthetiek en onderliggende (metabole en hormonale) gezondheid samen worden behandeld — en soms "nee", wanneer de fundamentele gezondheid eerst aandacht vraagt. Kwaliteit, patiëntveiligheid en wetenschappelijke onderbouwing staan centraal.
 
-**3. Visie** Wij willen een toonaangevende privékliniek zijn binnen de sector van esthetische en medische behandelingen door het leveren van hoogwaardige zorg en het voortdurend verbeteren van onze diensten.
+**3. Visie** Toonaangevend zijn in de integratie van esthetische en functionele geneeskunde (longevity), door hoogwaardige zorg te combineren met continue verbetering en de nieuwste wetenschappelijke inzichten.
 
 **4. Kwaliteitsdoelstellingen** Wij hebben de volgende kwaliteitsdoelstellingen geformuleerd:
 
