@@ -15,33 +15,51 @@ R. Meulenaar
 
 ---
 
-### 1. Grote wijzigingen het afgelopen jaar?
-Geen grote wijzigingen in organisatiestructuur of locaties (Nijmegen hoofdlocatie; Enschede en Sittard gehuurde behandelruimte). De belangrijkste ontwikkeling is de **digitalisering en automatisering van het kwaliteitssysteem**: centrale repository, geborgde processen en (deels geautomatiseerde) monitoring — minder afhankelijk van losse personen.
+### 1. Zijn er het afgelopen jaar grote wijzigingen geweest waar we bij de audit rekening mee moeten houden?
+Er zijn geen grote wijzigingen geweest in de organisatiestructuur, de eigendomsverhoudingen of de locaties. Nijmegen blijft de hoofdlocatie; in Enschede en Sittard wordt op afspraak behandeld in gehuurde behandelruimte. De personele bezetting is ongewijzigd (zie vraag 3).
 
-### 2. Calamiteiten, formele klachten of inspectiebezoek (IGJ)?
-**Geen.** Geen calamiteiten, geen formele klachten en geen inspectiebezoek in de verslagperiode.
+De belangrijkste ontwikkeling waar de auditor rekening mee kan houden, is organisatorisch en niet structureel: het kwaliteitssysteem is het afgelopen jaar **gedigitaliseerd en geborgd in één centrale, versiebeheerde omgeving**. Procedures, registraties en de directiebeoordeling staan nu op één vindbare plek, en een deel van de bewaking (klanttevredenheid, periodieke taken, KPI's uit het behandelsysteem Clinicminds) is geautomatiseerd. Doel hiervan is het systeem minder afhankelijk te maken van losse personen en de continuïteit van de borging te verbeteren. Inhoudelijk is daarnaast de positionering aangescherpt richting een geïntegreerde, op gezondheid gerichte aanpak (Radiance); dit raakt het *beleid*, niet de structuur van de organisatie.
 
-### 3. Klopt het aantal FTE (2,5)?
-**Ja, ±2,5 FTE klopt.** Samenstelling: R. Meulenaar (directeur / cosmetisch arts), M. al Saadon (doktersassistent, enige werknemer in loondienst) en parttime ondersteuning door de partner (bestellingen/administratie). Schoonmaak gebeurt via een **externe** dienst (niet in loondienst).
+### 2. Zijn er grote calamiteiten of formele klachten geweest, of is er een inspectiebezoek geweest?
+**Nee, op alle drie de punten.** In de verslagperiode hebben zich **geen calamiteiten** voorgedaan, zijn er **geen formele klachten** ingediend, en is er **geen inspectiebezoek van de IGJ** geweest. Klachten, complicaties en bijwerkingen worden gestructureerd geregistreerd in Clinicminds; de trend daarvan staat in het verbeter-/klachtenregister (bijlage E). Over 2024 t/m heden zijn er 0 formele klachten geregistreerd.
+
+### 3. Klopt het totaal aantal FTE nog (2,5)?
+**Ja, ±2,5 FTE klopt.** De volledige bezetting, langs de door u genoemde categorieën:
+
+| Rol | Persoon | Dienstverband |
+|---|---|---|
+| Arts / directeur | R. Meulenaar | in loondienst van de B.V. |
+| Doktersassistent | M. al Saadon | in loondienst (enige werknemer naast de arts) |
+| Administratie / bestellingen | partner | parttime ondersteuning |
+| Manager | n.v.t. | geen aparte managementfunctie; directie = arts |
+| Schoonmaak | externe dienst | **niet in loondienst** — telt niet mee in de FTE |
+
+De schoonmaak is bewust buiten de FTE-telling gehouden omdat die extern wordt ingehuurd en niet in dienst is.
 
 ### 4. Zijn de verbetermogelijkheden uit het vorige rapport opgepakt?
-| # | Verbeterpunt | Status |
-|---|---|---|
-| 1 | Lijstgebruik door medewerkers | geborgd in systeem (per PDCA-ronde) |
-| 2 | Klachten in een overzicht (trend) | ✅ verbeter-/klachtenregister (uit Clinicminds) |
-| 3 | Vast moment verbeteracties | ✅ PDCA-cyclus + dagelijks overleg |
-| 4 | Periodieke taken in kalender/actielijst | ✅ actielijst + ritme |
-| 5 | ARBO opnieuw bezien | 🔵 lichte RI&E in opstelling |
-| 6 | Apparatuuroverzicht | ✅ overzicht gemaakt (onderhoudsbewijs deels) |
-| 7 | Sterilisator-gebruikstermijnen | ✅ geregeld |
+Ja. Wij hebben de verbetermogelijkheden uit het rapport van vorig jaar één voor één opgepakt; hieronder de status per punt. Tijdens de audit kunnen we deze aan de hand van het rapport en het systeem doorlopen. De agenda achter in het vorige rapport hebben wij als leidraad voor deze voorbereiding aangehouden.
 
-### 5. Implementatie verbetermaatregelen tekortkoming §8.5.4 (voorraad)
-Maatregelen geïmplementeerd en effectief: **kleine voorraad + just-in-time + FIFO + zichtbare vervaldatums**, met **kwartaalcontrole** (SOP Voorraadbeheer + register). Resultaat: **0 verlopen producten**. Eerlijk: de periodieke registratie was na juli 2025 onderbroken; dit is bij de interne audit (juni 2026) geconstateerd en hervat — de hapering is structureel opgelost door borging in het systeem i.p.v. afhankelijkheid van een persoon.
+| # | Verbetermogelijkheid (vorig rapport) | Status | Waar zichtbaar |
+|---|---|---|---|
+| 1 | Lijstgebruik door medewerkers borgen | ✅ geborgd in het systeem, doorlopen per PDCA-ronde | Actielijst, PDCA-logboek |
+| 2 | Klachten in een overzicht zetten (trend) | ✅ verbeter-/klachtenregister, gevoed vanuit Clinicminds | Bijlage E |
+| 3 | Vast moment voor verbeteracties | ✅ PDCA-cyclus + dagelijks overleg | PDCA-logboek |
+| 4 | Periodieke taken in een kalender/actielijst | ✅ actielijst met vast wekelijks/kwartaal/jaar-ritme | Actielijst |
+| 5 | ARBO opnieuw bezien | 🔵 lichte RI&E opgesteld; toetsing/afronding loopt | RI&E / ARBO |
+| 6 | Apparatuuroverzicht | ✅ overzicht aangemaakt; onderhoudsbewijs deels nog aan te vullen | Apparatuuroverzicht |
+| 7 | Sterilisator-gebruikstermijnen | ✅ geregeld | Apparatuuroverzicht |
 
-### 6. Management review + plannen/doelstellingen komend jaar
-Bijgevoegd / klaar om aan te leveren:
-- **[Directiebeoordeling 2026](../05_Management/Directiebeoordeling_2026.md)** (ISO §9.3, met echte cijfers uit Clinicminds)
-- **Doelstellingen 2026** (in §9 van de directiebeoordeling): vier strategische stromingen + ISO-borgingsdoelen
+Bij de punten die nog op 🔵 staan (5 en deels 6) is dat eerlijk weergegeven: de RI&E-toetsing en een deel van het onderhoudsbewijs worden op dit moment afgerond.
+
+### 5. Implementatie van de verbetermaatregelen n.a.v. de tekortkoming vorige audit (§8.5.4, voorraad)
+De maatregelen naar aanleiding van de tekortkoming op §8.5.4 zijn geïmplementeerd en effectief. Wij werken met een **bewust kleine voorraad** (just-in-time inkopen), volgens het **FIFO-principe** (oudste eerst), met **zichtbare vervaldatums** en een **kwartaalcontrole** die is vastgelegd in de SOP Voorraadbeheer en het bijbehorende controleregister (bijlage D). Het resultaat is **0 verlopen producten**.
+
+Eén ding melden wij eerlijk: de *registratie* van de periodieke controle is na juli 2025 een tijd onderbroken geweest. Dit is bij de interne audit (juni 2026) zelf geconstateerd en de controle is hervat. De onderliggende oorzaak — afhankelijkheid van één persoon die eraan moest denken — is structureel aangepakt door de controle in het systeem te borgen (vaste kwartaaltaak in de actielijst). De maatregel tegen verlopen producten zelf is al die tijd wel effectief geweest.
+
+### 6. Vooraf aan te leveren: management review en de plannen/doelstellingen voor komend jaar
+Beide worden vooraf aangeleverd:
+- De **management review** is de **[Directiebeoordeling 2026](../05_Management/Directiebeoordeling_2026.md)** (bijlage A), opgesteld conform ISO 9001 §9.3, met de werkelijke cijfers uit Clinicminds en de boekhouding.
+- De **plannen en doelstellingen voor komend jaar** staan in **§9 van diezelfde directiebeoordeling** (bijlage B): de strategische richting voor het komende jaar plus de concrete ISO-borgingsdoelen (afronding RI&E, onderhoudsbewijs compleet, voorraadcontrole structureel geborgd, bekwaamheidsborging via jaarlijkse kennistoets).
 
 ---
 
