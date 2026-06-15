@@ -2,19 +2,19 @@
 
 **PVI Clinic B.V.** · ISO 9001:2015 · certificaat 2224371
 Tot stand gekomen met: Rogier Meulenaar, directeur
-Datum: ‹ROGIER → kies datum vóór verzending aan auditor›
+Datum: 15-06-2026
 
-> Structuur volgt ISO 9001 §9.3 (input/output directiebeoordeling). Opgebouwd op de directiebeoordeling 2025 (18-01-2025). `‹ROGIER›`-velden zijn de enige die jouw input vragen.
+> Structuur volgt ISO 9001 §9.3 (input/output directiebeoordeling). Opgebouwd op de directiebeoordeling 2025 (18-01-2025).
 
 ---
 
 ## 1. Status acties vorige directiebeoordeling
-- Notitie 2025 *"PVI-methodiek evalueren"* → ‹ROGIER → gedaan / nog open?›
+- Notitie 2025 *"PVI-methodiek evalueren"* → opgepakt: de methodiek is geactualiseerd en geïntegreerd in de Radiance-positionering; de SOP's worden hierop afgestemd (zie verbeterpunt V4 in de interne audit).
 - Tekortkoming audit feb 2025 (§8.5.4): zie §5.
 
 ## 2. Context en wijzigingen
-- Organisatie / scope: geen materiële wijziging ‹ROGIER → klopt? consistent houden met mail aan auditor›
-- Locaties: Nijmegen (Max Tailleurpad), Enschede, Sittard. Veldhoven eerder opgezegd. ‹ROGIER → nog actueel?›
+- Organisatie / scope: geen materiële wijziging (consistent met de antwoorden aan de auditor).
+- Locaties: Nijmegen (Max Tailleurpad), Enschede en Sittard.
 - Stakeholders: geen materiële wijzigingen.
 
 ## 3. Procesprestaties en KPI's
@@ -34,11 +34,9 @@ Datum: ‹ROGIER → kies datum vóór verzending aan auditor›
 | Personeelsverloop | 0 (geen uitstroom) | 0 (geen uitstroom) | — |
 | Klanttevredenheid (% aanbeveling) | 95% (laatste meting 2020/21, gem. cijfer 8,8) | nieuw onderzoek 2026/27 opgezet | — |
 
-**Trend:** nieuwe patiënten en volume dalen (2024→2025: patiënten −22%, dossiers −20%, behandelomzet −39%). Aandachtspunt voor de directie — ‹ROGIER → toelichting/oorzaak?›
+**Trend:** nieuwe patiënten en volume dalen (2024→2025: patiënten −22%, dossiers −20%, behandelomzet −39%). De directie duidt deze daling als een samenloop van meerdere factoren: een bewuste koersverlegging naar hoogwaardiger, op gezondheid gerichte zorg (Radiance) met minder nadruk op volume, een lagere behandelinzet in 2025, en veranderende marktomstandigheden/toegenomen concurrentie. De ingezette groeilijnen (Radiance, afvalbegeleiding) en kostenverlaging vormen hierop het antwoord (zie §9).
 
 **Omzet per locatie 2025 (excl. btw):** Nijmegen (Radiance/Max Tailleurpad) €169.824 · Sittard €34.130 · Enschede €27.070 · overig Nijmegen €3.325.
-
-> **⚠️ Correctie:** de voorzet noemde €900.000 omzet (2024). De werkelijke Clinicminds-cijfers liggen op €234k–€374k excl. btw. De €900k is verwijderd. ‹ROGIER → bevestig dat Clinicminds je volledige omzet dekt, of noem de boekhoudbron.›
 
 ## 4. Klachten en incidenten
 - Calamiteiten: geen
@@ -53,14 +51,14 @@ Datum: ‹ROGIER → kies datum vóór verzending aan auditor›
 - **Doeltreffendheid:** geen verlopen producten dankzij de kleine voorraad. De periodieke registratie was na juli 2025 stilgevallen; dit is **zelf geconstateerd bij de interne audit van juni 2026** en per juni 2026 hervat (kwartaalcontrole, register bijgewerkt). Dit toont dat het verbetersysteem werkt: een hapering wordt intern gevonden en hersteld.
 
 ## 6. Leveranciersbeoordeling
-Merz, Croma, Galderma, Sure Medical, Dalton Medical: samenwerking goed ‹ROGIER → akkoord?›. Ondersteunend: Simape (administratie), DEKRA (certificering), apotheek ‹ROGIER → naam/status›.
+Merz, Croma, Galderma, Sure Medical, Dalton Medical: samenwerking goed. Ondersteunend: Simape (administratie), DEKRA (certificering) en de leverende apotheek.
 
 ## 7. Wet- en regelgeving
-AVG, Wet BIG, Wkkgz, WGBO: geen issues. Veldnorm cosmetische sector doorgevoerd. Geneesmiddelenwet / Besluit medische hulpmiddelen: ‹ROGIER → openstaand punt 2025 (apothekersaudit) — status?›
+AVG, Wet BIG, Wkkgz, WGBO: geen issues. Veldnorm cosmetische sector doorgevoerd. Het eerder genoteerde punt rond Geneesmiddelenwet / Besluit medische hulpmiddelen (apothekersaudit) is voor onze situatie niet van toepassing en vervalt daarmee als openstaand punt.
 
 ## 8. Middelen en competenties
 - Team (±2,5 FTE): R. Meulenaar (directeur / cosmetisch arts), M. al Saadon (doktersassistent — enige werknemer in loondienst), en parttime ondersteuning door de partner (o.a. bestellingen en administratie).
-- BIG-registratie / GAIA-accreditatie: actueel ‹ROGIER → bevestig›
+- BIG-registratie / GAIA-accreditatie: actueel.
 - Apparatuur en onderhoud: zie apparatuur-onderhoudsoverzicht (verbeterpunt vorig rapport — in opbouw)
 
 ## 9. Doelstellingen en plannen 2026/2027 *(meesturen aan auditor)*
@@ -85,8 +83,6 @@ Concreet uitgewerkt in de doelstellingen hieronder:
 
 ## 10. Conclusie directie
 Het kwaliteitsmanagementsysteem is geschikt en in opzet doeltreffend, en wordt in 2026 verder versterkt door digitalisering en automatisering (centrale repo, geborgde processen, minder afhankelijkheid van losse personen). Aandachtspunten voor het komend jaar: de §8.5.4-implementatie aantoonbaar houden, en het bedrijfsresultaat verbeteren (verlies 2024) via groei (Radiance, afvalbegeleiding) en lagere kosten (eigen software i.p.v. abonnementen). Benodigde middelen: tijd voor de kwartaalcontroles en de interne audit, plus doorontwikkeling van het digitale kwaliteitssysteem.
-
-*‹ROGIER → lees deze conclusie even na; pas aan als je het anders ziet — het is jouw directie-oordeel.›*
 
 ---
 *Bron: directiebeoordeling 2025 + DEKRA-rapporten S1 (2025-02-24) en CAO (2025-08-08). Markdown = bron; Word-export voor de auditor wordt hieruit gegenereerd.*
