@@ -30,7 +30,7 @@ Datum: ‹ROGIER → kies datum vóór verzending aan auditor›
 | % complicaties (van behandelingen) | ±0,1% | 0% | 0% |
 | Omzet behandelingen (excl. btw) | €373.720 | €228.756 | — |
 | Totale omzet alle locaties (excl. btw) | — | €234.349 | — |
-| Winst | ‹ROGIER — boekhouding› | ‹ROGIER› | — |
+| Resultaat (winst/verlies) | −€22.608 (verlies; opbrengsten €487.091, kosten €509.699) | nog af te sluiten | — |
 | Personeelsverloop | 0 (geen uitstroom) | 0 (geen uitstroom) | — |
 | Klanttevredenheid (% aanbeveling) | 95% (laatste meting 2020/21, gem. cijfer 8,8) | nieuw onderzoek 2026/27 opgezet | — |
 
