@@ -59,17 +59,18 @@ Merz, Croma, Galderma, Sure Medical, Dalton Medical: samenwerking goed ‹ROGIER
 AVG, Wet BIG, Wkkgz, WGBO: geen issues. Veldnorm cosmetische sector doorgevoerd. Geneesmiddelenwet / Besluit medische hulpmiddelen: ‹ROGIER → openstaand punt 2025 (apothekersaudit) — status?›
 
 ## 8. Middelen en competenties
-- Team: **2,5 FTE** ‹ROGIER → bevestig samenstelling: jij + Romy + Moumen?›
+- Team (±2,5 FTE): R. Meulenaar (directeur / cosmetisch arts), M. al Saadon (doktersassistent — enige werknemer in loondienst), en parttime ondersteuning door de partner (o.a. bestellingen en administratie).
 - BIG-registratie / GAIA-accreditatie: actueel ‹ROGIER → bevestig›
 - Apparatuur en onderhoud: zie apparatuur-onderhoudsoverzicht (verbeterpunt vorig rapport — in opbouw)
 
 ## 9. Doelstellingen en plannen 2026/2027 *(meesturen aan auditor)*
-Voorstel (pas aan waar gewenst):
-1. **Voorraadbeheer geborgd:** 4/4 kwartaalcontroles uitgevoerd, 0 verlopen producten.
-2. **Kwaliteitssysteem gedigitaliseerd** (centrale repo) en operationeel — borging zonder afhankelijkheid van losse reminders.
-3. **Interne audit** jaarlijks uitgevoerd volgens programma.
-4. **Klanttevredenheid** structureel gemeten en geanalyseerd.
-5. ‹ROGIER → commercieel doel: omzet/retentie?›
+**Kernrichting 2026:** de interne organisatie minder afhankelijk maken van losse personen door processen te automatiseren met AI / het digitale kwaliteitssysteem. Niet langer afhankelijk van "of iemand eraan denkt", maar geborgd in het systeem.
+
+1. **Automatisering interne processen (AI):** terugkerende taken via het kwaliteitssysteem laten lopen i.p.v. handmatig — voorraadsignalering, klanttevredenheidsmeting, administratie. *(Klanttevredenheidsmeting ✅ live als eerste; voorraad + administratie volgen.)*
+2. **Software / systeem verbeteren:** het kwaliteitssysteem (centrale repo) als operationele infrastructuur uitbouwen — vindbaar, geborgd, zelf-monitorend.
+3. **Customerservice verbeteren:** gestructureerde klanttevredenheidsmeting (kwartaal) + opvolging; doel aanbevelingspercentage ≥ 90%.
+4. **Administratie verbeteren:** processen stroomlijnen en koppelen (Clinicminds, boekhouding) zodat cijfers actueel en betrouwbaar zijn.
+5. **Borging (ISO):** voorraad 4/4 kwartaalcontroles met 0 verlopen producten; interne audit jaarlijks uitgevoerd.
 
 ## 10. Conclusie directie
 Het kwaliteitsmanagementsysteem is geschikt, toereikend en doeltreffend ‹ROGIER → akkoord met deze conclusie?›. Benodigde besluiten/middelen: ‹ROGIER → bijv. tijd voor kwartaalcontroles + afronding digitalisering›.
