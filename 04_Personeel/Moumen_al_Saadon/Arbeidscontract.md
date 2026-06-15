@@ -1,7 +1,7 @@
 # Arbeidscontract — Moumen Al Saadon
 
-> Bron: Google Drive fileId: 1mdm4w_0OxIN3HSVErF2WVxnyOfHINtcVndvLj873GLg
-> Type: Google Doc — Arbeidscontract sjabloon (in te vullen)
+> **Status:** dit is het **sjabloon**. Moumen's ingevulde, getekende contract bevat persoonsgegevens (salaris, adres, geboortedatum) en wordt daarom **niet in deze repo** bewaard maar in de personeelsadministratie (AVG — geen persoonsgegevens in het systeem).
+> **Getekend contract:** ‹type vast/tijdelijk · datum · bewaarlocatie — in te vullen door Rogier› — aanwezig en geldig: ‹ja/nee›.
 
 ---
 
