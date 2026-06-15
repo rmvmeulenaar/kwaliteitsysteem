@@ -20,6 +20,7 @@
 - ⬜ **A4** AI-beheerd verbeter-/klachtenregister opzetten
 - ⬜ **A5** Apparatuuroverzicht + onderhoudsbewijs (Vectra, koelkast)
 - ⬜ **A6** Lichte RI&E / ARBO-notitie opstellen
+- ⬜ **A7** Nascholingsplan 2026–2028 (GAIA: 9/200 punten) + bewaking via systeem
 - ⬜ **V2** Bekwaamheids-/nascholingsoverzicht per medewerker
 - ⬜ **V3** Taken/verantwoordelijkheden helder vastleggen (incl. Romy)
 - ⬜ Oude "SOP laserbehandeling" (ChatGPT-transcript) schrappen

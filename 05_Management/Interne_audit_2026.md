@@ -41,8 +41,8 @@
 
 ## BLOK 6 — Personeel & competentie (§7.1.2, §7.2)
 **Bevindingen:**
-- Team: Rogier (directeur/arts), Moumen (enige werknemer), Romy (partner, parttime). BIG-registratie + GAIA-accreditatie **actueel** ✅
-- Scholing/bekwaamheid aanwezig; bewijs = BIG + GAIA (arts) + functiebeschrijving Moumen.
+- Team: Rogier (directeur/arts), Moumen (enige werknemer), Romy (partner, parttime). **BIG-registratie actueel** ✅
+- **A7** (§7.2): GAIA-nascholing nog niet op norm — **9 van 200 punten** in de lopende periode. → nascholingsplan 2026–2028 opstellen en bewaken (AI/systeem signaleert voortgang + geschikte nascholing). Bewijs van bekwaamheid: BIG-registratie + GAIA-dashboard.
 - **V2** (§7.2): geen compact bekwaamheids-/nascholingsoverzicht per medewerker → opstellen.
 - **V3** (§5.3): taken/verantwoordelijkheden zijn deels verdeeld ("een beetje") → helder vastleggen wie-wat-doet (incl. Romy's rol bestellingen/administratie).
 
@@ -67,6 +67,7 @@
 | A4 | Verbeterregister niet gebruikt | AI-beheerd verbeter-/klachtenregister | Rogier + systeem |
 | A5 | Geen apparatuuroverzicht/onderhoudsbewijs | Overzicht maken + bewijs Vectra/koelkast | Rogier/Moumen |
 | A6 | ARBO/RI&E niet passend | Lichte RI&E opstellen | Rogier |
+| A7 | GAIA-nascholing onder norm (9/200) | Nascholingsplan 2026–2028 + bewaking | Rogier + systeem |
 
 **Verbeterpunten:** V1 doelstellingen ✅ · V2 bekwaamheidsoverzicht · V3 taken helder verdelen
 
