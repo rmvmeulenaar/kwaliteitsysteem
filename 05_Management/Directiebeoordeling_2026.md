@@ -19,15 +19,26 @@ Datum: ‹ROGIER → kies datum vóór verzending aan auditor›
 
 ## 3. Procesprestaties en KPI's
 
-| Parameter | Doel | 2026 | 2025 | 2024 |
-|---|---|---|---|---|
-| Aanbevelingspercentage klanten | 95% | ‹ROGIER› | ‹ROGIER› | 96% |
-| Personeelsverloop | — | ‹ROGIER› | 0/3 | 1/3 |
-| Incidenten | <20 | ‹ROGIER› | ‹ROGIER› | — |
-| % ontevredenheid | 3,1% | ‹ROGIER› | 5% | 5% |
-| % complicaties | 0,1% | ‹ROGIER› | 1% | 1% |
-| Omzet | ‹ROGIER› | ‹ROGIER› | ‹ROGIER› | 900.000 |
-| Winst | ‹ROGIER› | ‹ROGIER› | ‹ROGIER› | 350.000 |
+*Bron: Clinicminds Analytics-API (opgehaald 15-06-2026). Bedragen excl. btw.*
+
+| Parameter | 2024 | 2025 | 2026 t/m 15-6 |
+|---|---|---|---|
+| Nieuwe patiënten | 375 | 291 | 83 |
+| Dossiers totaal | 2.950 | 2.357 | — |
+| Behandelingen | — | 1.068 | — |
+| Geregistreerde complicaties | 2 | 0 | 0 |
+| % complicaties (van behandelingen) | ±0,1% | 0% | 0% |
+| Omzet behandelingen (excl. btw) | €373.720 | €228.756 | — |
+| Totale omzet alle locaties (excl. btw) | — | €234.349 | — |
+| Winst | ‹ROGIER — boekhouding› | ‹ROGIER› | — |
+| Personeelsverloop | ‹ROGIER› | ‹ROGIER› | — |
+| Klanttevredenheid / aanbeveling | ‹ROGIER — niet in Clinicminds› | ‹ROGIER› | — |
+
+**Trend:** nieuwe patiënten en volume dalen (2024→2025: patiënten −22%, dossiers −20%, behandelomzet −39%). Aandachtspunt voor de directie — ‹ROGIER → toelichting/oorzaak?›
+
+**Omzet per locatie 2025 (excl. btw):** Nijmegen (Radiance/Max Tailleurpad) €169.824 · Sittard €34.130 · Enschede €27.070 · overig Nijmegen €3.325.
+
+> **⚠️ Correctie:** de voorzet noemde €900.000 omzet (2024). De werkelijke Clinicminds-cijfers liggen op €234k–€374k excl. btw. De €900k is verwijderd. ‹ROGIER → bevestig dat Clinicminds je volledige omzet dekt, of noem de boekhoudbron.›
 
 ## 4. Klachten en incidenten
 - Calamiteiten: geen ‹ROGIER → bevestig 2025/26›
