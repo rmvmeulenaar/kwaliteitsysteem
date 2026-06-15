@@ -23,7 +23,7 @@ Bron = markdown (versiebeheerd). Word/PDF = export voor de auditor.
 | Agendapunt auditor | Waar staat het bewijs |
 |---|---|
 | Beleidcyclus / risico's / kansen | [01_Beleid](01_Beleid) · [Stakeholder-analyse](03_Registraties/Stakeholder_analyse.md) |
-| Verbeterproces + directiebeoordeling | [Directiebeoordeling 2026](05_Management/Directiebeoordeling_2026.md) · [Verbeterregister](03_Registraties/Verbeterregister.md) · [Interne audit 2026](05_Management/Interne_audit_2026.docx) (Word) |
+| Verbeterproces + directiebeoordeling | [Directiebeoordeling 2026](05_Management/Directiebeoordeling_2026.md) · [Verbeter-/klachtenregister](03_Registraties/Verbeterregister.md) · [Interne audit 2026](05_Management/Interne_audit_2026.md) |
 | Behandelingen (P.P.) | [02_Procedures/Behandelingen](02_Procedures/Behandelingen) · [Dossiervoering](02_Procedures/Administratie/SOP_Medische_dossiervoering.md) |
 | Logistiek en voorraad | [SOP Voorraadbeheer](02_Procedures/Administratie/SOP_Voorraadbeheer.md) · [Register](07_Voorraad/Voorraadcontrole_register.md) · [Lijst injectables](07_Voorraad/Lijst_injectables.md) |
 | Onderhoud apparatuur en ruimte | _apparatuuroverzicht — fase 7, in opbouw_ |
@@ -63,6 +63,7 @@ Bron = markdown (versiebeheerd). Word/PDF = export voor de auditor.
 
 ### 06_DEKRA_Audit — auditcorrespondentie
 - [Auditrapport feb-2025](06_DEKRA_Audit/DEKRA_auditrapport_S1_2025-02-24.md) · [Vervolgbeoordeling aug-2025](06_DEKRA_Audit/DEKRA_CAO_beoordeling_2025-08-08.md)
+- **[Antwoorden op de 6 auditvragen 2026](06_DEKRA_Audit/Auditvragen_antwoorden_2026.md)** — klaar om aan te leveren
 - [Tekortkoming §8.5.4](06_DEKRA_Audit/Tekortkoming_8.5.4_verlopen_producten.md) · [Antwoordbrief auditor](06_DEKRA_Audit/Antwoordbrief_auditor_2026.docx) (Word) · [Masterplan](06_DEKRA_Audit/Masterplan_auditvoorbereiding.docx) (Word)
 
 ### 07_Voorraad

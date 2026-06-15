@@ -15,7 +15,7 @@
 - ✅ Doelstellingen 2026 vastgesteld
 
 ### Corrigerende acties uit de interne audit
-- ⬜ **A1** Kwaliteitsbeleid actualiseren + **scope-check DEKRA** (TRT / gewichtsverlies / hormonen) — *jouw actie: contact M. Smit*
+- ⬜ **A1** Kwaliteitsbeleid + PVI-methode actualiseren (scope intern bezien — géén proactieve DEKRA-melding, besluit directie)
 - ✅ **A2** Risicoregister 2026 opgesteld
 - 🔵 **A3** Voorraadregistratie — hervat, kwartaalschema loopt
 - ✅ **A4** Verbeter-/klachtenregister (AI-beheerd)

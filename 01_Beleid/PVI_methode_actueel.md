@@ -1,4 +1,7 @@
-# PVI-methode_23-02-2025
+# PVI-methode
 
-> **Opmerking (lokale kopie):** dit Google Doc is LEEG in Drive (geen inhoud).
-> Bron: https://docs.google.com/document/d/1BgZk8fDSfw3iS-LjQCXVU_P7wqeOZG69WnqnQzJ4wKA/edit — laatst gewijzigd 2025-02-23.
+> Status: **te actualiseren** (verbeteractie A1). De eerdere PVI-methode-documenten (2019–2020) zijn verouderd; een actuele beknopte versie wordt opgesteld.
+
+De PVI-methode beschrijft de werkwijze en uitgangspunten van de praktijk. In de praktijk wordt gewerkt volgens de vastgestelde **SOP's** (zie [02_Procedures](../02_Procedures)) en het [Kwaliteitsbeleid](Kwaliteitsbeleid.md); die vormen op dit moment de leidende, actuele werkdocumenten.
+
+*Actie: actuele PVI-methode opstellen of dit document samenvoegen met het kwaliteitsbeleid — directie (R. Meulenaar).*
