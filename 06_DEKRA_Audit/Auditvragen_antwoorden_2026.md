@@ -74,4 +74,4 @@ Beide worden vooraf aangeleverd:
 | E | Verbeter-/klachtenregister | Klachten/trend (vraag 4, punt 2) | [Verbeterregister.md](../03_Registraties/Verbeterregister.md) |
 | F | Risicoregister 2026 | Risico's & kansen | [Risicoregister_2026.md](../05_Management/Risicoregister_2026.md) |
 
-> Toelichting: de bijlagen zijn de markdown-bronbestanden in het kwaliteitssysteem. Voor verzending per e-mail kan van bijlage A (en desgewenst C–F) een Word/PDF-export worden meegeleverd.
+> Toelichting: de bijlagen zijn de markdown-bronbestanden in het kwaliteitssysteem (versiebeheerd, op de auditdag volledig in te zien). Voor verzending vooraf per e-mail staan ze als opgemaakte **PDF** klaar in de map [`Bijlagen_auditor_2026/`](Bijlagen_auditor_2026): `00_Auditvragen_antwoorden_2026.pdf` (dit document) + `Bijlage_A` t/m `Bijlage_F`. Bijlage B (doelstellingen) zit in bijlage A §9.
