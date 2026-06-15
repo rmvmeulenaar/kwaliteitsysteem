@@ -1,7 +1,7 @@
 # RI&E / ARBO — lichte versie · PVI Clinic B.V.
 
 > Risico-inventarisatie & -evaluatie passend bij een micro-organisatie (≤ 25 medewerkers; bij ≤ 25 volstaat een lichte RI&E). Dekt verbetermogelijkheid #5 uit DEKRA 55640-1. · Bijgewerkt: 2026-06-15
-> **Status per maatregel: ✅ aanwezig · 🔵 te bevestigen · ⬜ in te richten** — ‹ROGIER: loop even na en corrigeer waar nodig›
+> **Status per maatregel: ✅ aanwezig · 🔵 te bevestigen · ⬜ in te richten.** De 🔵-maatregelen zijn nog door de directie op aanwezigheid/uitvoering te bevestigen.
 
 | # | Arbeidsrisico | Beheersmaatregel | Status |
 |---|---|---|---|
@@ -19,4 +19,5 @@
 - Hoogste aandacht: prik- en laserveiligheid (1 & 2) — dáár zit het reële letselrisico.
 - Koppeling: arbeidsrisico's met letselgevolg ↔ [risicoregister](../../05_Management/Risicoregister_2026.md).
 
-*Openstaand: een gecertificeerde toetsing van de RI&E is bij ≤ 25 medewerkers met een erkend branche-instrument vaak niet verplicht — ‹ROGIER: nagaan of toetsing nodig is›.*
+## Toetsing
+PVI Clinic B.V. heeft één werknemer in loondienst (doktersassistent) naast de directeur. Bij deze omvang volstaat een lichte RI&E. PVI gebruikt geen erkend branche-instrument en heeft geen gecertificeerde toetsing van de RI&E laten uitvoeren — daar zijn ook geen eerdere documenten van. De directie beschouwt de intern opgestelde lichte RI&E als passend bij de huidige omvang en herziet deze jaarlijks bij de directiebeoordeling. Groeit het personeelsbestand, dan wordt de noodzaak van een gecertificeerde toetsing opnieuw beoordeeld.

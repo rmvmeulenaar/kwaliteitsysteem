@@ -21,7 +21,7 @@
 - 🔵 **A3** Voorraadregistratie — hervat, kwartaalschema loopt
 - ✅ **A4** Verbeter-/klachtenregister (AI-beheerd)
 - 🔵 **A5** Apparatuuroverzicht gemaakt — onderhoudsbewijs Vectra/koelkast + leveranciers nog invullen
-- 🔵 **A6** Lichte RI&E / ARBO opgesteld — status-velden + toetsing checken
+- 🔵 **A6** Lichte RI&E / ARBO opgesteld — toetsing-vraag beslecht (niet verplicht bij deze omvang, geen erkend branche-instrument); nog: de 🔵-maatregelen fysiek bevestigen (prikaccidentprotocol, laserbril, ergonomie, alleen/avond werken, beeldscherm)
 - 🔵 **A7** Nascholingsplan 2024–2029 gemaakt (GAIA 9/200) — punten halen + kwartaalbewaking
 - 🔵 **V2** Bekwaamheidsborging: **jaarlijkse kennisquiz ✅ gemaakt** (AI-gegenereerd uit SOP's) — medische antwoorden verifiëren + bekwaamheidsoverzicht per medewerker
 - ⬜ **V3** Taken/verantwoordelijkheden helder vastleggen (incl. Romy)
