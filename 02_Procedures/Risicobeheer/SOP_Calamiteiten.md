@@ -15,9 +15,8 @@ Deze SOP beschrijft de procedures voor het omgaan met calamiteiten en noodsituat
 
 ## 3. Verantwoordelijkheden
 
-- **Kliniekmanager:** Toezicht houden op noodprocedures en evaluaties.
-- **BHV-medewerkers:** Uitvoeren van noodprocedures en eerste hulp.
-- **Alle medewerkers:** Naleven van het calamiteitenprotocol en trainingen volgen.
+- **Directeur/arts (R. Meulenaar):** eindverantwoordelijk voor de noodprocedures en evaluaties; vervult als BIG-geregistreerd arts de EHBO-/eerstehulprol. Gezien de omvang (arts + 1 medewerker) is er geen aparte BHV-organisatie.
+- **Medewerker:** volgt het calamiteitenprotocol, assisteert, alarmeert en begeleidt patiënten/bezoekers.
 
 ## 4. Noodprocedures voor verschillende scenario's
 
@@ -64,9 +63,10 @@ Deze SOP beschrijft de procedures voor het omgaan met calamiteiten en noodsituat
 ## 7. Contactgegevens voor noodsituaties
 
 - **Alarmnummer:** 112
-- **Huisarts spoedlijn:** [Telefoonnummer]
-- **Technische ondersteuning:** [Telefoonnummer]
-- **BHV-coördinator:** [Naam en contactgegevens]
+- **Dienstdoende arts (PVI):** R. Meulenaar, tel. 085-4013678
+- **Medische spoed buiten de kliniek:** 112 / dichtstbijzijnde SEH / huisartsenpost (HAP) — geen vaste verwijsafspraak; de arts beoordeelt en verwijst per geval
+- **Technische ondersteuning:** apparatuur via de betreffende leverancier; slotsysteem iLOQ via iLOQ Nederland BV ([support.iloq.com](https://support.iloq.com))
+- **BHV-coördinator / EHBO:** R. Meulenaar (arts), tel. 085-4013678
 
 ## 8. Jaarlijkse training en oefeningen
 

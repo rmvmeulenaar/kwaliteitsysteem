@@ -5,11 +5,11 @@
 
 | Apparaat | Leverancier / onderhoud | Frequentie | Laatste controle | Volgende | Bewijs aanwezig? | Status |
 |---|---|---|---|---|---|---|
-| **Fotona laser** | Dalton Medical | jaarlijks | _[__]_ | _[__]_ | ja (servicerapport Dalton) | ✅ geregeld |
-| **Plexr Omnia** | _[leverancier]_ | _[__]_ | — | — | nee | ⬜ onderhoud regelen |
-| **Vectra** | _[leverancier]_ | _[__]_ | — | — | nee | ⬜ onderhoud + bewijs regelen |
-| **Thermage** | _[leverancier]_ | _[__]_ | — | — | nee | ⬜ nog te regelen |
-| **Ulthera** | _[leverancier]_ | _[__]_ | — | — | nee | ⬜ nog te regelen |
+| **Fotona laser** | Dalton Medical | jaarlijks | jaarlijks (Dalton) | jaarlijks | ja (servicerapport Dalton) | ✅ geregeld |
+| **Plexr Omnia** | nog vast te leggen | n.t.b. | — | — | nee (geen servicerapport) | ⬜ onderhoud regelen (A5) |
+| **Vectra** | nog vast te leggen | n.t.b. | — | — | nee (geen servicerapport) | ⬜ onderhoud + bewijs regelen (A5) |
+| **Thermage** | nog vast te leggen | n.t.b. | — | — | nee (geen servicerapport) | ⬜ nog te regelen (A5) |
+| **Ulthera** | nog vast te leggen | n.t.b. | — | — | nee (geen servicerapport) | ⬜ nog te regelen (A5) |
 | **Medicatiekoelkast** | intern | dagelijkse temp.-controle | doorlopend | — | temp.-registratie | 🔵 bewijs ordenen |
 | **Sterilisator** | intern (controle Moumen) | per gebruik/cyclus | doorlopend | — | controle Moumen | ✅ geregeld |
 

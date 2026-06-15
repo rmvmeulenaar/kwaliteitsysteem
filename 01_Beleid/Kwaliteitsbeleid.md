@@ -45,12 +45,12 @@ Een calamiteit is een niet-beoogde of onverwachte gebeurtenis die betrekking hee
 1.  **Acute fase**
 
       - Zorg eerst voor de patiënt: bel indien nodig 112
-      - Contacteer de dienstdoende arts (tel: _______)
+      - Contacteer de dienstdoende arts — R. Meulenaar (tel: 085-4013678)
       - Bij levensbedreigende situaties: start BLS (Basic Life Support)
 
 2.  **Direct na de acute fase**
 
-      - Informeer de kliniekmanager (tel: _______)
+      - Informeer de directeur/arts (R. Meulenaar, tel: 085-4013678)
       - Documenteer het incident in het VIM-systeem
       - Verzamel alle relevante informatie en documentatie
 
@@ -68,10 +68,7 @@ Een calamiteit is een niet-beoogde of onverwachte gebeurtenis die betrekking hee
 
 #### **Verwijsafspraken**
 
-Bij complicaties die niet in de kliniek behandeld kunnen worden, is er een verwijsafspraak met:
-
-  - [Naam ziekenhuis], afdeling Spoedeisende Hulp, tel: ______
-  - Contactpersoon: Dr. ______
+Er is geen vaste verwijsafspraak met één ziekenhuis. Bij complicaties die niet in de kliniek behandeld kunnen worden, neemt de behandelend arts direct contact op met de dichtstbijzijnde Spoedeisende Hulp of de huisartsenpost (HAP), of belt bij spoed 112. De arts (BIG-geregistreerd) beoordeelt en regelt de verwijzing per geval.
 
 ### **8.2 VIM-procedure (Veilig Incident Melden)**
 
@@ -114,7 +111,7 @@ Elke onbedoelde gebeurtenis tijdens het zorgproces die tot schade aan de patiën
 
 #### **VIM-formulier**
 
-Het gecombineerde VIM-formulier is beschikbaar op [locatie aangeven] en omvat secties voor:
+Het gecombineerde VIM-formulier is beschikbaar in het kwaliteitssysteem (digitaal incidenten-/verbeterregister) en omvat secties voor:
 
   - Basisinformatie incident
   - Risicoclassificatie
@@ -159,9 +156,9 @@ Het gecombineerde VIM-formulier is beschikbaar op [locatie aangeven] en omvat se
 
 3.  **Desinfectiemiddelen**
 
-      - Voor oppervlakken: [product specificeren]
-      - Voor instrumenten: [product specificeren]
-      - Voor handen: [product specificeren]
+      - Voor oppervlakken: goedgekeurd oppervlaktedesinfectiemiddel volgens productinstructie (zie SOP Hygiëne & infectiepreventie)
+      - Voor instrumenten: steriele verwerking / goedgekeurd instrumentdesinfectans (zie SOP Hygiëne & infectiepreventie)
+      - Voor handen: alcoholhoudende handdesinfectie
 
 #### **Instrumentenreiniging**
 
@@ -182,7 +179,7 @@ Het gecombineerde VIM-formulier is beschikbaar op [locatie aangeven] en omvat se
   - Medisch afval in gele containers
   - Scherp afval in naaldencontainers
   - Gewoon afval in reguliere afvalbakken
-  - Afvoer via gecertificeerd bedrijf: [naam bedrijf]
+  - Scherpe voorwerpen / klein medisch afval: in naaldencontainer, ingeleverd bij de apotheek. Overig afval gescheiden volgens lokale regelgeving.
 
 ### **8.4 Medicatieveiligheid**
 
@@ -244,15 +241,15 @@ Het gecombineerde VIM-formulier is beschikbaar op [locatie aangeven] en omvat se
 
 #### **BHV-organisatie**
 
-  - BHV-coördinator: [naam], tel: ______
-  - BHV'ers: [namen], tel: ______
+  - BHV-coördinator: R. Meulenaar (arts), tel. 085-4013678
+  - BHV'ers: geen aparte BHV'ers — micro-organisatie (arts + 1 medewerker); de BIG-geregistreerde arts vervult de EHBO-/eerstehulprol
   - Taken BHV'ers: brand bestrijden, ontruimen, eerste hulp verlenen
 
 #### **Alarmering**
 
 1.  **Intern alarm**
 
-      - Mondeling of via telefoon intern nummer: ______
+      - Mondeling/telefonisch binnen het kleine team (overzichtelijke ruimte per locatie)
       - BHV-app op mobiele telefoons
 
 2.  **Extern alarm**
@@ -271,7 +268,7 @@ Het gecombineerde VIM-formulier is beschikbaar op [locatie aangeven] en omvat se
 
       - Primaire route: via hoofdingang
       - Secundaire route: via nooduitgang achterzijde
-      - Verzamelplaats: [locatie aangeven]
+      - Verzamelplaats: buiten, op veilige afstand van de ingang
 
 3.  **Taken tijdens ontruiming**
 
@@ -309,9 +306,9 @@ Het gecombineerde VIM-formulier is beschikbaar op [locatie aangeven] en omvat se
 
 3.  **Brandbestrijdingsmiddelen**
 
-      - Brandblussers: locaties [aangeven]
-      - Brandslanghaspels: locaties [aangeven]
-      - Brandmeldknoppen: locaties [aangeven]
+      - Brandblussers: aanwezig op de locaties (o.a. Sittard en Enschede)
+      - Brandmelders: in alle ruimtes aanwezig (alle locaties)
+      - Vluchtroutes: meerdere vluchtuitgangen per locatie (±5 deuren); overige brandvoorzieningen conform het pand
 
 ### **8.6 Privacybeleid**
 

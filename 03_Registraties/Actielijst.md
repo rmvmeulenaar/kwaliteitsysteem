@@ -25,6 +25,8 @@
 - 🔵 **A7** Nascholingsplan 2024–2029 gemaakt (GAIA 9/200) — punten halen + kwartaalbewaking
 - 🔵 **V2** Bekwaamheidsborging: **jaarlijkse kennisquiz ✅ gemaakt** (AI-gegenereerd uit SOP's) — medische antwoorden verifiëren + bekwaamheidsoverzicht per medewerker
 - ⬜ **V3** Taken/verantwoordelijkheden helder vastleggen (incl. Romy)
+- ⬜ **Arbeidscontract Moumen**: type (vast/tijdelijk), ingangsdatum en bewaarlocatie vastleggen + bevestigen dat het huidige contract getekend en geldig is (liep 2025 een keer af zonder tijdige verlenging — checken)
+- ⬜ **A5-detail** iLOQ-storingsnummer + leverancierscontacten Plexr/Vectra/Thermage/Ulthera opzoeken en toevoegen
 - ⬜ Oude "SOP laserbehandeling" (ChatGPT-transcript) schrappen
 
 ## ⚙️ Systeem / operationeel
