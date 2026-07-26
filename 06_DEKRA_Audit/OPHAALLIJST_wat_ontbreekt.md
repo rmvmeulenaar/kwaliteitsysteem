@@ -63,6 +63,26 @@ Plus `00_Formulierenoverzicht.md`: het beheerde overzicht dat §7.5.1 vraagt en 
 
 ---
 
+## Zoekresultaten 26-07-2026 — Gmail en Google Drive volledig doorzocht
+
+Claude heeft op 26-07-2026 de mailbox (rmvmeulenaar@gmail.com) en Google Drive systematisch doorzocht op alle bovenstaande punten. Per punt de uitkomst:
+
+| # | Punt | Gevonden? | Waar / wat |
+|---|---|---|---|
+| 1 | Voorraadregistraties mrt–jul 2025 | ❌ niet in mail/Drive | De SOP van destijds schreef registratie via **WhatsApp PVI-groep + foto's** voor — de enige resterende vindplaats is je telefoon (WhatsApp-groep en cameraroll mrt–jul 2025). Mail en Drive bevatten ze niet. |
+| 2 | Foto's voorraadcontroles | ❌ niet in Drive | Zelfde: alleen nog je cameraroll/WhatsApp. Map "Voorraad (moet nog)" in Drive is leeg. |
+| 3 | Auditprogramma/interne auditplanning 2024–2026 | ❌ niet gevonden | Niet in Gmail, niet in Drive. DEKRA-correspondentie in deze mailbox stopt bij 2023 (bep.hermans@dekra.com); de 2025-correspondentie liep vermoedelijk via management@praktijkvoorinjectables.nl (Freshdesk). |
+| 4 | Temperatuurregistratie koelkast (historisch) | ❌ niet gevonden | Geen logboek in mail/Drive. Registratie start eerlijk per 26-07-2026 op F-01. |
+| 5 | Moumens getekende arbeidsovereenkomst | ⚠️ deels | In Drive (map "Moumen al Saadon") staat alleen een **leeg contractsjabloon** — geen getekend exemplaar. Wél: Nmbrs-melding 19-02-2025 dat zijn contract afliep op **31-03-2025** (bevestigt dat er een contract in Nmbrs staat). Getekend exemplaar: in Nmbrs of papieren dossier zoeken. |
+| 8 | Huurovereenkomsten Enschede/Sittard | ⚠️ deels | **Nijmegen:** huurcontract "suite 7" (2021) staat in Drive ✅. **Enschede:** onderhuurcontract-concept (Gezondheidscentrum Wesselerbrink, Wesseler-Nering 60-14) waaruit blijkt dat PVI hoofdhuurder is — maar het eigen hoofdhuurcontract zit niet in mail/Drive. **Sittard** (Kopenhagenstraat 5): niets gevonden. |
+| 9 | Verwerkersovereenkomsten | ✅ | Clinicminds-DPA van kracht (bewijsmail 06-11-2025); VREST getekend 27-03-2024; Typeform/Resend via standaardvoorwaarden. Zie EISEN-document §7. |
+| 10 | Klanttevredenheidsonderzoek 2020/21 | ❌ niet gevonden | De onderbouwing van de 95% / 8,8 zit niet in mail of Drive. |
+| — | Vectra-onderhoud | ✅ actie gezet | Canfield-contact gevonden (Elena Berendse, canfieldsci.com — CCA-renewal-mail 2021). Conceptmail met verzoek om onderhoudsschema + Canfield Care-status staat klaar in Gmail-drafts. |
+
+**Wat dit betekent voor morgen:** de punten die niet gevonden zijn, zíjn er hoogstwaarschijnlijk niet (buiten je telefoon). Dat is geen ramp — het standpunt blijft: eerlijk zeggen wat er niet is, laten zien wat er sinds 26-07 wél staat, en de WhatsApp/foto-check van punt 1 en 2 kun je desnoods morgenochtend nog op je telefoon doen.
+
+---
+
 ## De patiëntformulieren — dit is geen gat
 
 Informed consent, intake- en anamneseformulier en behandelregistratie staan **in Clinicminds** als sjabloon, niet als los papier. Dat is geen tekortkoming, dat is een keuze. Laat het morgen gewoon live zien op het scherm; dat is overtuigender dan een print. In het formulierenoverzicht staat die scheiding nu expliciet uitgelegd: patiëntgegevens in het EPD, praktijkregistraties in het kwaliteitssysteem.
