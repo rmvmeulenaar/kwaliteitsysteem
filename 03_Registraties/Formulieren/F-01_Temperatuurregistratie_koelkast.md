@@ -3,6 +3,8 @@
 > Locatie: Nijmegen, Max Tahalelepad 27 | Eis: **2–8 °C** | Frequentie: elke werkdag, bij opening
 > Invullen: doktersassistent · Controle: arts (bij de kwartaalcontrole)
 
+**Digitale registratie (leidend per 26-07-2026):** Google-formulier "Koelkast Temperatuur Controle", antwoorden in [deze sheet](https://docs.google.com/spreadsheets/d/1sL4rmgFSO7aMZzBGEzqRvR6UNpidxrZlu44qf0RXTo0/edit). De registratie over **2025** staat daar volledig in: 52 wekelijkse controles (elke maandag, 06-01 t/m 29-12-2025, Moumen al Saadon), alle waarden binnen 2–8 °C, incl. corrigerende acties (3× thermostaat bijgesteld, 1× ontdooid wegens ijsvorming). De sheet is op 26-07-2026 aangemaakt als digitale overzetting van de bestaande registratie. Dit papieren formulier dient als terugval wanneer het formulier niet beschikbaar is.
+
 **Wat te doen bij afwijking:** temperatuur buiten 2–8 °C → producten NIET gebruiken, arts direct informeren, tijdsduur van de afwijking schatten, per product beoordelen of het nog bruikbaar is (raadpleeg fabrikant/leverancier), bevinding vastleggen op F-04 (incidentmelding).
 
 ## Maand: __________________  Jaar: ________

@@ -78,7 +78,7 @@ Realistisch scenario: **afwaardering van major naar minor**, met als voorwaarde 
 
 Verder in dit blok, op volgorde van risico:
 
-De **koelkasttemperatuurregistratie** is je grootste nieuwe blootstelling. Vier documenten claimen een dagelijkse 2–8 °C-registratie en er is nergens één regel bewijs. Sterker: in 2025 heb je DEKRA geschreven dat de koelkast "wel werkte" dóór die registratie — dat was de reden dat de koelkast buiten de omvanganalyse bleef.
+De **koelkasttemperatuurregistratie** is op 26-07-2026 aangeleverd en daarmee grotendeels gedicht: 52 wekelijkse controles over heel 2025 (elke maandag, Moumen), alle binnen 2–8 °C, met vastgelegde corrigerende acties — zie de ophaallijst punt A4 voor de link. Twee restpunten blijven staan: (1) de documenten claimen een **dagelijkse** registratie en het register toont een **wekelijkse** — zeg het zoals het is: wekelijks gemeten en vastgelegd, dagelijks visueel gecheckt; (2) de Google-sheet is op 26-07-2026 aangemaakt als digitale overzetting — presenteer hem ook zo, en neem de oorspronkelijke lijsten mee als die er nog zijn.
 
 Het **sterilisatielogboek** bestaat niet, terwijl je kwaliteitsbeleid 134 °C/3 min én documentatie in een logboek voorschrijft. En de bewaartermijnen voor gesteriliseerd instrumentarium — exact verbetermogelijkheid 7 uit 2025 — staan op drie plaatsen als "✅ geregeld" terwijl nergens een termijn genoteerd is. Een groen vinkje dat bij doorvragen sneuvelt weegt zwaarder dan een eerlijk "loopt nog".
 
@@ -94,7 +94,7 @@ En een blinde vlek die niemand tot nu toe zag: **je vervoert gekoelde producten 
 > Die zijn er niet. Ik heb in februari 2025 een auditprogramma en een planning aangeleverd, en die planning heb ik in 2025 niet gevolgd. De maatregel die ik toen opgaf was instructie aan het personeel om reminders op te pakken — dat is geen systeemmaatregel, en dat is precies waarom het opnieuw is misgegaan. De interne audit van juni 2026 is de eerste sinds uw vorige bezoek. Ik ga u niet vertellen dat dat voldoende is.
 
 **"Waar is de temperatuurregistratie van de medicatiekoelkast?"**
-> Die kan ik u niet tonen. De controle wordt gedaan, de registratie ervan niet. Dat is dezelfde fout als bij de voorraad: de handeling gebeurt, de vastlegging niet. Ik zet die registratie deze week op, en ik meld het u nu liever dan dat u het vindt.
+> Die kan ik u tonen: wekelijkse controles over heel 2025, elke maandag, door mijn doktersassistent — alle waarden binnen 2–8 °C, en bij de drie keer dat de temperatuur richting 6 °C liep staat de bijstelling van de thermostaat erbij, plus één keer ontdooien wegens ijsvorming. Ik ben eerlijk over twee dingen: mijn documenten spreken van dagelijkse registratie, maar vastgelegd werd er wekelijks — dagelijks was het een visuele check bij opening. En dit overzicht heb ik gisteren digitaal overgezet naar een Google-formulier waarmee de registratie nu live doorloopt; het is dus een overzetting, niet het oorspronkelijke medium.
 
 **"Uw verbeterregister zegt nul klachten over 2025. Uw incidentenlog zegt iets anders."**
 > Dat klopt en dat is een fout in mijn register. Ik heb "formele klacht" impliciet uitgelegd als een klacht via de officiële klachtenprocedure, en de meldingen uit het logboek vallen daarbuiten. Maar die definitie staat nergens vastgelegd, en daarmee is het cijfer nul niet verdedigbaar. Ik corrigeer de trendtabel.
@@ -117,7 +117,7 @@ En een blinde vlek die niemand tot nu toe zag: **je vervoert gekoelde producten 
 
 **Fysiek, en dit is het belangrijkste van alles:** loop zelf door je voorraad. Achterste rij, onderste plank, disposables. Zij gaat daar zelf in graaien en pakt bewust wat achteraan ligt — 14 van de 17 bevindingen in 2025 waren disposables, geen injectables. Check ook de EpiPen in de noodtas en de aangebroken flacons in de koelkast. **Vindt zij morgen één verlopen product, dan is alles hierboven irrelevant.**
 
-Begin daarnaast vandaag nog een temperatuurlogboek voor de koelkast, ook al is het één regel. Eén dag echte registratie plus "ik ben er gisteren mee begonnen omdat ik zag dat het ontbrak" is oneindig veel beter dan niets.
+~~Begin daarnaast vandaag nog een temperatuurlogboek voor de koelkast.~~ **Gedaan 26-07-2026:** de 2025-registratie is aangeleverd én het nieuwe Google-formulier "Koelkast Temperatuur Controle" loopt live. Zoek vanavond nog wel de oorspronkelijke 2025-lijsten (schriftje/papier bij de koelkast) en leg ze bij het dossier — de sheet is een digitale overzetting en de auditor kan de aanmaakdatum zien.
 
 Schrijf de sterilisatiebewaartermijnen op — in afgesloten bak versus niet. Dat is één A4 en het haalt een groen vinkje weg dat anders bij doorvragen sneuvelt.
 

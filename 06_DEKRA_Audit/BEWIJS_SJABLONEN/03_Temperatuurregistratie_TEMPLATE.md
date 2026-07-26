@@ -1,5 +1,7 @@
 # Temperatuurregistratie medicatiekoelkast — TEMPLATE
 
+> ✅ **NIET MEER NODIG ALS GAT-VULLER — registratie 2025 is op 26-07-2026 aangeleverd.** Zie ophaallijst punt A4: Google Sheet met 52 wekelijkse controles over heel 2025, alle binnen 2–8 °C, incl. corrigerende acties. Dit sjabloon blijft staan als terugval/papieren variant. De thermometerverificatie hieronder is nog wél open — die 5 minuten blijven de moeite waard.
+
 **Norm:** §8.5.4 · §7.1.5 · §7.5.3 · Grenswaarden: **2–8 °C**
 Locatie: ____________ · Maand/jaar: ____________ · Thermometer/logger: ____________
 
