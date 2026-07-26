@@ -47,7 +47,7 @@ Ja. Wij hebben de verbetermogelijkheden uit het rapport van vorig jaar één voo
 | 4 | Periodieke taken in een kalender/actielijst | ✅ actielijst met vast wekelijks/kwartaal/jaar-ritme | Actielijst |
 | 5 | ARBO opnieuw bezien | 🔵 lichte RI&E opgesteld; toetsing/afronding loopt | RI&E / ARBO |
 | 6 | Apparatuuroverzicht | ✅ overzicht aangemaakt; onderhoudsbewijs deels nog aan te vullen | Apparatuuroverzicht |
-| 7 | Sterilisator-gebruikstermijnen | ✅ geregeld | Apparatuuroverzicht |
+| 7 | Sterilisator-gebruikstermijnen | ✅ bewaartermijnen schriftelijk vastgelegd (26-07-2026) | F-02 Sterilisatielogboek + bewaartermijnen |
 
 Bij de punten die nog op 🔵 staan (5 en deels 6) is dat eerlijk weergegeven: de RI&E-toetsing en een deel van het onderhoudsbewijs worden op dit moment afgerond.
 

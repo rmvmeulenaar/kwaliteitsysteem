@@ -180,7 +180,7 @@ De Arbowet maakt geen onderscheid naar type bedrijf of omvang voor de basisverpl
   - Procedure datalekken implementeren
   - NEN 7510 implementeren
   - Toestemmingsformulieren patiënten
-  - Bewaartermijnen vastleggen (15 jaar)
+  - Bewaartermijnen vastleggen (20 jaar, Wgbo sinds 2020)
 
 ### **ARBO en Veiligheid**
 

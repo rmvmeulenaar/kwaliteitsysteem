@@ -18,7 +18,7 @@
 
 ## Deel 3 — Veiligheid & kwaliteit
 9. Binnen welke termijn meld je een calamiteit bij de IGJ? *(binnen 3 werkdagen — SOP Calamiteiten)*
-10. Hoe lang bewaar je een medisch dossier minimaal (AVG/WGBO)? *(minimaal 15 jaar)*
+10. Hoe lang bewaar je een medisch dossier minimaal (AVG/WGBO)? *(minimaal 20 jaar — Wgbo sinds 2020)*
 11. Welk principe geldt bij voorraadbeheer om verloop te voorkomen? *(FIFO — oudste eerst; kleine voorraad; kwartaalcontrole — §8.5.4)*
 12. Waar registreer je klachten/complicaties? *(in Clinicminds; trend in het verbeter-/klachtenregister)*
 13. Wat moet vastliggen vóór een behandeling start? *(informed consent + volledige anamnese in het dossier)*

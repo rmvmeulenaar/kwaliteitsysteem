@@ -1,4 +1,4 @@
-# Complete ISO-certificering Checklist voor Kleine Privékliniek (2 FTE)
+# Complete ISO-certificering Checklist voor Kleine Privékliniek (±2,5 FTE)
 *Pragmatische Aanpak*
 
 > Bron: Google Drive fileId: 10iDodjV6Z7ZJYXzBDj0Mj_Rnea5hTCXpoH59Tjo4qVA
@@ -15,7 +15,7 @@
 - **5.1.1** Getekende verklaring directie (1 paragraaf)
 - **5.1.2** Korte beschrijving patiëntgerichtheid (enkele zinnen)
 - **5.2** Kwaliteitsbeleid op 1 A4 (met kernwaarden)
-- **5.3** Mini-organogram met taakverdeling tussen de 2 FTE
+- **5.3** Mini-organogram met taakverdeling tussen de drie betrokkenen (arts, doktersassistent, parttime administratie)
 
 ### 6. Planning
 - **6.1** Top-5 risico's en bijbehorende beheersmaatregelen

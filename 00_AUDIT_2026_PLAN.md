@@ -23,7 +23,7 @@
 | Certificaat | 2224371 · NEN-EN-ISO 9001:2015 (NL) |
 | Scope | Ambulante cosmetische behandelingen, niet-chirurgisch · 3 locaties (Nijmegen hoofd, Enschede, Sittard) · §8.3 n.v.t. |
 | Laatste audits | S1 surveillance 24-02-2025 · CAO-beoordeling 08-08-2025 |
-| **Volgende audit** | S1 noemde **3 feb 2026, 9:00–13:00** (audit nr. 64801) — **⚠️ datum bevestigen, lijkt verschoven** |
+| **Volgende audit** | **27-07-2026** (audit nr. 64801) — datum bevestigd. S1 reserveerde oorspronkelijk 3 feb 2026; de audit is verschoven. |
 | Lead auditor | M. Smit (DEKRA) |
 
 ### Tekortkomingen
@@ -79,7 +79,7 @@ Maar de beoordeelde SOP heet "v1.0" met **3-maandelijkse** checklist, en de loss
 - [x] 4. Periodieke taken in een **kalender/actielijst** — actielijst + ritme
 - [ ] 5. **ARBO** opnieuw bezien — 🔵 lichte RI&E opgesteld; maatregelen fysiek bevestigen
 - [x] 6. **Apparatuuroverzicht** met controle-eisen — gemaakt; 🔵 onderhoudsbewijs/leveranciers deels
-- [x] 7. **Sterilisator**: bewaartermijnen — geregeld
+- [x] 7. **Sterilisator**: bewaartermijnen — schriftelijk vastgelegd in F-02 (per 26-07-2026); extern jaarlijks onderhoud (RIVM) nog te regelen, zie apparatuuroverzicht
 
 ---
 

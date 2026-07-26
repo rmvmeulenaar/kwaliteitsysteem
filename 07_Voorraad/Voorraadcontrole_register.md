@@ -33,4 +33,4 @@
 - **Q2 2027** → juni 2027
 
 ## Overige locaties (Enschede, Sittard)
-Werkvoorraad wordt per behandeldag meegenomen. _Vaste voorraad ter plaatse: te bevestigen — zie vraag aan Rogier._
+Werkvoorraad wordt per behandeldag meegenomen. Op de nevenlocaties Enschede en Sittard wordt geen vaste voorraad aangehouden; alle producten worden per behandeldag meegenomen en weer teruggenomen naar Nijmegen. Daardoor is er buiten Nijmegen geen voorraad die kan verlopen.

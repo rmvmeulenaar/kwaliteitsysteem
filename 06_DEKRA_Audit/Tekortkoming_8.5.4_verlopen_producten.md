@@ -9,7 +9,7 @@ Datum bijgewerkt: 2025-08-05
 
 **Norm:** NEN-EN-ISO 9001:2015 §8.5.4 — Preservering (Bewaring van producten)
 
-**Bevinding:** Tijdens de DEKRA-audit op [datum 2025] zijn 17 verlopen producten aangetroffen in de actieve voorraad van PVI Clinic. Dit vormt een ernstige tekortkoming (major non-conformity) ten aanzien van §8.5.4 van de ISO 9001:2015-norm.
+**Bevinding:** Tijdens de DEKRA-surveillance-audit op 24-02-2025 zijn 17 verlopen producten (3 injectables, 14 disposables) aangetroffen in de actieve voorraad van PVI Clinic. Dit vormt een ernstige tekortkoming (major non-conformity) ten aanzien van §8.5.4 van de ISO 9001:2015-norm.
 
 ---
 

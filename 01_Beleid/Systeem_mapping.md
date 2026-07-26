@@ -2,7 +2,7 @@
 
 ## **1. Inleiding**
 
-Dit document beschrijft de digitale workflows en kwaliteitsborging van een kleine privékliniek (2-3 FTE) die gebruikmaakt van Clinicminds als EPD en Freshdesk voor klantenservice. De nadruk ligt op efficiënte integratie van systemen met behoud van persoonlijke zorg en kwaliteitscontrole.
+Dit document beschrijft de digitale workflows en kwaliteitsborging van een micro-privékliniek (±2,5 FTE) die gebruikmaakt van Clinicminds als EPD, met telefoon en WhatsApp Business voor klantcontact. De nadruk ligt op efficiënte integratie van systemen met behoud van persoonlijke zorg en kwaliteitscontrole.
 
 ## **2. Systeemoverzicht en Samenhang**
 

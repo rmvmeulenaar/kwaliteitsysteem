@@ -1,6 +1,6 @@
 # Interne audit 2026 — PVI Clinic B.V.
 
-- **Auditdatum:** _[de dag dat jullie dit samen doorlopen]_ · **Auditor:** R. Meulenaar (directeur)
+- **Auditdatum:** 11-06-2026 · **Auditor:** R. Meulenaar (directeur)
 - Bij een micro-organisatie (±2,5 FTE) is zelf-auditeren met gestructureerde checklist geaccepteerd; de beperkte onafhankelijkheid is hieronder benoemd.
 - **Norm:** NEN-EN-ISO 9001:2015 · **Scope:** ambulante cosmetische behandelingen, niet-chirurgisch
 - **Methode:** documentbeoordeling + fysieke rondgang + registratiecontrole · **Team:** Rogier (directeur/arts), Moumen (doktersassistent), Romy (partner — bestellingen/administratie)
@@ -48,7 +48,7 @@
 
 ## BLOK 7 — Facilitair & apparatuur (§7.1.3–7.1.4)
 **Bevindingen:**
-- Sterilisator: in gebruik en termijnen geregeld ✅ (controle door Moumen)
+- Sterilisator: in gebruik en termijnen geregeld ✅ (controle door Moumen) — *naschrift 26-07-2026: "geregeld" gold destijds de praktijk (mondeling); de bewaartermijnen zijn per 26-07-2026 schriftelijk vastgelegd in F-02 en het cycluslogboek is toen gestart. Bij de auditvoorbereiding is bovendien vastgesteld dat er ook periodiek extern onderhoud hoort (RIVM: jaarlijks incl. sensorkalibratie) — als openstaand punt in het apparatuuroverzicht opgenomen.*
 - Hygiëne/schoonmaak: wekelijks uitgevoerd ✅
 - Fotona-laser: onderhoud geregeld ✅
 - **A5** (§7.1.4): geen apparatuuroverzicht met onderhoudseisen/deadlines, en onderhoudsbewijs Vectra + koelkast ontbreekt → overzicht maken + bewijs verzamelen.

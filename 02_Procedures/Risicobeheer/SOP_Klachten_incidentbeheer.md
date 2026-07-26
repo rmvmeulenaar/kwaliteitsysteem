@@ -6,7 +6,7 @@ Een effectieve en transparante afhandeling van klachten en incidenten om kwalite
 
 ### **Verantwoordelijkheden:**
 
-  - **Kliniekmanager:** Hoofdverantwoordelijk voor klachtenafhandeling en opvolging.
+  - **Directeur/arts (R. Meulenaar):** hoofdverantwoordelijk voor klachtenafhandeling en opvolging.
   - **Behandelaar:** Documenteren en evalueren van klachten en incidenten.
   - **Patiëntcontactpersoon:** Communicatie met de patiënt.
 

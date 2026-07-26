@@ -1,125 +1,133 @@
-# Standaard Operationele Procedure (SOP) – Seffiller-behandelingen
-*Conform ISO 9001-richtlijnen*
+# Standaard Operationele Procedure (SOP) — Seffiller (SEFFI, autologe vettransplantatie klein volume)
+*Conform ISO 9001:2015*
 
-> Bron: Google Drive fileId: 1gDBlLx7ubol5q3M3LaRjbJfZEDBnWhQftcqUwJ5SfQ0
-> Versie: 1.0 | Geldig vanaf: 01-01-2025 | Goedgekeurd door: R. M. V. Meulenaar | Volgende revisie: 01-01-2027
+> Versie: 2.0 | Geldig vanaf: 26-07-2026 | Opgesteld door: R. Meulenaar | Goedgekeurd door: Romy Bosvelt | Volgende revisie: 26-07-2028
 
-## 1. Doel en Toepassingsgebied
+> **Wijziging t.o.v. v1.0:** v1.0 beschreef ten onrechte een chirurgische ingreep (liposuctie, plastisch chirurg, OK-tafel, sedatie, OK-verpleegkundige). Dat is nooit de werkwijze van deze praktijk geweest. Deze versie beschrijft de procedure zoals die feitelijk wordt uitgevoerd: kleinvolume vetoogst met een gesloten, gestandaardiseerd wegwerppakket onder lokale anesthesie, in de reguliere behandelkamer.
 
-Deze SOP beschrijft de procedure voor het uitvoeren van Seffiller-behandelingen in een privékliniek. Het doel is om:
+---
 
-- Een uniforme, veilige en kwalitatief hoogwaardige werkwijze te waarborgen bij het afnemen en herinjecteren van autoloog vetweefsel (inclusief stamcellen).
-- Te voldoen aan geldende wet- en regelgeving en de eisen van ISO 9001.
-- Patiëntveiligheid te borgen, complicaties te beperken en de resultaten te optimaliseren.
+## 1. Doel en toepassingsgebied
 
-Deze SOP is van toepassing op alle betrokken zorgverleners (artsen, verpleegkundigen, huidtherapeuten) en ondersteunend personeel die bij de Seffiller-behandeling betrokken zijn.
+Deze SOP beschrijft de Seffiller-behandeling zoals uitgevoerd bij PVI Clinic B.V.: het oogsten van een **kleine hoeveelheid lichaamseigen vetweefsel** onder lokale anesthesie, het bewerken daarvan in een **gesloten wegwerpsysteem**, en het direct herinjecteren als natuurlijke filler.
 
-## 2. Definities en Afkortingen
+Doel: een uniforme, veilige en reproduceerbare werkwijze, met een heldere taakverdeling die past bij de omvang van de praktijk.
 
-- **SOP**: Standaard Operationele Procedure
-- **ISO 9001**: Internationale norm voor kwaliteitsmanagementsystemen
-- **Seffiller**: Een procedure waarbij autoloog (lichaamseigen) vetweefsel, inclusief stamcellen, wordt afgenomen en verwerkt voor herinjectie met het doel om weefsel te regenereren of te vullen (esthetische toepassingen).
-- **PPE**: Persoonlijke beschermingsmiddelen (handschoenen, mondmasker, beschermbril, e.d.)
-- **Steriel veld**: Een afgescheiden gebied met steriele doeken en materialen om contaminatie te voorkomen.
-- **Contra-indicatie**: Een reden of omstandigheid waarbij de uitvoering van deze behandeling wordt afgeraden of uitgesteld.
+**Uitdrukkelijk buiten deze SOP en buiten het aanbod van de praktijk:** liposuctie of grootvolume vetafname, behandeling onder sedatie of algehele anesthesie, en iedere ingreep waarvoor een operatiekamer nodig is. De praktijk voert uitsluitend **ambulante, niet-chirurgische** behandelingen uit, conform het toepassingsgebied van certificaat 2224371.
 
-## 3. Verantwoordelijkheden van alle Betrokken Medewerkers
+Van toepassing op: de cosmetisch arts en de doktersassistent.
 
-1. **Behandelend (Plastisch) Chirurg of Gekwalificeerde Arts**
-   - Stelt de indicatie voor de Seffiller-behandeling.
-   - Voert de procedure (afname, verwerking en herinjectie) uit of superviseert deze.
-   - Informeert de patiënt over de voor- en nazorg, mogelijke bijwerkingen en complicaties.
-   - Draagt eindverantwoordelijkheid voor het behalen van een veilig en optimaal resultaat.
-2. **Assistent(e) / (OK-)Verpleegkundige / Huidtherapeut**
-   - Bereidt de benodigde materialen en apparatuur voor.
-   - Assisteert bij de afname (liposuctie) en de injectie van het vetweefsel, waar bevoegd en bekwaam.
-   - Bewaakt de steriliteit van het veld en zorgt voor hygiënische en veilige werkomstandigheden.
-   - Voert eventueel de nazorg (verzorging van insteekopeningen, verbandwissel, instructies) uit.
-3. **Kliniekmanager / Kwaliteitsfunctionaris**
-   - Bewaakt de naleving van deze SOP en ISO 9001-vereisten.
-   - Verzamelt en analyseert kwaliteitsdata (complicaties, patiënttevredenheid, etc.) en initieert verbeteracties.
-   - Coördineert periodieke audits en (her)certificeringstrajecten.
-4. **Administratief Medewerker**
-   - Verifieert patiëntgegevens en legt deze vast in het medisch dossier.
-   - Plant de afspraken en is verantwoordelijk voor facturering en dossiervoering.
-   - Beheert eventuele verklaringen en formulieren (informed consent, complicatieregistratie, etc.).
+## 2. Definities
 
-## 4. Benodigde Materialen en Apparatuur
+- **Seffiller / SEFFI** — Superficial Enhanced Fluid Fat Injection: techniek waarbij een klein volume vetweefsel met een dunne canule wordt geoogst, minimaal wordt bewerkt en direct wordt herinjecteerd als lichaamseigen filler.
+- **Vacu-lock** — spuit met vergrendelbare plunjer die een constant, laag vacuüm opbouwt. Hierdoor wordt het vet met geringe onderdruk geoogst, wat de vetcellen spaart. Vervangt iedere vorm van machinale liposuctie.
+- **Gestandaardiseerd pakket** — het steriele wegwerpset dat per behandeling wordt gebruikt: oogstcanule, Vacu-lock spuit, filter-/transfereenheid en injectiecanules. Eén set, één patiënt, daarna afvoer.
+- **Gesloten systeem** — het vet gaat van oogst tot herinjectie niet open aan de lucht; overzetten gebeurt via luer-lock koppelingen.
+- **Voorbehouden handeling** — handeling in de zin van artikel 36 Wet BIG. Binnen deze procedure zijn dat de lokale anesthesie, de incisie/oogst en de herinjectie.
 
-1. **Seffiller-set** — Steriele canules voor liposuctie, filter-/verzamelunits, injectiespuiten. Verwerkingseenheid (Seffiller kit) voor het separeren/zuiveren van vetweefsel.
-2. **Anesthesiematerialen** — Lokale anesthesiemiddelen (bijv. lidocaïne met adrenaline). Naalden, spuiten en eventueel sedatiemiddelen.
-3. **Instrumentarium en Verbruiksartikelen** — Steriele doeken, gazen, handschoenen, naalden, spuiten. Desinfectiemiddel. Afvalcontainers.
-4. **Overige Apparatuur** — Eventueel een (OK-)tafel, continu monitoringapparatuur, computer/tablet met EPD-toegang.
-5. **Formulieren en Documentatie** — Informed consent, intakeformulier, complicatieregistratieformulier, kwaliteitsregistratieformulier.
+## 3. Verantwoordelijkheden
 
-## 5. Uitgebreide Stapsgewijze Procedure
+De praktijk telt drie betrokkenen. Er zijn geen andere functies bij deze behandeling betrokken.
 
-### 5.1 Pre-behandeling
+**Cosmetisch arts (R. Meulenaar) — uitvoerder**
+- Stelt de indicatie, beoordeelt contra-indicaties en voert het informed-consentgesprek.
+- **Voert zelf alle voorbehouden handelingen uit:** lokale anesthesie, de incisie en vetoogst met de Vacu-lock, en de herinjectie.
+- Draagt de eindverantwoordelijkheid voor het resultaat en voor de afhandeling van complicaties.
+- BIG-geregistreerd; registratie wordt actueel gehouden.
 
-1. **Patiëntidentificatie en Intake** — Verifieer identiteit, voer anamnese uit, evalueer indicatie, laat informed consent ondertekenen.
-2. **Selectie Donorgebied** — Bepaal meest geschikte plaats voor vetafname (buik, flanken, dijen).
-3. **Voorbereiding Behandelkamer** — Reinig en desinfecteer, leg materialen steriel klaar, controleer apparatuur.
-4. **Patiëntvoorbereiding** — Desinfecteer het donorgebied, markeer insteekplaatsen, positioneer patiënt.
+**Doktersassistent (M. Al Saadon) — assisterend**
+- Bouwt de behandelkamer op en legt het gestandaardiseerde pakket steriel klaar.
+- Controleert vóór aanvang de houdbaarheidsdatum en de gaafheid van de steriele verpakking van de set.
+- Assisteert tijdens de ingreep: aanreiken, steriliteit bewaken, patiënt begeleiden.
+- Bedient de filter-/transferstap van het gesloten systeem volgens fabrikantshandleiding, onder direct toezicht van de arts.
+- Verzorgt na afloop het verband, de afvoer van scherp afval en de reiniging van de ruimte.
+- Legt de behandelgegevens vast in Clinicminds en plant de controleafspraak.
+- **Voert geen voorbehouden handelingen uit.** Er wordt binnen deze procedure niets gedelegeerd in de zin van artikel 38 Wet BIG.
 
-### 5.2 Behandeling
+**Administratieve ondersteuning (parttime, R. Bosvelt)**
+- Afspraakbeheer, facturatie en het bijhouden van de voorraad behandelsets.
 
-#### 5.2.1 Afname (Liposuctie)
-1. Dien lokale anesthesie toe in het donorgebied (often gecombineerd met tumescentvloeistof). Wacht inwerktijd af (± 10-15 min).
-2. Maak kleine incisie, breng canule in, neem vetweefsel voorzichtig af, verzamel in Seffiller kit.
+## 4. Benodigde materialen
 
-#### 5.2.2 Verwerking in Seffiller-systeem
-1. Sluit vetweefsel aan op Seffiller-filter/zuiveringssysteem. Volg handleiding om bloed, olie en overtollig vocht te scheiden.
-2. Vul steriele injectiespuiten met de gefilterde vetcellen.
+1. **Gestandaardiseerd Seffiller-pakket (steriel, eenmalig gebruik)** — oogstcanule, Vacu-lock spuit, filter-/transfereenheid, injectiecanules.
+2. **Lokale anesthesie** — lidocaïne met adrenaline; naalden en spuiten. *Geen sedatiemiddelen — deze zijn niet aanwezig en worden niet toegepast.*
+3. **Steriele benodigdheden** — doeken, gazen, handschoenen, huiddesinfectans, pleisters/verband.
+4. **Overig** — behandelstoel, goede verlichting, naaldencontainer, tablet/pc met toegang tot Clinicminds.
+5. **Documentatie** — informed consent, intake-/anamneseformulier, complicatieregistratieformulier.
 
-#### 5.2.3 Herinjectie (Seffiller)
-1. Desinfecteer te behandelen gebied, plaats steriele doeken.
-2. Gebruik fijne canules, breng vetweefsel langzaam in gewenste laag. Pas stabiele, traag terugtrekkende injectiemethode toe.
+Noodmiddelen (AED, zuurstof, noodmedicatie incl. adrenaline) zijn aanwezig conform de SOP Calamiteiten.
 
-### 5.3 Post-behandeling
+## 5. Procedure
 
-1. **Nazorg** — Reinig het gebied, breng steriel verband aan, adviseer patiënt over rust en nazorg, overhandig schriftelijke instructies.
-2. **Controle en Follow-up** — Plan controleafspraak (bijv. na 1-2 weken), bewaak herstel.
-3. **Desinfectie van Ruimte en Materialen** — Verwijder gebruikte naalden en canules, reinig en steriliseer instrumenten, desinfecteer behandelruimte.
+### 5.1 Voorbereiding
+1. Identiteit van de patiënt verifiëren; anamnese, allergieën en antistollingsgebruik controleren.
+2. Indicatie vaststellen; ondertekend informed consent in het dossier.
+3. Donorgebied bepalen (meestal buik of binnenzijde bovenbeen) en aftekenen.
+4. Assistent bouwt de set op; arts controleert steriliteit en volledigheid vóór aanvang.
+5. Huid desinfecteren en steriel afdekken.
 
-## 6. Specifieke Veiligheidsmaatregelen en Voorzorgen
+### 5.2 Oogst — uitgevoerd door de arts
+1. Lokale anesthesie infiltreren in het donorgebied; inwerktijd ± 10 minuten afwachten.
+2. Kleine insteekopening maken (enkele millimeters, hechting niet nodig).
+3. Oogstcanule inbrengen, gekoppeld aan de **Vacu-lock spuit**. Plunjer vergrendelen zodat een constant laag vacuüm ontstaat.
+4. Met rustige, waaiervormige bewegingen het benodigde volume oogsten. Het gaat om een **klein volume** — richtinggevend enkele tientallen milliliters, afhankelijk van de indicatie.
+5. Insteekopening afdekken.
 
-- **Steriel werken**: afname en herinjectie onder steriele omstandigheden.
-- **Gebruikte Naalden/Canules**: direct afvoeren in naaldencontainer, nooit hergebruiken.
-- **Allergieën en Medicaties**: vraag expliciet naar antistolling en allergieën.
-- **Monitoring**: bij grotere hoeveelheden of sedatie kan monitoring vereist zijn.
-- **Noodapparatuur**: houd AED, zuurstof en noodmedicatie binnen handbereik.
+### 5.3 Bewerking — assistent onder toezicht van de arts
+1. Vetweefsel via luer-lock koppelen aan de filter-/transfereenheid; systeem blijft gesloten.
+2. Bloed, olie en tumescentvocht scheiden volgens fabrikantshandleiding.
+3. Injectiespuiten vullen met het gefilterde vet.
 
-## 7. Contra-indicaties en Risico's
+### 5.4 Herinjectie — uitgevoerd door de arts
+1. Behandelgebied desinfecteren en steriel afdekken.
+2. Met fijne canules het vet in kleine hoeveelheden en in de juiste laag inbrengen, terugtrekkend injecteren om gelijkmatige verdeling te bereiken.
+3. Symmetrie beoordelen en het resultaat vastleggen (foto conform toestemming).
 
-**Contra-indicaties**: actieve huidinfectie in donorgebied, ernstige stollingsstoornissen, zwangerschap/borstvoeding, auto-immuunaandoeningen, allergie voor anesthesiemiddelen.
+### 5.5 Nazorg
+1. Insteekopeningen afdekken; mondelinge én schriftelijke nazorginstructies meegeven.
+2. Controleafspraak plannen (1–2 weken).
+3. Scherp afval direct in de naaldencontainer; de gebruikte set wordt volledig afgevoerd — **niets wordt hergebruikt of opnieuw gesteriliseerd**.
+4. Behandelkamer reinigen en desinfecteren conform SOP Hygiëne & infectiepreventie.
 
-**Risico's**: infectie, bloeding, hematoom, lokaal oedeem, vetnecrose (zeldzaam), asymmetrie.
+## 6. Veiligheid
+
+- Steriel werken bij zowel oogst als herinjectie.
+- Eén set per patiënt; controle van houdbaarheid en verpakkingsintegriteit vóór gebruik (koppelt aan de kwartaalcontrole uit de SOP Voorraadbeheer, §8.5.4).
+- Expliciet uitvragen van antistolling en allergieën vóór de anesthesie.
+- Geen sedatie, dus geen bewakingsmonitor vereist; de patiënt is de gehele procedure aanspreekbaar.
+- Noodmiddelen binnen handbereik; handelen bij een acute reactie conform SOP Calamiteiten.
+
+## 7. Contra-indicaties en risico's
+
+**Contra-indicaties:** actieve huidinfectie in donor- of behandelgebied, ernstige stollingsstoornis of niet te onderbreken antistolling, zwangerschap en borstvoeding, actieve auto-immuunaandoening, allergie voor lokale anesthetica, onrealistische verwachtingen.
+
+**Risico's:** blauwe plekken en zwelling (frequent, self-limiting), infectie, hematoom, asymmetrie, wisselende resorptie waardoor een aanvullende sessie nodig kan zijn, zelden vetnecrose of een olie-cyste.
 
 ## 8. Complicatiemanagement
 
-- Infectie: antibiotica in overleg arts, wondverzorging.
-- Hematomen: spontane oplossing of punctie bij grotere hematomen.
-- Allergische Reactie/Anafylaxie: adrenaline, 112 bellen.
-- Vetnecrose: vroegtijdig signaleren en verwijzen.
-- Documentatie: noteer in patiëntendossier, vul complicatieregistratieformulier in.
+- **Infectie** — wondverzorging; antibiotica op indicatie door de arts.
+- **Hematoom** — meestal spontaan herstel; bij een groot hematoom puncteren.
+- **Allergische reactie / anafylaxie** — adrenaline toedienen, 112 bellen, handelen conform SOP Calamiteiten.
+- **Vetnecrose of cyste** — beoordelen bij controle; zo nodig verwijzen.
+- Elke complicatie wordt vastgelegd in het dossier én op het complicatieregistratieformulier.
 
-## 9. Documentatievereisten
+## 9. Documentatie
 
-- Patiëntendossier: anamnese, indicatiestelling, allergieën, gebruikte anesthesiemiddelen, volumes, follow-up.
-- Formulieren: Informed Consent, Intake- en Anamneseformulier, Complicatieregistratieformulier, Kwaliteitsregistratieformulier.
-- Bewaartermijn conform wettelijke vereisten (min. 15 jaar in Nederland).
+Vastgelegd in Clinicminds: indicatie, contra-indicatiecheck, informed consent, donorgebied, geoogst en geïnjecteerd volume, gebruikt anestheticum, lotnummer van de set, uitvoerend arts, bijzonderheden en follow-up. Foto's alleen met schriftelijke toestemming. Bewaartermijn conform de Wgbo: minimaal 20 jaar.
 
-## 10. Referenties Wet- en Regelgeving
+## 10. Wet- en regelgeving
 
-- Wet BIG, Geneesmiddelenwet, AVG, IGJ richtlijnen, Richtlijnen beroepsverenigingen (NVPC, NVEG), ISO 9001.
+Wet BIG (art. 36 en 38), Wgbo, Wkkgz, Geneesmiddelenwet, AVG, IGJ-toezichtkader, richtlijnen NVCG, ISO 9001:2015.
 
-## Meetgegevens voor Kwaliteitsbewaking
+## 11. Kwaliteitsindicatoren
 
-1. Complicatie-incidentie (infectie, bloeding, necrose) per 100 behandelingen.
-2. Patiënttevredenheid (vragenlijst of NPS).
-3. Resultaatbeoordeling via follow-up consulten/foto's.
-4. % patiënten dat binnen 6-12 maanden correctie nodig heeft.
-5. Incidentie van Onverwachte Operaties.
-6. Doorlooptijd van eerste intake tot definitieve behandeling en follow-up.
+1. Complicatie-incidentie per 100 behandelingen.
+2. Patiënttevredenheid (aanbevelingsvraag).
+3. Percentage patiënten dat binnen 12 maanden een aanvullende sessie nodig heeft.
+4. Percentage behandelingen met volledig ingevulde dossierregistratie.
 
-Data worden geregistreerd op het Kwaliteitsregistratieformulier en ten minste eens per kwartaal besproken in het kwaliteits- of MIP-overleg.
+Registratie op het Kwaliteitsregistratieformulier; ten minste eens per kwartaal besproken en meegenomen in de directiebeoordeling.
+
+---
+
+*Versiehistorie: v1.0 (01-01-2025) — generieke tekst, beschreef ten onrechte een chirurgische procedure. v2.0 (26-07-2026) — herschreven naar de feitelijke werkwijze: kleinvolume SEFFI met Vacu-lock en gestandaardiseerd wegwerppakket, taakverdeling arts/assistent expliciet gemaakt, chirurgische elementen en niet-bestaande functies verwijderd.*

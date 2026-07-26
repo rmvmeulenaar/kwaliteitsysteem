@@ -2,7 +2,9 @@
 *Conform ISO 9001-richtlijnen*
 
 > Bron: Google Drive fileId: 17SlpYmipPmIKaJF5wqoZCQ7KeKYW5dkO_GkxbkxERMI
-> Versie: 1.0 | Geldig vanaf: 01-01-2025 | Goedgekeurd door: R. M. V. Meulenaar | Volgende revisie: 01-01-2027
+> Versie: 1.1 | Geldig vanaf: 26-07-2026 | Opgesteld door: R. Meulenaar | Goedgekeurd door: Romy Bosvelt | Volgende revisie: 26-07-2028
+>
+> **Wijziging t.o.v. v1.0 (26-07-2026):** Laser Safety Officer vervangen door de arts als laserveiligheidsverantwoordelijke; niet-bestaande functies verwijderd. Inhoud van de behandeling ongewijzigd.
 
 ## 1. Doel en Toepassingsgebied
 
@@ -12,22 +14,22 @@ Deze SOP beschrijft de werkwijze voor het uitvoeren van laserbehandelingen met d
 - Patiëntveiligheid, kwaliteit en effectiviteit optimaliseren.
 - Voldoen aan relevante wet- en regelgeving en ISO 9001-richtlijnen.
 
-Van toepassing op alle zorgverleners (artsen, huidtherapeuten, verpleegkundigen) en ondersteunende medewerkers die werken met de Fotona Laser.
+Van toepassing op de cosmetisch arts (uitvoerend) en de doktersassistent (assisterend). De praktijk heeft geen huidtherapeuten of verpleegkundigen in dienst.
 
 ## 2. Definities en Afkortingen
 
 - **Fotona Laser**: Een lasersysteem voor dermatologische, esthetische en andere medische toepassingen (bijv. Er:YAG, Nd:YAG).
 - **PPE**: Persoonlijke Beschermingsmiddelen (beschermende bril, handschoenen).
-- **LSO (Laser Safety Officer)**: Aangewezen persoon met eindverantwoordelijkheid voor veiligheid bij lasergebruik.
+- **Laserveiligheidsverantwoordelijke**: de aangewezen persoon met eindverantwoordelijkheid voor veiligheid bij lasergebruik. Binnen deze praktijk is dat de cosmetisch arts.
 - **Contra-indicatie**: Een medische reden waarbij de behandeling niet is geïndiceerd.
 
 ## 3. Verantwoordelijkheden van alle Betrokken Medewerkers
 
-1. **Behandelend Arts / Gekwalificeerde Lasertherapeut** — Indicatie vaststellen, behandelparameters bepalen, procedure uitvoeren of superviseren, patiënt informeren, naleving SOP controleren.
-2. **Assistent(e) / Verpleegkundige / Huidtherapeut** — Behandelruimte en materialen voorbereiden, behandelaar ondersteunen, hygiënisch en veilig werken, apparatuur reinigen.
-3. **Laser Safety Officer (LSO)** — Algemene veiligheid bewaken, laserveiligheidsvoorschriften naleven (calibraties, keuringen, onderhoud, training), risico's beoordelen en minimaliseren.
-4. **Kliniekmanager / Kwaliteitsfunctionaris** — ISO 9001-vereisten borgen, periodieke evaluatie coördineren, documentatie en rapportages bijhouden.
-5. **Administratief Medewerker** — Patiëntidentiteit verifiëren, behandelingen inplannen, patiëntendossier beheren.
+De praktijk telt drie betrokkenen; er zijn geen andere functies bij deze behandeling betrokken.
+
+1. **Cosmetisch arts (R. Meulenaar)** — stelt de indicatie, bepaalt de behandelparameters en voert de laserbehandeling zelf uit. Informeert de patiënt. Is tevens **aangewezen verantwoordelijke voor laserveiligheid**: bewaakt kalibratie, periodieke keuring en onderhoud, en ziet toe op het gebruik van laserbrillen en de afscherming van de behandelruimte. De praktijk heeft geen aparte Laser Safety Officer; deze taak is expliciet bij de arts belegd.
+2. **Doktersassistent (M. Al Saadon)** — bereidt de behandelruimte en materialen voor, controleert dat de laserbrillen aanwezig zijn, assisteert tijdens de behandeling, reinigt het apparaat en legt de behandelgegevens vast in Clinicminds.
+3. **Administratieve ondersteuning (parttime, R. Bosvelt)** — verifieert patiëntgegevens, plant afspraken en verzorgt de facturatie.
 
 ## 4. Benodigde Materialen en Apparatuur
 
@@ -82,7 +84,7 @@ Van toepassing op alle zorgverleners (artsen, huidtherapeuten, verpleegkundigen)
 - Verbranding/Blaarvorming: koel onmiddellijk, steriel kompres, raadpleeg behandelend arts.
 - Infectie: lokale of orale antibiotica/antivirale middelen op voorschrift arts.
 - Pigmentverschuiving: adviseer zonprotectie (SPF 30+), monitor verloop, bij blijvende schade verwijzen naar dermatoloog.
-- Ernstige Oogschade: direct medisch handelen; oogarts. Complicatieregistratie en melding bij LSO.
+- Ernstige Oogschade: direct medisch handelen; oogarts. Complicatieregistratie en melding aan de arts als laserveiligheidsverantwoordelijke.
 - Documentatie: alle complicaties in patiëntendossier en complicatieregistratieformulier.
 
 ## 9. Documentatievereisten
@@ -91,7 +93,7 @@ Van toepassing op alle zorgverleners (artsen, huidtherapeuten, verpleegkundigen)
 - Informed Consent: getekend door patiënt.
 - Complicatieregistratieformulier: bij incidenten of onverwachte bijwerkingen.
 - Kwaliteitsregistratieformulier: voor meetgegevens en indicatoren.
-- Bewaartermijn: minimaal 15 jaar (conform AVG).
+- Bewaartermijn: minimaal 20 jaar (Wgbo sinds 2020).
 
 ## 10. Referenties Wet- en Regelgeving
 

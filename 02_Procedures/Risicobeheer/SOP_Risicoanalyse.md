@@ -6,7 +6,7 @@ Identificeren, beoordelen en beheersen van risico's voor patiëntveiligheid en k
 
 ### **Verantwoordelijkheden:**
 
-  - **Kliniekmanager:** Toezicht op de risicoanalyse.
+  - **Directeur/arts (R. Meulenaar):** verantwoordelijk voor de risicoanalyse en het actueel houden van het risicoregister.
   - **Medisch specialist:** Identificeren en mitigeren van risico's.
   - **Alle medewerkers:** Signaleren en rapporteren van risico's.
 

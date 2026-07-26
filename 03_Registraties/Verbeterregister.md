@@ -1,16 +1,16 @@
 # Verbeter- & klachtenregister — PVI Clinic B.V.
 
 > Gecombineerd register: **klachten/complicaties (trend) + verbeteracties**. AI-beheerd — bij elke PDCA-ronde haalt het systeem de klachten/complicaties uit Clinicminds op en noteert trends + acties. Dekt verbetermogelijkheden #1, #2 en #3 uit DEKRA 55640-1 (lijstgebruik · klachtenoverzicht · vast verbetermoment).
-> Norm: ISO 9001:2015 §9.1.2 + §10.2 · Bijgewerkt: 2026-06-15
+> Norm: ISO 9001:2015 §9.1.2 + §10.2 · Bijgewerkt: 2026-07-26
 
-## Klachten & complicaties (bron: Clinicminds — geaggregeerd, geen patiëntdata)
-| Jaar | Geregistreerde complicaties | Formele klachten | Inspectie (IGJ) |
-|---|---|---|---|
-| 2024 | 2 | geen | geen |
-| 2025 | 0 | geen | geen |
-| 2026 (t/m jun) | 0 | geen | geen |
+## Klachten & complicaties (bron: Clinicminds + incidentenlog — geaggregeerd, geen patiëntdata)
+| Jaar | Geregistreerde complicaties | Formele klachten (klachtenprocedure) | Uitingen van ontevredenheid / kwaliteitsincidenten (incidentenlog) | Inspectie (IGJ) |
+|---|---|---|---|---|
+| 2024 | 2 | geen | geen geregistreerd | geen |
+| 2025 | 0 formeel geregistreerd* | geen | meerdere* | geen |
+| 2026 (t/m jun) | 0 | geen | geen | geen |
 
-*Trend dalend ✅. Klachten/complicaties worden in Clinicminds geregistreerd; het systeem haalt ze per PDCA-ronde op en beoordeelt op trend. Alleen aantallen/types in dit register (AVG).*
+*Correctie 26-07-2026: de eerdere versie van deze tabel rapporteerde over 2025 "0 complicaties, geen klachten" met een dalende trend. Dat cijfer steunde op een impliciete, nergens vastgelegde definitie (alleen meldingen via de formele klachtenprocedure). Het [incidentenlog](Incidentenformulier_brondata.md) over 2025 bevat wél uitingen van ontevredenheid en kwaliteitsincidenten: afspraakannuleringen na blauwe plekken (hematomen — die tellen volgens de nu vastgelegde definitie ook als complicatie, maar zijn destijds niet als zodanig geregistreerd), een ontevreden patiënt, onvolledige informed consent bij meerdere patiënten en een datalek. De definitie klacht vs. complicatie is per 26-07-2026 vastgelegd op [F-03](Formulieren/F-03_Complicatieregistratieformulier.md); vanaf die datum wordt volgens die definitie geregistreerd. De trendclaim "dalend" is vervallen — over 2025 is er geen betrouwbare meting.*
 
 ## Verbeteracties
 | # | Verbeteractie | Bron | Status | Eigenaar |
