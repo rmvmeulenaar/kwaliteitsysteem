@@ -11,9 +11,9 @@
 | Zij vraagt | Bewijs | Kort antwoord |
 |---|---|---|
 | Missie, visie, beleid | `01_Beleid/Kwaliteitsbeleid.md` (v2.0, 26-07-2026) | Beleid jaarlijks geëvalueerd, deze maand herzien |
-| Risico's en kansen | `05_Management/Risicoregister_2026.md` | 10 risico's met score en beheersmaatregel |
+| Risico's en kansen | `05_Management/Risicoregister_2026.md` + `Directiebeoordeling_2026.md` §6 | 13 risico's met score en maatregel; AI als grootste kans én risico (R13); kansen-paragraaf |
 | Belanghebbenden | `03_Registraties/Stakeholder_analyse.md` | — |
-| Doelstellingen | `05_Management/Directiebeoordeling_2026.md` §9 | 5 doelstellingen 2026 |
+| Doelstellingen | `05_Management/Directiebeoordeling_2026.md` §10 | 8 doelstellingen/plannen 2026-2027 |
 | Wijzigingen afgelopen jaar | `06_DEKRA_Audit/Auditvragen_antwoorden_2026.md` vraag 1 | Digitalisering kwaliteitssysteem; geen structuurwijziging |
 | Klimaat/duurzaamheid | `Kwaliteitsbeleid.md` | Kleine praktijk, beperkte footprint |
 | Gebruik DEKRA-logo | Website | Correct toegepast, was vorig jaar akkoord |
@@ -22,11 +22,12 @@
 
 | Zij vraagt | Bewijs | Kort antwoord |
 |---|---|---|
-| Management review | `05_Management/Directiebeoordeling_2026.md` | Volledig, alle §9.3-inputs |
-| Interne audit | `05_Management/Interne_audit_2026.md` (11-06-2026) | Uitgevoerd, 5 bevindingen, acties belegd |
+| Management review | `05_Management/Directiebeoordeling_2026.md` | Volledig, alle §9.3-inputs incl. risico's en kansen (§6, toegevoegd 26-07) |
+| Interne audit | `05_Management/Interne_audit_2026.md` (11-06-2026) | Uitgevoerd: 7 afwijkingen (A1–A7) + 3 verbeterpunten, acties belegd en deels al uitgevoerd |
 | Klachten en incidenten | `03_Registraties/Verbeterregister.md` + `Incidentenformulier_brondata.md` | Register + trend |
 | KPI's | `Directiebeoordeling_2026.md` §3 | Omzet, complicaties, tevredenheid |
-| Klanttevredenheid | `02_Procedures/Administratie/SOP_Klanttevredenheidsmeting.md` | Kwartaalmeting, geautomatiseerd |
+| Klanttevredenheid | `Directiebeoordeling_2026.md` §3 + `SOP_Klanttevredenheidsmeting.md` | Lopende meting sinds jan 2025: ±45 reacties, ca. 87% aanbeveling (doel ≥90%, eerlijk benoemd) |
+| Borging periodieke taken | `taken/LEESMIJ_takensysteem.md` | Takenregister + automatische signalering; gesloten issue = traceerbare uitvoering |
 | Opvolging 7 verbeterpunten S1 | `Auditvragen_antwoorden_2026.md` vraag 4 | 6 afgerond, 1 loopt (ARBO) |
 
 ## 11:15 — Cosmetische behandelingen (P.P.)
@@ -57,6 +58,7 @@
 |---|---|---|
 | Apparatuuroverzicht | `03_Registraties/Apparatuuroverzicht.md` | Overzicht compleet; servicerapporten deels |
 | Sterilisator | `F-02` (logboek + bewaartermijnen, gestart 26-07-2026) | In gebruik; termijnen nu vastgelegd; extern jaarlijks onderhoud nog te regelen — **zelf zeggen** |
+| Temperatuur koelkast | `F-01` + Google Sheet (link in ophaallijst A4) | 52 wekelijkse controles heel 2025, alle 2–8 °C, corrigerende acties genoteerd; loopt live door via formulier. Herkomst eerlijk: digitale overzetting 26-07 |
 | Kalibratie laser | Fotona-servicerapport | Arts is laserveiligheidsverantwoordelijke |
 | ARBO / RI&E | `02_Procedures/Risicobeheer/RIE_ARBO.md` | Lichte RI&E; maatregelen lopen |
 
