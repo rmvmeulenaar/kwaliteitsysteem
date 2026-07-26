@@ -20,7 +20,7 @@ De twee hoogste risico's in het register (R2 en R7, beide score 9) zijn hetzelfd
 | Fase | Wat | Status |
 |---|---|---|
 | **1. Registraties digitaal** (2026 H2) | Google-formulieren voor terugkerende registraties: koelkasttemperatuur ✅ (live 26-07), klanttevredenheid ✅ (live sinds jan 2025), voorraadcontrole en hygiëne volgen | gestart |
-| **2. Signalering** (2026 H2) | Vaste taken (kwartaalcontrole, interne audit, verlengingen, onderhoud) door het systeem laten signaleren i.p.v. door personen — cron/agenda-gestuurd vanuit de repo | in uitvoering |
+| **2. Signalering** (2026 H2) | Vaste taken (kwartaalcontrole, interne audit, verlengingen, onderhoud) door het systeem laten signaleren i.p.v. door personen — cron/agenda-gestuurd vanuit de repo | **live 26-07-2026**: [takenregister](../taken/takenregister.json) + dagelijkse GitHub Action opent issues per taak; gesloten issue = traceerbare uitvoering ([uitleg](../taken/LEESMIJ_takensysteem.md)) |
 | **3. Werkbesprekingen via agents** (2026 H2–2027) | Het dagelijks/wekelijks overleg krijgt een vaste, door een agent voorbereide agenda (openstaande acties, afwijkingen, registratie-status) en een automatisch vastgelegd verslag — daarmee is ook ophaallijst-punt 12 (geen overlegverslagen) structureel opgelost | plan |
 | **4. Interne audits agent-ondersteund** (2027) | Een agent voert de documentcontrole en consistentiechecks van de interne audit uit (zoals de slotcontrole van 26-07-2026 al liet zien); de arts beoordeelt, weegt en stelt vast. De audit blijft een directiebesluit — de agent is het gereedschap | plan |
 | **5. Administratie & inkoop** (2027) | Koppeling Clinicminds/boekhouding, voorraadsignalering, eigen software vervangt abonnementen (doelstelling 8) | plan |
