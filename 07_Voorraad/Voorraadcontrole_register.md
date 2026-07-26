@@ -27,6 +27,8 @@
 ---
 
 ## Kwartaalschema (vooruit)
+De uitvoering gebeurt met de checklist [F-09 Voorraadcontrole-checklist](../03_Registraties/Formulieren/F-09_Voorraadcontrole_checklist.md) (fysieke doorloop: achterste rij, onderste plank, disposables, EpiPen/noodset, aangebroken flacons); de samenvatting komt in dit register. Geplande data (5):
+- **26-07-2026** → slotcontrole vóór de audit van 27-07-2026 (controle #1 op F-09)
 - **Q3 2026** → september 2026
 - **Q4 2026** → december 2026
 - **Q1 2027** → maart 2027
