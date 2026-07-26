@@ -106,6 +106,8 @@ Een geldige verwerkersovereenkomst bevat: **partijen** · **onderwerp en duur** 
 
 Meestal is dit een standaarddocument dat de leverancier aanbiedt — kijk in je Clinicminds-account onder juridisch of instellingen, of in de mail rond het moment dat je klant werd. Hetzelfde geldt voor Typeform en Resend als die persoonsgegevens verwerken.
 
+**✅ Nagegaan 26-07-2026 — dit gat is dicht.** De DPA met Clinicminds is van kracht als onderdeel van het abonnement. Bewijs: mail van Clinicminds (support@clinicminds.com) van 06-11-2025, "DPA agreement update (no action needed)" — zij updaten de subverwerkerslijst (Annex 3) conform artikel 5.1 van de lopende Data Processing Agreement. De DPA zelf staat in de app onder **menu → App settings → Account → Subscription**; daar kan ook expliciet geaccepteerd worden om een **getekende kopie** te ontvangen. Extra: met VREST (IFMS) is een verwerkersovereenkomst ondertekend retour gestuurd op 27-03-2024 (verzonden mail aan t.lowik@vrest.nl, bijlage). Typeform en Resend: DPA zit in de standaardvoorwaarden; kopieën nog downloaden voor het dossier.
+
 ---
 
 ## 8 · Klanttevredenheidsonderzoek 2020/21

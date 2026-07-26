@@ -29,10 +29,10 @@ Deze koop je via de handelaren hierboven. Beoordeel de handelaar, niet de fabrik
 | Leverancier | Apparaat | Onderhoudsafspraak |
 |---|---|---|
 | Dalton Medical | Fotona laser | jaarlijks, servicerapport aanwezig ✅ |
-| n.t.b. | Plexr Omnia | ontbreekt ⬜ |
-| n.t.b. | Vectra | ontbreekt ⬜ |
-| n.t.b. | Thermage | ontbreekt ⬜ |
-| n.t.b. | Ulthera | ontbreekt ⬜ |
+| n.t.b. | Plexr Omnia | ontbreekt ⬜ — geen leverancierscontact in mailarchief gevonden (26-07-2026) |
+| Canfield Scientific | Vectra H2 | ⬜ leverancier benaderd 26-07-2026 — conceptmail met verzoek om onderhoudsschema + status Canfield Care staat klaar in Gmail |
+| n.t.b. | Thermage | ontbreekt ⬜ — eerst vaststellen of het apparaat nog in gebruik is |
+| n.t.b. | Ulthera | ontbreekt ⬜ — eerst vaststellen of het apparaat nog in gebruik is |
 
 ## D · Dienstverleners — dit zijn de belangrijkste
 
@@ -43,9 +43,10 @@ Deze raken de patiëntveiligheid en persoonsgegevens directer dan je fillerhande
 | **Bereidingsapotheek** (naam invullen) | bereidt hormonen — jij bereidt niets zelf | beoordeling + afspraken over kwaliteit/houdbaarheid |
 | **Laboratorium** (naam invullen) | bloedonderzoek TRT/BHT | beoordeling + doorlooptijd-afspraak |
 | **Antwoordservice** (naam invullen) | telefonische bereikbaarheid | beoordeling + verwerkersovereenkomst |
-| **Clinicminds** | EPD — 120× genoemd, je kernsysteem | **verwerkersovereenkomst** |
-| **Typeform** | formulieren/intake | verwerkersovereenkomst |
-| **Resend** | mailverzending | verwerkersovereenkomst |
+| **Clinicminds** | EPD — 120× genoemd, je kernsysteem | **verwerkersovereenkomst is van kracht** ✅ — onderdeel van het abonnement; bewijsmail Clinicminds 06-11-2025 ("DPA agreement update", update subverwerkerslijst Annex 3 conform art. 5.1 DPA). Getekende kopie op te halen in de app: menu → App settings → Account → Subscription → expliciet accepteren |
+| **Typeform** | formulieren/intake | verwerkersovereenkomst — geen los document in mailarchief; DPA maakt bij Typeform standaard deel uit van de gebruiksvoorwaarden, kopie nog downloaden ⬜ |
+| **Resend** | mailverzending | verwerkersovereenkomst — geen los document in mailarchief; DPA maakt bij Resend standaard deel uit van de gebruiksvoorwaarden, kopie nog downloaden ⬜ |
+| **VREST (IFMS)** | evaluatiesysteem functioneren medisch specialist | verwerkersovereenkomst getekend ✅ — dienstverleningsovereenkomst + verwerkersovereenkomst ondertekend retour gestuurd 27-03-2024 (in verzonden mail aan t.lowik@vrest.nl, bijlage) |
 
 ---
 

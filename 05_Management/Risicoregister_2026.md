@@ -11,7 +11,7 @@
 | R3 | Interne audit/directiebeoordeling niet uitgevoerd (herhaling §9.2) | 2 | 3 | **6** | Vaste jaarcyclus + dit register + actielijst | loopt |
 | R4 | Complicatie bij behandeling (medisch) | 1 | 3 | 3 | Protocollen, noodtas, bekwaamheid arts, verwijsafspraken | actueel houden |
 | R5 | Verkeerde verwachtingen klant → ontevredenheid/klacht | 2 | 2 | 4 | Vectra/Faceapp, informed consent, nabellen | doorlopend |
-| R6 | Datalek / AVG-incident (patiëntgegevens, Clinicminds) | 1 | 3 | 3 | SOP AVG, toegangsbeheer, verwerkersovereenkomsten | verwerkersovereenkomsten checken |
+| R6 | Datalek / AVG-incident (patiëntgegevens, Clinicminds) | 1 | 3 | 3 | SOP AVG, toegangsbeheer, verwerkersovereenkomsten | gecheckt 26-07-2026: Clinicminds-DPA van kracht (abonnement; bewijsmail 06-11-2025), VREST getekend 27-03-2024; Typeform/Resend via standaardvoorwaarden, kopieën nog downloaden |
 | R7 | **Sleutelpersoon-risico: alles hangt op één arts/directeur** | 3 | 3 | **9** | Taken delen + documentatie + AI/systeemborging (dit systeem) | structureel aandachtspunt |
 | R8 | Apparatuur niet onderhouden → uitval/onveilig | 2 | 2 | 4 | Apparatuuroverzicht + onderhoudsschema | opgesteld, deels te regelen |
 | R9 | Koelketen-falen medicatiekoelkast | 1 | 3 | 3 | Dagelijkse temperatuurregistratie | bewijs ordenen |
