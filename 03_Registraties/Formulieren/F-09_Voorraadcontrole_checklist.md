@@ -11,7 +11,7 @@
 
 | # | Datum (gepland) | Datum (uitgevoerd) | Uitgevoerd door | Paraaf arts |
 |---|---|---|---|---|
-| 1 | 26-07-2026 (slotcontrole vóór audit) |  |  |  |
+| 1 | 26-07-2026 (slotcontrole vóór audit) | 26-07-2026 | R. Meulenaar |  |
 | 2 | september 2026 (Q3) |  |  |  |
 | 3 | december 2026 (Q4) |  |  |  |
 | 4 | maart 2027 (Q1) |  |  |  |
@@ -23,22 +23,22 @@ Kruis per controlemoment (kolom 1–5, zelfde nummering als hierboven) af:
 
 | Controlepunt | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|
-| Centrale voorraadkast — **achterste rij** gecontroleerd op vervaldata |  |  |  |  |  |
-| Centrale voorraadkast — **onderste plank** gecontroleerd op vervaldata |  |  |  |  |  |
-| Behandelkamer 1 — alle producten op vervaldatum gecontroleerd |  |  |  |  |  |
-| Behandelkamer 2 — alle producten op vervaldatum gecontroleerd |  |  |  |  |  |
-| Medicatiekoelkast — vervaldata gecontroleerd (incl. achterin) |  |  |  |  |  |
-| **Disposables** (naalden, canules, handschoenen, gazen) — vervaldata/steriliteit verpakking |  |  |  |  |  |
-| **Noodset/EpiPen (adrenaline)** — vervaldatum gecontroleerd en genoteerd |  |  |  |  |  |
-| **Aangebroken flacons** — aanbreekdatum genoteerd, houdbaarheid na aanbreken niet overschreden |  |  |  |  |  |
-| Producten < 3 maanden houdbaar geïdentificeerd en vooraan gezet (first-expired-first-out) |  |  |  |  |  |
-| Verlopen producten: **0** aangetroffen (zo niet → afwijking hieronder) |  |  |  |  |  |
+| Centrale voorraadkast — **achterste rij** gecontroleerd op vervaldata | ✓ |  |  |  |  |
+| Centrale voorraadkast — **onderste plank** gecontroleerd op vervaldata | ✓ |  |  |  |  |
+| Behandelkamer 1 — alle producten op vervaldatum gecontroleerd | ✓ |  |  |  |  |
+| Behandelkamer 2 — alle producten op vervaldatum gecontroleerd | ✓ |  |  |  |  |
+| Medicatiekoelkast — vervaldata gecontroleerd (incl. achterin) | ✓ |  |  |  |  |
+| **Disposables** (naalden, canules, handschoenen, gazen) — vervaldata/steriliteit verpakking | ✓ |  |  |  |  |
+| **Noodset/EpiPen (adrenaline)** — vervaldatum gecontroleerd en genoteerd | ✓ |  |  |  |  |
+| **Aangebroken flacons** — aanbreekdatum genoteerd, houdbaarheid na aanbreken niet overschreden | ✓ |  |  |  |  |
+| Producten < 3 maanden houdbaar geïdentificeerd en vooraan gezet (first-expired-first-out) | ✓ |  |  |  |  |
+| Verlopen producten: **0** aangetroffen (zo niet → afwijking hieronder) | ✗ |  |  |  |  |
 
 **Vervaldatum noodset/EpiPen (per controle noteren):**
 
 | Controle # | Vervaldatum EpiPen/adrenaline | Vervanging besteld? |
 |---|---|---|
-| 1 |  | ja / nee / n.v.t. |
+| 1 | 29-12-2027 | n.v.t. (ruim houdbaar) |
 | 2 |  | ja / nee / n.v.t. |
 | 3 |  | ja / nee / n.v.t. |
 | 4 |  | ja / nee / n.v.t. |
@@ -48,8 +48,10 @@ Kruis per controlemoment (kolom 1–5, zelfde nummering als hierboven) af:
 
 | Controle # | Product | Bevinding | Actie | Afgehandeld (datum + paraaf) |
 |---|---|---|---|---|
+| 1 | Verlopen producten aangetroffen bij de doorloop (aantal/omschrijving niet per stuk genoteerd) | Vervaldatum verstreken | Direct uit de voorraad gehaald en afgevoerd op 26-07-2026 | 26-07-2026 |
 |  |  |  |  |  |
-|  |  |  |  |  |
+
+*Leerpunt controle #1: bij volgende controles het afgevoerde product en aantal per stuk noteren vóór afvoer.*
 
 **Nevenlocaties (Enschede, Sittard):** geen vaste voorraad; werkvoorraad gaat per behandeldag mee vanuit Nijmegen en valt onder deze controle. Zie het Voorraadcontrole-register.
 

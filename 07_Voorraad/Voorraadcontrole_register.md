@@ -26,9 +26,22 @@
 
 ---
 
+## Controle #2 — slotcontrole vóór externe audit
+**Datum:** 26-07-2026 · **Uitgevoerd door:** R. Meulenaar · **Checklist:** F-09, controle #1
+
+Volledige fysieke doorloop: voorraadkast (incl. achterste rij en onderste plank), behandelkamers 1 en 2, medicatiekoelkast (incl. achterin), disposables, noodset/EpiPen en aangebroken flacons.
+
+**Bevinding:** er zijn verlopen producten aangetroffen; deze zijn dezelfde dag uit de voorraad gehaald en afgevoerd. Aantal en omschrijving zijn niet per stuk genoteerd — leerpunt voor de volgende controle (vastgelegd op F-09). Na afvoer bevat de voorraad geen verlopen producten meer.
+
+**Noodset/EpiPen (adrenaline):** vervaldatum 29-12-2027 — ruim houdbaar, geen actie nodig.
+
+**Resultaat na opschoning:** 0 verlopen producten in de voorraad. **Acties:** bij volgende controles afgevoerde producten per stuk noteren vóór afvoer.
+
+---
+
 ## Kwartaalschema (vooruit)
 De uitvoering gebeurt met de checklist [F-09 Voorraadcontrole-checklist](../03_Registraties/Formulieren/F-09_Voorraadcontrole_checklist.md) (fysieke doorloop: achterste rij, onderste plank, disposables, EpiPen/noodset, aangebroken flacons); de samenvatting komt in dit register. Geplande data (5):
-- **26-07-2026** → slotcontrole vóór de audit van 27-07-2026 (controle #1 op F-09)
+- **26-07-2026** → slotcontrole vóór de audit van 27-07-2026 (controle #1 op F-09) — ✅ uitgevoerd, zie Controle #2 hierboven
 - **Q3 2026** → september 2026
 - **Q4 2026** → december 2026
 - **Q1 2027** → maart 2027
