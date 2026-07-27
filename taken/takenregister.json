@@ -1,5 +1,6 @@
 {
   "_uitleg": "Machine-leesbaar takenregister. De GitHub Action (.github/workflows/taken-signalering.yml) leest dit bestand dagelijks en opent automatisch een issue wanneer een taak aan de beurt is. Issue sluiten = taak uitgevoerd (traceerbaar met datum en naam). Frequenties: maand | kwartaal | halfjaar | jaar.",
+  "_escalatie": "Blijft een taak-issue open staan, dan mailt .github/workflows/taken-escalatie.yml de eigenaar (dag 3), eigenaar + directeur (dag 7) en daarna wekelijks (vanaf dag 14). Het veld 'email_var' verwijst naar de naam van een GitHub-variabele met het e-mailadres van de eigenaar — adressen staan bewust niet in dit bestand, zodat er geen persoonsgegevens in de repository staan (AVG). Ontbreekt de variabele, dan gaat de mail naar de directeur.",
   "taken": [
     {
       "id": "voorraad-kwartaal",
@@ -15,6 +16,7 @@
       "naam": "Maandcheck koelkastregistratie compleet",
       "frequentie": "maand",
       "eigenaar": "Moumen",
+      "email_var": "EMAIL_MOUMEN",
       "link": "03_Registraties/Formulieren/F-01_Temperatuurregistratie_koelkast.md",
       "omschrijving": "Controleer in de Google Forms-antwoordensheet dat alle wekelijkse temperatuurmetingen van de afgelopen maand zijn ingevuld (elke maandag), alle waarden binnen 2–8 °C, en dat bij afwijkingen een actie genoteerd staat."
     },
@@ -23,6 +25,7 @@
       "naam": "Maandafsluiting hygiënecontrolelijst (F-06)",
       "frequentie": "maand",
       "eigenaar": "Moumen",
+      "email_var": "EMAIL_MOUMEN",
       "link": "03_Registraties/Formulieren/F-06_Hygienecontrolelijst.md",
       "omschrijving": "Wekelijkse schoonmaak/hygiënecontroles van de afgelopen maand aftekenen op F-06 en de maand afsluiten."
     },

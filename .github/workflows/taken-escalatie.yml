@@ -1,0 +1,36 @@
+name: Escalatie openstaande taken
+
+# Bewaakt de opvolging van de taken-signalering: staat een taak-issue te lang open,
+# dan gaat er een herinnering naar de eigenaar en — bij aanhoudend uitblijven —
+# naar de directeur. Draait na de signalering van 05:30 UTC.
+
+on:
+  schedule:
+    - cron: "0 6 * * *"    # dagelijks 06:00 UTC (08:00 NL zomertijd)
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Proefdraaien zonder mail te versturen"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  escaleer:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Escalatie op openstaande taken
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          EMAIL_DIRECTEUR: ${{ vars.EMAIL_DIRECTEUR }}
+          EMAIL_MOUMEN: ${{ vars.EMAIL_MOUMEN }}
+          DRY_RUN: ${{ inputs.dry_run && '1' || '0' }}
+        run: python scripts/taken_escalatie.py
