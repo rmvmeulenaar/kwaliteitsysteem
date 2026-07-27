@@ -44,7 +44,7 @@
 - Team: Rogier (directeur/arts), Moumen (enige werknemer), Romy (partner, parttime). **BIG-registratie actueel** ✅
 - **A7** (§7.2): GAIA-nascholing nog niet op norm — **9 van 200 punten** in de lopende periode. → nascholingsplan 2026–2028 opstellen en bewaken (AI/systeem signaleert voortgang + geschikte nascholing). Bewijs van bekwaamheid: BIG-registratie + GAIA-dashboard.
 - **V2** (§7.2): geen compact bekwaamheids-/nascholingsoverzicht per medewerker → opstellen.
-- **V3** (§5.3): taken/verantwoordelijkheden zijn deels verdeeld ("een beetje") → helder vastleggen wie-wat-doet (incl. Romy's rol bestellingen/administratie).
+- **V3** (§5.3): taken/verantwoordelijkheden zijn deels verdeeld ("een beetje") → helder vastleggen wie-wat-doet (incl. Romy's rol bestellingen/administratie). *Naschrift 27-07-2026: de directie heeft de rolverdeling vastgesteld — bestellingen en voorraad liggen bij de arts en de doktersassistent; Romy vervult geen operationele rol meer. Zij blijft optreden als goedkeurder van beleidsdocumenten. De taakeigenaren zijn hierop aangepast in het takenregister en het verbeterregister.*
 
 ## BLOK 7 — Facilitair & apparatuur (§7.1.3–7.1.4)
 **Bevindingen:**
@@ -63,7 +63,7 @@
 |---|---|---|---|
 | A1 | Kwaliteitsbeleid niet actueel | Beleid actualiseren + scope-check DEKRA | Rogier |
 | A2 | Geen actueel risicoregister | Risicoregister 2026 opstellen | Rogier |
-| A3 | Voorraadregistratie onderbroken | Hervat + kwartaalschema ✅ (loopt) | Rogier/Romy |
+| A3 | Voorraadregistratie onderbroken | Hervat + kwartaalschema ✅ (loopt) | Rogier/Moumen *(gewijzigd 27-07-2026, was Rogier/Romy)* |
 | A4 | Verbeterregister niet gebruikt | AI-beheerd verbeter-/klachtenregister | Rogier + systeem |
 | A5 | Geen apparatuuroverzicht/onderhoudsbewijs | Overzicht maken + bewijs Vectra/koelkast | Rogier/Moumen |
 | A6 | ARBO/RI&E niet passend | Lichte RI&E opstellen | Rogier |

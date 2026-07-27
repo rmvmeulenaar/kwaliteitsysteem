@@ -28,17 +28,30 @@ jobs:
             const jaar = nu.getUTCFullYear();
             const maand = nu.getUTCMonth() + 1; // 1-12
 
+            // Dagen tot de deadline van een eenmalige actie (negatief = al verstreken)
+            function dagenTot(deadline) {
+              const d = new Date(`${deadline}T00:00:00Z`);
+              return Math.ceil((d - nu) / 86400000);
+            }
+
             function periodeLabel(taak) {
               switch (taak.frequentie) {
                 case 'maand':    return `${jaar}-${String(maand).padStart(2, '0')}`;
                 case 'kwartaal': return `Q${Math.ceil(maand / 3)}-${jaar}`;
                 case 'halfjaar': return `${maand <= 6 ? 'H1' : 'H2'}-${jaar}`;
                 case 'jaar':     return `${jaar}`;
+                case 'eenmalig': return `deadline ${taak.deadline}`;
                 default:         return `${jaar}-${String(maand).padStart(2, '0')}`;
               }
             }
 
             function isAanDeBeurt(taak) {
+              // Eenmalige actie: verschijnt zodra de deadline in zicht komt (standaard 14 dagen
+              // vooraf) en blijft daarna staan tot het issue gesloten is.
+              if (taak.frequentie === 'eenmalig') {
+                if (!taak.deadline) return false;
+                return dagenTot(taak.deadline) <= (taak.vooraf ?? 14);
+              }
               if (taak.frequentie === 'maand') return true; // elke maand, dedupe op periode
               return Array.isArray(taak.maanden) && taak.maanden.includes(maand);
             }
@@ -65,15 +78,24 @@ jobs:
               const titel = `[Taak] ${taak.naam} — ${periode}`;
               if (titels.has(titel)) continue; // al aangemaakt (open of al uitgevoerd)
 
+              const eenmalig = taak.frequentie === 'eenmalig';
+              const resterend = eenmalig ? dagenTot(taak.deadline) : null;
+              const kop = eenmalig
+                ? `**Eenmalige actie uit het [takenregister](../blob/main/taken/takenregister.json)** · deadline: **${taak.deadline}** ` +
+                  (resterend < 0 ? `(⏰ **${Math.abs(resterend)} dagen verstreken**)` : `(nog ${resterend} dagen)`)
+                : `**Periodieke taak uit het [takenregister](../blob/main/taken/takenregister.json)** · periode: **${periode}**`;
+
               const body = [
-                `**Periodieke taak uit het [takenregister](../blob/main/taken/takenregister.json)** · periode: **${periode}**`,
+                kop,
                 '',
                 `**Eigenaar:** ${taak.eigenaar}`,
                 `**Document:** [${taak.link}](../blob/main/${taak.link})`,
                 '',
                 taak.omschrijving,
                 '',
-                '- [ ] Uitgevoerd en geregistreerd in het genoemde document/formulier',
+                eenmalig
+                  ? '- [ ] Uitgevoerd; uitkomst vastgelegd in het genoemde document'
+                  : '- [ ] Uitgevoerd en geregistreerd in het genoemde document/formulier',
                 '',
                 '_Sluit dit issue pas na registratie — het gesloten issue (met datum en naam) is zelf onderdeel van de aantoonbaarheid (ISO 9001 §7.5)._'
               ].join('\n');

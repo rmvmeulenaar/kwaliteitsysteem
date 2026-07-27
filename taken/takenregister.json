@@ -1,12 +1,14 @@
 {
   "_uitleg": "Machine-leesbaar takenregister. De GitHub Action (.github/workflows/taken-signalering.yml) leest dit bestand dagelijks en opent automatisch een issue wanneer een taak aan de beurt is. Issue sluiten = taak uitgevoerd (traceerbaar met datum en naam). Frequenties: maand | kwartaal | halfjaar | jaar.",
+  "_escalatie": "Blijft een taak-issue open staan, dan mailt .github/workflows/taken-escalatie.yml de eigenaar (dag 3), eigenaar + directeur (dag 7) en daarna wekelijks (vanaf dag 14). Het veld 'email_var' verwijst naar de naam van een GitHub-variabele met het e-mailadres van de eigenaar — adressen staan bewust niet in dit bestand, zodat er geen persoonsgegevens in de repository staan (AVG). Ontbreekt de variabele, dan gaat de mail naar de directeur.",
+  "_eenmalig": "Naast terugkerende taken kan hier ook een eenmalige actie met een einddatum staan: frequentie 'eenmalig' met een veld 'deadline' (JJJJ-MM-DD). Het issue wordt standaard 14 dagen vóór de deadline geopend (aan te passen met 'vooraf') en blijft daarna staan tot het gesloten is; de escalatie werkt er net zo op als op de terugkerende taken. Zo lopen ook onderzoeks- en verbeteracties met een datum door hetzelfde signaleringssysteem in plaats van alleen in de actielijst te staan.",
   "taken": [
     {
       "id": "voorraad-kwartaal",
       "naam": "Kwartaalcontrole voorraad (F-09)",
       "frequentie": "kwartaal",
       "maanden": [1, 4, 7, 10],
-      "eigenaar": "Rogier / Romy",
+      "eigenaar": "Rogier / Moumen",
       "link": "03_Registraties/Formulieren/F-09_Voorraadcontrole_checklist.md",
       "omschrijving": "Fysieke looproute alle locaties: achterste rij, onderste plank, disposables, EpiPen noodtas, aangebroken flacons. Resultaat vastleggen op F-09 en in het voorraadcontrole-register. Norm: ISO 9001 §8.5.4 — dit is de borging van de open tekortkoming."
     },
@@ -15,6 +17,7 @@
       "naam": "Maandcheck koelkastregistratie compleet",
       "frequentie": "maand",
       "eigenaar": "Moumen",
+      "email_var": "EMAIL_MOUMEN",
       "link": "03_Registraties/Formulieren/F-01_Temperatuurregistratie_koelkast.md",
       "omschrijving": "Controleer in de Google Forms-antwoordensheet dat alle wekelijkse temperatuurmetingen van de afgelopen maand zijn ingevuld (elke maandag), alle waarden binnen 2–8 °C, en dat bij afwijkingen een actie genoteerd staat."
     },
@@ -23,6 +26,7 @@
       "naam": "Maandafsluiting hygiënecontrolelijst (F-06)",
       "frequentie": "maand",
       "eigenaar": "Moumen",
+      "email_var": "EMAIL_MOUMEN",
       "link": "03_Registraties/Formulieren/F-06_Hygienecontrolelijst.md",
       "omschrijving": "Wekelijkse schoonmaak/hygiënecontroles van de afgelopen maand aftekenen op F-06 en de maand afsluiten."
     },
@@ -33,7 +37,7 @@
       "maanden": [1, 4, 7, 10],
       "eigenaar": "Rogier",
       "link": "05_Management/Directiebeoordeling_2026.md",
-      "omschrijving": "Google Forms-resultaten van het afgelopen kwartaal doornemen: aanbevelingspercentage t.o.v. doel ≥ 90%, opvallende feedback → verbeterregister. Samenvatting noteren (doelstelling 3)."
+      "omschrijving": "Resultaten van het afgelopen kwartaal doornemen volgens SOP Klanttevredenheidsmeting v1.1: aanbevelingspercentage t.o.v. doel ≥ 90%, gemiddelde waardering, NPS voortschrijdend over twaalf maanden mét vermelding van n, en het responspercentage (ingevuld ÷ uitgenodigd). Elke criticaster (NPS 0–6) beoordelen op klacht/complicatie volgens F-03; terugkerende thema's naar het verbeterregister. Samenvatting noteren (doelstelling 3)."
     },
     {
       "id": "gaia-kwartaal",
@@ -61,6 +65,168 @@
       "eigenaar": "Rogier",
       "link": "03_Registraties/Actielijst.md",
       "omschrijving": "Aflopende contracten en termijnen checken: arbeidsovereenkomst Moumen, huurovereenkomsten (Nijmegen/Enschede/Sittard), verzekeringen, verwerkersovereenkomsten. Les van 2025: verlenging Moumen liep ongemerkt af."
+    },
+    {
+      "id": "brandveiligheid-halfjaar",
+      "naam": "Brandveiligheidscontrole (eigen visuele check, F-10)",
+      "frequentie": "halfjaar",
+      "maanden": [4, 10],
+      "eigenaar": "Rogier / Moumen",
+      "link": "03_Registraties/Formulieren/F-10_Brandveiligheid_en_ontruiming.md",
+      "omschrijving": "Per locatie langs de blusmiddelen: aanwezig, bereikbaar, drukmeter in het groen, verzegeling intact, keuringssticker geldig (vervaldatum noteren). Ook vluchtroutes vrij, noodverlichting, EHBO-koffer compleet en houdbaar. Vastleggen op F-10 deel A."
+    },
+    {
+      "id": "brandblusser-keuring-jaar",
+      "naam": "Jaarlijkse keuring brandblussers en noodverlichting (NEN 2559)",
+      "frequentie": "jaar",
+      "maanden": [9],
+      "eigenaar": "Rogier",
+      "link": "03_Registraties/Formulieren/F-10_Brandveiligheid_en_ontruiming.md",
+      "omschrijving": "Keuring laten uitvoeren door een gecertificeerd onderhoudsbedrijf; sticker en onderhoudsrapport opslaan en vastleggen op F-10 deel B. Op nevenlocaties eerst nagaan of de verhuurder dit doet en dan het keuringsbewijs opvragen. In dezelfde ronde de jaarlijkse ontruimingsoefening houden (F-10 deel C)."
+    },
+    {
+      "id": "logcontrole-epd-kwartaal",
+      "naam": "Logcontrole toegang patiëntdossiers (NEN 7513)",
+      "frequentie": "kwartaal",
+      "maanden": [2, 5, 8, 11],
+      "eigenaar": "Rogier",
+      "link": "05_Management/Plan_NEN7510_implementatie.md",
+      "omschrijving": "Toegangslogs van het EPD (Clinicminds) over het afgelopen kwartaal doornemen: onverwachte toegang, inzage buiten behandelrelatie, accounts die niet meer actief horen te zijn. Bevindingen vastleggen; bij vermoeden van onrechtmatige toegang melden via F-04 en het datalekregister."
+    },
+    {
+      "id": "toegangscontrole-halfjaar",
+      "naam": "Toegangs- en autorisatiecontrole",
+      "frequentie": "halfjaar",
+      "maanden": [2, 8],
+      "eigenaar": "Rogier",
+      "link": "05_Management/Plan_NEN7510_implementatie.md",
+      "omschrijving": "Alle systemen langs (Clinicminds, Google Workspace, VREST, Typeform, Resend, GitHub, Nmbrs): wie heeft toegang, klopt dat nog, is tweefactorauthenticatie aan, zijn accounts van vertrokken gebruikers ingetrokken. Bijwerken in de autorisatiematrix."
+    },
+    {
+      "id": "backup-hersteltest-halfjaar",
+      "naam": "Back-up herstel-test",
+      "frequentie": "halfjaar",
+      "maanden": [4, 10],
+      "eigenaar": "Rogier",
+      "link": "05_Management/Plan_NEN7510_implementatie.md",
+      "omschrijving": "Daadwerkelijk een bestand of dossier terugzetten uit de back-up en vastleggen dat het lukte, hoe lang het duurde en wie het deed. Een back-up die nooit is teruggezet is geen aantoonbare maatregel."
+    },
+    {
+      "id": "leveranciers-ib-jaar",
+      "naam": "Verwerkersovereenkomsten en leveranciers-IB nalopen",
+      "frequentie": "jaar",
+      "maanden": [11],
+      "eigenaar": "Rogier",
+      "link": "06_DEKRA_Audit/BEWIJS_SJABLONEN/LEVERANCIERSLIJST.md",
+      "omschrijving": "Per leverancier met toegang tot persoonsgegevens: is er een geldige verwerkersovereenkomst, staat de kopie in het dossier, zijn de voorwaarden gewijzigd. Koppeling risico R6."
+    },
+    {
+      "id": "awareness-jaar",
+      "naam": "Awareness-instructie privacy en informatiebeveiliging",
+      "frequentie": "jaar",
+      "maanden": [12],
+      "eigenaar": "Rogier",
+      "link": "03_Registraties/Formulieren/F-07_Bekwaamheidsoverzicht.md",
+      "omschrijving": "Jaarlijkse instructie aan alle medewerkers over privacy/AVG, wachtwoorden en tweefactor, clean desk, het herkennen en melden van datalekken en phishing, en veilig gebruik van AI-hulpmiddelen. Aftekenen op F-07 met datum en beide parafen. Verplichting uit SOP AVG-compliance §9; ook bij indiensttreding geven."
+    },
+    {
+      "id": "ib-beleid-jaar",
+      "naam": "Informatiebeveiligingsbeleid en IB-risico's herzien",
+      "frequentie": "jaar",
+      "maanden": [6],
+      "eigenaar": "Rogier",
+      "link": "05_Management/Plan_NEN7510_implementatie.md",
+      "omschrijving": "Informatiebeveiligingsbeleid en de IB-risico's in het risicoregister herzien, gelijk met de directiebeoordeling. Voortgang van het NEN 7510-implementatieplan als vast agendapunt."
+    },
+    {
+      "id": "handelsnamen-kvk-registreren",
+      "naam": "Handelsnamen registreren bij de KvK",
+      "frequentie": "eenmalig",
+      "deadline": "2026-08-31",
+      "vooraf": 30,
+      "eigenaar": "Rogier",
+      "link": "01_Beleid/Organisatiestructuur.md",
+      "omschrijving": "De praktijk handelt onder 'Praktijk voor Injectables' en 'Radiance Clinic'; die handelsnamen moeten bij de KvK op de juiste rechtspersoon geregistreerd staan. Hangt samen met de openstaande entiteit-check op de actielijst: het ISO-certificaat staat op PVI Clinic B.V. terwijl de boekhouding op Albatros Health Services B.V. loopt. Nagaan welke rechtspersoon welke handelsnaam voert, dat in het handelsregister laten kloppen, en daarna controleren of het certificaat, de website, de facturen en de afzenders van de patiëntmailings dezelfde naam en entiteit gebruiken. Een certificaat op een entiteit die naar buiten onder een niet-geregistreerde naam optreedt, is een aantoonbaarheidsprobleem.",
+      "email_var": "EMAIL_DIRECTEUR"
+    },
+    {
+      "id": "klachtenanalyse-kwartaal",
+      "naam": "Analyse klachten, complicaties en incidenten",
+      "frequentie": "kwartaal",
+      "maanden": [3, 6, 9, 12],
+      "eigenaar": "Rogier",
+      "link": "03_Registraties/Verbeterregister.md",
+      "omschrijving": "Structurele analyse over het afgelopen kwartaal (ISO 9001 §9.1.3): aantallen klachten, complicaties en incidenten volgens de definitie op F-03, uitgesplitst naar behandeling en locatie. Niet alleen tellen maar duiden: welke oorzaken komen terug, is er een patroon in behandeling, product of periode, en welke signalen komen uit de tevredenheidsmeting (criticasters) en het incidentenlog. Terugkerende oorzaken worden een verbeteractie met eigenaar en deadline. Trendtabel in het verbeterregister bijwerken, met vermelding van het aantal waarop de trend berust — een trend op enkele meldingen is geen trend.",
+      "vooraf": 14
+    },
+    {
+      "id": "zelftoets-toetsingskader-digitale-zorg",
+      "naam": "Zelftoets Toetsingskader Digitale Zorg (IGJ)",
+      "frequentie": "eenmalig",
+      "deadline": "2026-09-30",
+      "vooraf": 45,
+      "eigenaar": "Rogier",
+      "link": "05_Management/Toetsingskader_digitale_zorg.md",
+      "omschrijving": "De zelftoets van 27-07-2026 afronden met de volledige normtekst van het IGJ-kader ernaast, per thema en per onderliggende norm. De voorlopige uitkomst: thema 1 grotendeels op orde, thema 2 en 4 deels, thema 5 loopt via het NEN 7510-plan, en thema 3 (patiënten informeren over de inzet van digitale zorg) is het echte gat. Uitkomsten per thema vastleggen en de resterende acties beleggen. Geen apart traject opzetten — wat samenvalt met het NEN 7510-plan blijft daar."
+    },
+    {
+      "id": "patientinformatie-digitale-zorg-qr",
+      "naam": "Patiëntinformatie digitale zorg + QR-code",
+      "frequentie": "eenmalig",
+      "deadline": "2026-10-31",
+      "vooraf": 45,
+      "eigenaar": "Rogier",
+      "link": "05_Management/Toetsingskader_digitale_zorg.md",
+      "omschrijving": "Eén pagina waar de patiënt met een QR-code op komt, bereikbaar vanaf de nazorgkaart, de behandelkamer en de afsprakenbevestiging. Die pagina dekt drie eisen tegelijk: (1) informatie over de inzet van digitale zorg — digitaal dossier, geautomatiseerde tevredenheidsuitvraag, AI-ondersteuning bij documentbeheer en straks mogelijk bij dossiervoering, inclusief de mogelijkheid dat laatste te weigeren (thema 3 IGJ-toetsingskader); (2) de directe link naar het tevredenheidsformulier, wat het responspercentage moet verhogen — een QR op de nazorgkaart werkt beter dan een mail achteraf; (3) de klachtenprocedure laagdrempelig bereikbaar, zoals de Wkkgz vraagt. Bij invoering van spraakondersteunde dossiervoering (fase 6) moet deze pagina er al staan."
+    },
+    {
+      "id": "auditbevindingen-omzetten",
+      "naam": "Auditbevindingen 27-07-2026 omzetten naar acties met deadline",
+      "frequentie": "eenmalig",
+      "deadline": "2026-08-03",
+      "vooraf": 14,
+      "eigenaar": "Rogier",
+      "link": "06_DEKRA_Audit/Auditbevindingen_27-07-2026.md",
+      "omschrijving": "Binnen vijf werkdagen na de audit: elke bevinding van het bevindingenblad omzetten naar een A-nummer in het verbeterregister én een eenmalige actie met deadline in dit takenregister, zodat hij gesignaleerd en geëscaleerd wordt. Deadline naar type: bij een tekortkoming is de formele DEKRA-termijn voor het corrigerende-maatregelenplan leidend; bij een verbetermogelijkheid uiterlijk het eerstvolgende kwartaal met een concrete datum; bij een opmerking beoordelen of er een actie uit volgt en anders vastleggen waarom niet. Bij elke tekortkoming eerst de grondoorzaak vaststellen vóór de maatregel — bij beide eerdere tekortkomingen was dat een taak die van iemands geheugen afhing, en pas na die vaststelling kwam er een maatregel die daarop aangreep. Dit issue pas sluiten als alle bevindingen zijn omgezet."
+    },
+    {
+      "id": "implementatie-verbeteracties-kwartaal",
+      "naam": "Doorvoeren openstaande verbeteracties",
+      "frequentie": "kwartaal",
+      "maanden": [2, 5, 8, 11],
+      "eigenaar": "Rogier",
+      "link": "03_Registraties/Verbeterregister.md",
+      "omschrijving": "Loop alle open verbeteracties (A-nummers) in het verbeterregister door en duw ze vooruit. Per actie vastleggen: wat is de eerstvolgende concrete stap, wie doet die, en wanneer. Afgeronde acties op ✅ met datum. Een actie die twee kwartalen achtereen geen voortgang heeft, gaat als agendapunt naar de directiebeoordeling — registreren is niet hetzelfde als doorvoeren, en dit is het moment waarop dat verschil wordt gecontroleerd (ISO 9001 §10.2). Statussen gelijk houden met de actielijst."
+    },
+    {
+      "id": "implementatie-dossiervoering-consult",
+      "naam": "Implementatie: dossiervoering tijdens het consult (na besluit)",
+      "frequentie": "eenmalig",
+      "deadline": "2027-06-30",
+      "vooraf": 90,
+      "eigenaar": "Rogier",
+      "link": "05_Management/AI_Automatiseringsplan_2026-2027.md",
+      "omschrijving": "Alleen uitvoeren na een positief besluit bij de directiebeoordeling 2027; bij een negatief besluit dit issue sluiten met de reden erbij. Doorvoeren als beheerste wijziging (§6.3): verwerkersovereenkomst vastleggen en opnemen in het verwerkingsregister; patiëntinformatie toevoegen aan intake en privacyverklaring, inclusief de mogelijkheid om te weigeren; de controlestap door de arts vastleggen (transcript is concept, de arts stelt vast); SOP Medische dossiervoering aanpassen met versienummer en wijzigingsregel; instructie opnemen in F-07; en na één cyclus de werking evalueren in het PDCA-logboek. Bijzondere aandacht voor doseringen en productnamen — een verkeerd getranscribeerde eenheid is een patiëntveiligheidskwestie, geen administratieve fout."
+    },
+    {
+      "id": "onderzoek-quinn-dossiervoering",
+      "naam": "Onderzoek: dossiervoering tijdens het consult (fase 6)",
+      "frequentie": "eenmalig",
+      "deadline": "2026-12-31",
+      "vooraf": 60,
+      "eigenaar": "Rogier",
+      "link": "05_Management/AI_Automatiseringsplan_2026-2027.md",
+      "omschrijving": "Beoordeel Quinn AI Smart Summary in de eigen Clinicminds-omgeving: is het beschikbaar in het abonnement, deugt het Nederlands, en vult het de dossiervelden passend voor een cosmetisch behandelverslag inclusief informed consent, product, lot en dosering? Vergelijk met de bestaande vastlegging. Schiet het tekort, vraag Clinicminds dan of er een schrijf-API voor dossierregels bestaat — de Analytics API is met 44 endpoints volledig read-only, dus zonder zo'n API is een externe koppeling niet zinvol te bouwen. Bevindingen vastleggen in fase 6 van het AI-automatiseringsplan; besluit bij de directiebeoordeling 2027. Valt onder R13: beoordelen als beheerste wijziging (§6.3), inclusief verwerkersovereenkomst, patiëntinformatie en controlestap door de arts."
+    },
+    {
+      "id": "onderzoek-vervaldatum-overzicht",
+      "naam": "Onderzoek: vervaldatum-overzicht uit de Clinicminds-voorraad-API",
+      "frequentie": "eenmalig",
+      "deadline": "2026-10-31",
+      "vooraf": 45,
+      "eigenaar": "Rogier",
+      "link": "07_Voorraad/Voorraadcontrole_register.md",
+      "omschrijving": "Nagaan of uit de endpoints /product-stock, /product-stock-adjustments en /treatment-material-stock een vooruitkijkend vervaldatum-overzicht te maken is: maanden vooraf zien wat afloopt, in plaats van het te ontdekken bij de kwartaalrondgang. De API-sleutel en de koppeling bestaan al (weekstart- en tevredenheidsscripts). Doel: de kwartaalcontrole wordt het tweede vangnet in plaats van het eerste. Bevindingen en besluit vastleggen in het voorraadcontrole-register."
     },
     {
       "id": "interne-audit-jaar",

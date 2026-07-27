@@ -1,6 +1,6 @@
 # Organisatiestructuur — PVI Clinic B.V.
 
-> Versie: 2.0 | Opgesteld door: R. Meulenaar | Goedgekeurd door: Romy Bosvelt | Goedkeuringsdatum: 26-07-2026 | Volgende revisie: 26-07-2028
+> Versie: 2.1 | Opgesteld door: R. Meulenaar | Goedgekeurd door: Romy Bosvelt | Goedkeuringsdatum: 27-07-2026 | Volgende revisie: 26-07-2028
 
 > **Wijziging t.o.v. v1.0:** v1.0 beschreef een organogram met een aparte kliniekhouder, hoofdbehandelaar en een kwaliteitscoördinator die interne audits coördineert en medewerkers traint. Die functies bestaan niet. Deze versie beschrijft de werkelijke bezetting.
 
@@ -16,7 +16,7 @@ Dit document beschrijft wie welke rol vervult. Uitgangspunt: **elke rol in dit k
 |---|---|---|
 | R. Meulenaar | Directeur / cosmetisch arts (KNMG, BIG-geregistreerd) | Eigenaar/directeur |
 | M. Al Saadon | Doktersassistent | Enige werknemer in loondienst |
-| R. Bosvelt | Administratieve ondersteuning (o.a. bestellingen, facturatie) | Parttime, partner van de directeur |
+| R. Bosvelt | Administratieve ondersteuning (afspraakbeheer, facturatie) | Parttime, partner van de directeur |
 
 Schoonmaak wordt extern ingehuurd en telt niet mee in de FTE. Telefonische bereikbaarheid buiten praktijkuren loopt via een externe antwoordservice.
 
@@ -30,7 +30,7 @@ R. Meulenaar — Directeur / cosmetisch arts
    │     (assisteren, voorbereiden, registreren, nazorg, voorraadcontrole)
    │
    └── R. Bosvelt — Administratieve ondersteuning (parttime)
-         (planning, facturatie, bestellingen)
+         (planning, facturatie)
 ```
 
 De lijnen zijn kort: er is dagelijks direct contact tussen alle drie.
@@ -55,9 +55,11 @@ De lijnen zijn kort: er is dagelijks direct contact tussen alle drie.
 
 ### R. Bosvelt — Administratieve ondersteuning (parttime)
 
-**Verantwoordelijkheden:** afspraakbeheer, facturatie, bestellingen en voorraadaanvulling, ondersteuning bij de klanttevredenheidsmeting.
+**Verantwoordelijkheden:** afspraakbeheer, facturatie, ondersteuning bij de klanttevredenheidsmeting.
 
-**Bevoegdheden:** goedkeuring van kwaliteitsdocumenten (medebeoordelaar naast de directeur); bestellen binnen het reguliere assortiment.
+**Bevoegdheden:** goedkeuring van kwaliteitsdocumenten (medebeoordelaar naast de directeur).
+
+*Wijziging 27-07-2026:* bestellingen en voorraadaanvulling zijn overgedragen aan de arts en de doktersassistent. Reden: het inkoopmoment is waar de houdbaarheid wordt bewaakt ([F-08](../03_Registraties/Formulieren/F-08_Ontvangstcontrole_levering.md) legt de vervaldatum bij ontvangst vast), en die taak hoort bij degenen die dagelijks met de voorraad werken. Daarmee liggen inkoop, ontvangstcontrole en kwartaalcontrole in één hand in plaats van verdeeld over drie personen — een van de oorzaken achter de onderbroken registratie van 2025.
 
 ## 5. Documentbeheer en AI-ondersteuning
 
@@ -83,8 +85,11 @@ Deze werkwijze is bij de audit van 24-02-2025 door DEKRA beoordeeld en als sterk
 | Voorraad- en houdbaarheidscontrole (per kwartaal, §8.5.4) | M. Al Saadon, bewaakt door R. Meulenaar + systeemsignalering |
 | Apparatuuronderhoud bewaken | R. Meulenaar |
 | Klanttevredenheidsmeting | geautomatiseerd; opvolging R. Meulenaar |
-| Facturatie en bestellingen | R. Bosvelt |
+| Facturatie en afspraakbeheer | R. Bosvelt |
+| Bestellingen en voorraadaanvulling | R. Meulenaar en M. Al Saadon *(gewijzigd 27-07-2026)* |
+| Ontvangstcontrole leveringen (F-08) | M. Al Saadon, of wie de levering aanneemt |
+| Brandveiligheidscontrole (F-10) | R. Meulenaar en M. Al Saadon |
 
 ---
 
-*Versiehistorie: v1.0 (02-02-2025) — organogram met niet-bestaande functies. v2.0 (26-07-2026) — teruggebracht tot de werkelijke bezetting van 2,5 FTE; AI-ondersteuning bij documentbeheer expliciet beschreven; voorbehouden handelingen eenduidig bij de arts belegd.*
+*Versiehistorie: v1.0 (02-02-2025) — organogram met niet-bestaande functies. v2.0 (26-07-2026) — teruggebracht tot de werkelijke bezetting van 2,5 FTE; AI-ondersteuning bij documentbeheer expliciet beschreven; voorbehouden handelingen eenduidig bij de arts belegd. v2.1 (27-07-2026) — bestellingen en voorraadaanvulling overgedragen van R. Bosvelt naar R. Meulenaar en M. Al Saadon; brandveiligheidscontrole (F-10) belegd. Hiermee is verbeterpunt V3 uit de interne audit 2026 afgerond.*
