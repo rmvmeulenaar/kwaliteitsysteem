@@ -40,6 +40,12 @@
 | A23 | Directiebeoordeling §6 gecorrigeerd: R6 niet gesloten, en 13 in plaats van 12 risico's | zwakke-plekken-scan Z11 | ✅ 27-07-2026 | Rogier |
 | A24 | **Verbetermogelijkheid (§10.1):** dossiervoering tijdens het consult via meeluisterend spraaksysteem — grijpt aan op het incident "onvolledige informed consent" (2025). Technisch onderzocht 27-07: Clinicminds is read-only via API, maar levert de functie zelf al (Quinn AI Smart Summary). Eerst die beoordelen; zie [fase 6](../05_Management/AI_Automatiseringsplan_2026-2027.md) | eigen initiatief 27-07-2026 | 🔵 te beoordelen | Rogier |
 | A25 | **Verbetermogelijkheid (§10.1):** vervaldatum-overzicht uit de Clinicminds-voorraad-API — preventief in plaats van opsporend; had de vondst van 26-07 voorkomen | technisch onderzoek 27-07-2026 | 🔵 | Rogier |
+| A26 | Zelftoets [IGJ Toetsingskader Digitale Zorg](../05_Management/Toetsingskader_digitale_zorg.md) — vijf thema's, thema 5 valt samen met NEN 7510 | eigen initiatief 27-07-2026 | 🔵 belegd, deadline 30-09-2026 | Rogier |
+| A27 | Patiëntinformatie digitale zorg via QR-code (nazorgkaart, behandelkamer, afsprakenbevestiging) — dekt thema 3 IGJ, verhoogt de respons op de tevredenheidsmeting en maakt de klachtenprocedure laagdrempelig (Wkkgz) | toetsingskader thema 3 | 🔴 grootste gat | Rogier |
+| A28 | Analyse klachten, complicaties en incidenten als vaste kwartaaltaak (§9.1.3) — duiden in plaats van tellen, terugkerende oorzaken worden verbeteractie | eigen initiatief 27-07-2026 | ✅ 27-07-2026 belegd | Rogier |
+| A29 | Uitwijkprocedure bij langdurige uitval Clinicminds — R11 noemt het risico, er is geen procedure | toetsingskader thema 5 | 🔵 fase 3 NEN-plan | Rogier |
+| A30 | Vorm van onafhankelijke toetsing van de beveiligingsmaatregelen bepalen, passend bij 2,5 FTE | toetsingskader thema 5 | 🔵 fase 5 NEN-plan | Rogier |
+| A33 | Handelsnamen "Praktijk voor Injectables" en "Radiance Clinic" bij de KvK op de juiste rechtspersoon registreren; daarna certificaat, website, facturen en mailafzenders op één naam en entiteit brengen | 27-07-2026, samen met de openstaande entiteit-check | 🔴 belegd, deadline 31-08-2026 | Rogier |
 | — | Dossier-sjablonen (uit oud register feb 2025) | 2025 | ✅ via Clinicminds | Rogier |
 
 ## Aanpak (geborgd, niet persoonsafhankelijk)

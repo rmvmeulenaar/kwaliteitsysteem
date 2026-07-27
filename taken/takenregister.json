@@ -139,6 +139,47 @@
       "omschrijving": "Informatiebeveiligingsbeleid en de IB-risico's in het risicoregister herzien, gelijk met de directiebeoordeling. Voortgang van het NEN 7510-implementatieplan als vast agendapunt."
     },
     {
+      "id": "handelsnamen-kvk-registreren",
+      "naam": "Handelsnamen registreren bij de KvK",
+      "frequentie": "eenmalig",
+      "deadline": "2026-08-31",
+      "vooraf": 30,
+      "eigenaar": "Rogier",
+      "link": "01_Beleid/Organisatiestructuur.md",
+      "omschrijving": "De praktijk handelt onder 'Praktijk voor Injectables' en 'Radiance Clinic'; die handelsnamen moeten bij de KvK op de juiste rechtspersoon geregistreerd staan. Hangt samen met de openstaande entiteit-check op de actielijst: het ISO-certificaat staat op PVI Clinic B.V. terwijl de boekhouding op Albatros Health Services B.V. loopt. Nagaan welke rechtspersoon welke handelsnaam voert, dat in het handelsregister laten kloppen, en daarna controleren of het certificaat, de website, de facturen en de afzenders van de patiëntmailings dezelfde naam en entiteit gebruiken. Een certificaat op een entiteit die naar buiten onder een niet-geregistreerde naam optreedt, is een aantoonbaarheidsprobleem.",
+      "email_var": "EMAIL_DIRECTEUR"
+    },
+    {
+      "id": "klachtenanalyse-kwartaal",
+      "naam": "Analyse klachten, complicaties en incidenten",
+      "frequentie": "kwartaal",
+      "maanden": [3, 6, 9, 12],
+      "eigenaar": "Rogier",
+      "link": "03_Registraties/Verbeterregister.md",
+      "omschrijving": "Structurele analyse over het afgelopen kwartaal (ISO 9001 §9.1.3): aantallen klachten, complicaties en incidenten volgens de definitie op F-03, uitgesplitst naar behandeling en locatie. Niet alleen tellen maar duiden: welke oorzaken komen terug, is er een patroon in behandeling, product of periode, en welke signalen komen uit de tevredenheidsmeting (criticasters) en het incidentenlog. Terugkerende oorzaken worden een verbeteractie met eigenaar en deadline. Trendtabel in het verbeterregister bijwerken, met vermelding van het aantal waarop de trend berust — een trend op enkele meldingen is geen trend.",
+      "vooraf": 14
+    },
+    {
+      "id": "zelftoets-toetsingskader-digitale-zorg",
+      "naam": "Zelftoets Toetsingskader Digitale Zorg (IGJ)",
+      "frequentie": "eenmalig",
+      "deadline": "2026-09-30",
+      "vooraf": 45,
+      "eigenaar": "Rogier",
+      "link": "05_Management/Toetsingskader_digitale_zorg.md",
+      "omschrijving": "De zelftoets van 27-07-2026 afronden met de volledige normtekst van het IGJ-kader ernaast, per thema en per onderliggende norm. De voorlopige uitkomst: thema 1 grotendeels op orde, thema 2 en 4 deels, thema 5 loopt via het NEN 7510-plan, en thema 3 (patiënten informeren over de inzet van digitale zorg) is het echte gat. Uitkomsten per thema vastleggen en de resterende acties beleggen. Geen apart traject opzetten — wat samenvalt met het NEN 7510-plan blijft daar."
+    },
+    {
+      "id": "patientinformatie-digitale-zorg-qr",
+      "naam": "Patiëntinformatie digitale zorg + QR-code",
+      "frequentie": "eenmalig",
+      "deadline": "2026-10-31",
+      "vooraf": 45,
+      "eigenaar": "Rogier",
+      "link": "05_Management/Toetsingskader_digitale_zorg.md",
+      "omschrijving": "Eén pagina waar de patiënt met een QR-code op komt, bereikbaar vanaf de nazorgkaart, de behandelkamer en de afsprakenbevestiging. Die pagina dekt drie eisen tegelijk: (1) informatie over de inzet van digitale zorg — digitaal dossier, geautomatiseerde tevredenheidsuitvraag, AI-ondersteuning bij documentbeheer en straks mogelijk bij dossiervoering, inclusief de mogelijkheid dat laatste te weigeren (thema 3 IGJ-toetsingskader); (2) de directe link naar het tevredenheidsformulier, wat het responspercentage moet verhogen — een QR op de nazorgkaart werkt beter dan een mail achteraf; (3) de klachtenprocedure laagdrempelig bereikbaar, zoals de Wkkgz vraagt. Bij invoering van spraakondersteunde dossiervoering (fase 6) moet deze pagina er al staan."
+    },
+    {
       "id": "auditbevindingen-omzetten",
       "naam": "Auditbevindingen 27-07-2026 omzetten naar acties met deadline",
       "frequentie": "eenmalig",

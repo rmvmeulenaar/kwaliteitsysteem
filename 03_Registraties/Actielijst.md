@@ -9,7 +9,8 @@
 ## 💶 Financieel / boekhouding (Snelstart — Albatros Health Services B.V.)
 - ⬜ **2025 afsluiten in Snelstart** — staat nu op "AF TE SLUITEN"; nodig voor de definitieve jaarcijfers + winst 2025
 - ⬜ Winst **2024** (afgesloten) uit Winst- en verliesrekening halen → directiebeoordeling
-- ⬜ Nagaan: certificaat staat op **PVI Clinic B.V.**, boekhouding op **Albatros Health Services B.V.** — klopt de entiteit/naam voor de audit?
+- ⬜ Nagaan: certificaat staat op **PVI Clinic B.V.**, boekhouding op **Albatros Health Services B.V.** — klopt de entiteit/naam voor de audit? · *gekoppeld aan A33 hieronder*
+- ⬜ **A33** **Handelsnamen registreren bij de KvK** — de praktijk handelt onder "Praktijk voor Injectables" en "Radiance Clinic"; die moeten op de juiste rechtspersoon in het handelsregister staan. Daarna controleren of certificaat, website, facturen en de afzenders van de patiëntmailings dezelfde naam en entiteit voeren · **Eigenaar: Rogier** · **Deadline: 31-08-2026** · *staat als taak in het takenregister*
 
 ## 📋 Audit-voorbereiding (zie [auditplan](../00_AUDIT_2026_PLAN.md))
 - ✅ Directiebeoordeling 2026 (cijfers compleet)
@@ -49,6 +50,15 @@
 - ✅ **A23** Directiebeoordeling §6 gecorrigeerd (R6 niet gesloten; 13 risico's)
 - 🔵 **A24** Dossiervoering tijdens het consult — [fase 6](../05_Management/AI_Automatiseringsplan_2026-2027.md). **Technisch onderzocht 27-07-2026:** Juvoly heeft een bruikbare REST-API, maar de Clinicminds Analytics API is met 44 endpoints volledig read-only — terugschrijven in het dossier kan niet. Clinicminds levert de functie zelf al als *Quinn AI Smart Summary* (v5.15). **Eerste stap daarom: Quinn in de eigen omgeving beoordelen**, niet een koppeling bouwen · **Eigenaar: Rogier** · **Deadline: beoordeling vóór 31-12-2026; besluit bij directiebeoordeling 2027**
 - ⬜ **A25** Vervaldatum-overzicht uit de Clinicminds-voorraad-API (`/product-stock`, `/treatment-material-stock`) — maanden vooruit zien wat afloopt in plaats van bij de kwartaalrondgang. Sleutel en koppeling bestaan al · **Eigenaar: Rogier** · **Deadline: 31-10-2026**
+
+### Uit het IGJ Toetsingskader Digitale Zorg (zelftoets 27-07-2026)
+- 🔵 **A26** Zelftoets afronden met de volledige normtekst ernaast — [zelftoets](../05_Management/Toetsingskader_digitale_zorg.md) · **Deadline: 30-09-2026** · *staat als taak in het takenregister*
+- 🔴 **A27** **Patiëntinformatie digitale zorg via QR-code** — grootste gat uit de zelftoets (thema 3). Eén pagina die drie dingen tegelijk dekt: uitleg over de inzet van digitale zorg, directe link naar het tevredenheidsformulier (verhoogt de respons) en de klachtenprocedure laagdrempelig bereikbaar (Wkkgz). Moet er staan vóór invoering van spraakondersteunde dossiervoering · **Deadline: 31-10-2026**
+- ✅ **A28** Analyse klachten, complicaties en incidenten belegd als kwartaaltaak (maart/juni/september/december)
+- ⬜ **A29** Uitwijkprocedure bij langdurige uitval Clinicminds · **Deadline: fase 3 NEN-plan, november 2026**
+- ⬜ **A30** Vorm van onafhankelijke toetsing beveiligingsmaatregelen bepalen · **Deadline: fase 5 NEN-plan, januari 2027**
+- ⬜ **A31** Besluitvormingspad en invoerprocedure voor digitale toepassingen vastleggen (thema 1 en 2) · **Deadline: 31-12-2026**
+- ⬜ **A32** Scope elektronische gegevensuitwisseling vastleggen, inclusief waarom NEN 7512 beperkt van toepassing is (thema 4) · **Deadline: fase 1 NEN-plan, september 2026**
 
 ## ⚙️ Systeem / operationeel
 - ✅ Clinicminds-API gekoppeld (KPI's live)
