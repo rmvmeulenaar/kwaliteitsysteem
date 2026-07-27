@@ -24,6 +24,35 @@ De twee hoogste risico's in het register (R2 en R7, beide score 9) zijn hetzelfd
 | **3. Werkbesprekingen via agents** (2026 H2–2027) | Het dagelijks/wekelijks overleg krijgt een vaste, door een agent voorbereide agenda (openstaande acties, afwijkingen, registratie-status) en een automatisch vastgelegd verslag — daarmee is ook ophaallijst-punt 12 (geen overlegverslagen) structureel opgelost | plan |
 | **4. Interne audits agent-ondersteund** (2027) | Een agent voert de documentcontrole en consistentiechecks van de interne audit uit (zoals de slotcontrole van 26-07-2026 al liet zien); de arts beoordeelt, weegt en stelt vast. De audit blijft een directiebesluit — de agent is het gereedschap | plan |
 | **5. Administratie & inkoop** (2027) | Koppeling Clinicminds/boekhouding, voorraadsignalering, eigen software vervangt abonnementen (doelstelling 8) | plan |
+| **6. Dossiervoering tijdens het consult** (2027, kandidaat) | Een meeluisterend spraaksysteem (bijvoorbeeld [Juvoly](https://juvoly.nl/)) zet het consultgesprek automatisch om in dossiertekst, die de arts controleert en vaststelt. Zie de uitwerking hieronder | **te beoordelen — geen besluit** |
+
+## Fase 6 nader: registratie die samenvalt met de handeling
+
+*Toegevoegd 27-07-2026 als verbetermogelijkheid, nog niet besloten.*
+
+### Waarom dit meer is dan tijdwinst
+
+Onder beide eerdere tekortkomingen ligt hetzelfde patroon: de handeling gebeurde wél, de vastlegging was een aparte taak die iemand moest onthouden. Dat gold voor de voorraadcontrole, de koelkasttemperatuur, de hygiënecontrole — en het geldt ook voor dossiervoering, die na het consult moet gebeuren, onder tijdsdruk, aan het eind van de dag.
+
+Fase 2 loste dit op door te signaleren *dat* er geregistreerd moet worden. Deze fase gaat een stap verder: de registratie ontstaat uit de handeling zelf. Het consult produceert het verslag.
+
+**De concrete aanleiding is een gedocumenteerd incident.** Het incidentenlog over 2025 bevat "onvolledige informed consent bij meerdere patiënten". Het gesprek is gevoerd; de vastlegging schoot tekort. Een systeem dat het consultgesprek omzet in dossiertekst grijpt precies daarop aan. Daarmee is dit een corrigerende maatregel op een vastgesteld kwaliteitsincident, niet alleen een efficiencymaatregel.
+
+### Wat er eerst beantwoord moet zijn
+
+| Vraag | Waarom het bepalend is |
+|---|---|
+| Sluit het aan op **Clinicminds**? | De bekende integraties lopen op huisartsinformatiesystemen (CGM, HealthConnected). Clinicminds is een EPD voor cosmetische klinieken. Zonder koppeling wordt het kopiëren en plakken — en dan gaat de tekst buiten de logging van het EPD om, wat botst met NEN 7513 (fase 2 van het [NEN 7510-plan](Plan_NEN7510_implementatie.md)) |
+| Is het **uitvoerformaat** aanpasbaar? | De uitvoer is SOEP-gestructureerd, dat is huisartsgeneeskunde. Een cosmetisch behandelverslag heeft een andere vorm: anamnese, informed consent, product met lot en dosering, foto's. Past dat niet, dan levert het gesprekstekst maar geen dossierstructuur |
+| **Verwerkersovereenkomst** en verwerkingslocatie | Gesprekken over gezondheid zijn bijzondere persoonsgegevens. Verwerking binnen de EU, geen modeltraining op eigen data, en helder wat er na transcriptie met de gegevens gebeurt. Volgens de leverancier wordt het gesprek niet opgenomen maar meegeluisterd, getranscribeerd en samengevat, waarna terugluisteren niet mogelijk is — te verifiëren en vast te leggen |
+| **Patiëntinformatie en bezwaar** | De patiënt moet weten dat er wordt meegeluisterd. Opnemen in de intake en de privacyverklaring, met een vastgelegde mogelijkheid om het te weigeren |
+| **Nauwkeurigheid bij doseringen en productnamen** | Een verkeerd getranscribeerde eenheid botulinetoxine is een patiëntveiligheidskwestie, geen administratieve fout. Vraagt een expliciete controlestap door de arts vóór vaststelling |
+
+### Onder welke voorwaarden
+
+Spelregel 3 en 4 hierboven gelden onverkort: het transcript is een **concept**, de arts controleert en stelt vast, en er gaan geen patiëntgegevens naar de tooling zonder verwerkersovereenkomst en AVG-toets. Dit valt onder risico **R13** (onbeheerste AI-inzet) — een systeem dat consultgesprekken verwerkt zit in dezelfde risicocategorie als de AI-mailbot van 2025, maar zwaarder. Dat is geen reden het niet te doen; het is de reden om het als beheerste wijziging (§6.3) te doen, met de vijf vragen hierboven vooraf beantwoord en vastgelegd.
+
+**Vervolgstap:** leverancier benaderen met deze vijf vragen, antwoorden vastleggen, en op basis daarvan een besluit voorleggen bij de directiebeoordeling 2027.
 
 ## Wat dit betekent voor het kwaliteitssysteem
 

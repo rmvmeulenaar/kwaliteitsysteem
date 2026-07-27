@@ -38,6 +38,7 @@
 | A21 | NPS-vraag (0–10) daadwerkelijk in het tevredenheidsformulier zetten; nulmeting over 4 kwartalen vóór een streefwaarde | SOP v1.1 | 🔴 | Rogier |
 | A22 | Vaststellen welk tevredenheidsformulier leidend is (Typeform of Google Forms) — nu twee bronnen voor één cijfer | zwakke-plekken-scan Z10 | 🔴 | Rogier |
 | A23 | Directiebeoordeling §6 gecorrigeerd: R6 niet gesloten, en 13 in plaats van 12 risico's | zwakke-plekken-scan Z11 | ✅ 27-07-2026 | Rogier |
+| A24 | **Verbetermogelijkheid (§10.1):** dossiervoering tijdens het consult via meeluisterend spraaksysteem — grijpt aan op het incident "onvolledige informed consent" (2025). Uitgewerkt als [fase 6](../05_Management/AI_Automatiseringsplan_2026-2027.md) met vijf vooraf te beantwoorden vragen; besluit bij de directiebeoordeling 2027 | eigen initiatief 27-07-2026 | 🔵 te beoordelen | Rogier |
 | — | Dossier-sjablonen (uit oud register feb 2025) | 2025 | ✅ via Clinicminds | Rogier |
 
 ## Aanpak (geborgd, niet persoonsafhankelijk)

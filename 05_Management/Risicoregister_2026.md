@@ -29,6 +29,7 @@
 
 ## Kansen (§6.1)
 - **AI/automatisering** — grootste kans: routineprocessen, registraties, interne audits en werkbesprekingen stapsgewijs via agents, met de arts als eindverantwoordelijke. Zie [AI-automatiseringsplan 2026–2027](AI_Automatiseringsplan_2026-2027.md).
+- **Registratie die samenvalt met de handeling** *(toegevoegd 27-07-2026)* — dossiervoering die tijdens het consult ontstaat in plaats van erna, via een meeluisterend spraaksysteem. Raakt de grondoorzaak achter beide tekortkomingen: niet de handeling ontbrak, maar de vastlegging was een aparte taak. Grijpt tevens aan op het incident "onvolledige informed consent" (2025). Uitgewerkt als fase 6 van het AI-automatiseringsplan; valt onder R13 en wordt als beheerste wijziging (§6.3) beoordeeld — nog geen besluit.
 - **Peptiden en regeneratieve geneeskunde** — mogelijke nieuwe behandeldomeinen; introductie pas na scope- en regelgevingsbeoordeling (koppeling R10).
 - **Eigen software i.p.v. abonnementen** — lagere kosten en minder leveranciersafhankelijkheid.
 

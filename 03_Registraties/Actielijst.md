@@ -47,6 +47,7 @@
 - ⬜ **A21** NPS-vraag (0–10-schaal) in het tevredenheidsformulier zetten; streefwaarde pas na 4 kwartalen nulmeting · **Deadline: vóór de kwartaalmailing van oktober 2026**
 - ⬜ **A22** Vaststellen welk formulier leidend is voor de tevredenheidsmeting — Typeform of Google Forms · **Deadline: 31-08-2026**
 - ✅ **A23** Directiebeoordeling §6 gecorrigeerd (R6 niet gesloten; 13 risico's)
+- 🔵 **A24** Leverancier meeluisterend spraaksysteem (Juvoly o.i.d.) benaderen met de vijf vragen uit [fase 6](../05_Management/AI_Automatiseringsplan_2026-2027.md): Clinicminds-koppeling, aanpasbaar uitvoerformaat, verwerkersovereenkomst en verwerkingslocatie, patiëntinformatie/bezwaar, nauwkeurigheid bij doseringen · **Eigenaar: Rogier** · **Deadline: antwoorden vastgelegd vóór 31-12-2026; besluit bij directiebeoordeling 2027**
 
 ## ⚙️ Systeem / operationeel
 - ✅ Clinicminds-API gekoppeld (KPI's live)
