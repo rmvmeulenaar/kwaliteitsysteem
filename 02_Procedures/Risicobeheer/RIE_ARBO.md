@@ -10,7 +10,7 @@
 | 3 | Infectiepreventie / biologische agentia (bloed) | [SOP Hygiëne & infectiepreventie](SOP_Hygiene_infectiepreventie.md) · handschoenen · desinfectie · afvalscheiding | ✅ |
 | 4 | Ergonomie (behandelhouding, staan/zitten) | Verstelbare behandelstoel/-tafel · afwisseling · pauzes | 🔵 |
 | 5 | Alleen/avond werken · agressie | Bereikbaarheid via callcenter · afspraken vooraf · veilige afsluiting locaties | 🔵 |
-| 6 | Brand / ontruiming | [Calamiteitenplan/BHV](SOP_Calamiteiten.md) · blusmiddelen · vluchtroutes | ✅ |
+| 6 | Brand / ontruiming | [Calamiteitenplan/BHV](SOP_Calamiteiten.md) · blusmiddelen · vluchtroutes · controle via [F-10](../../03_Registraties/Formulieren/F-10_Brandveiligheid_en_ontruiming.md) | 🔵 |
 | 7 | Gevaarlijke stoffen (medicatie, desinfectantia) | Veilige opslag · medicatiekoelkast met temp.-registratie · houdbaarheidsbeheer (SOP Voorraad) | ✅ |
 | 8 | Beeldschermwerk (administratie) | Ergonomische werkplek · afwisseling | 🔵 |
 

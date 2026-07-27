@@ -7,7 +7,7 @@
       "naam": "Kwartaalcontrole voorraad (F-09)",
       "frequentie": "kwartaal",
       "maanden": [1, 4, 7, 10],
-      "eigenaar": "Rogier / Romy",
+      "eigenaar": "Rogier / Moumen",
       "link": "03_Registraties/Formulieren/F-09_Voorraadcontrole_checklist.md",
       "omschrijving": "Fysieke looproute alle locaties: achterste rij, onderste plank, disposables, EpiPen noodtas, aangebroken flacons. Resultaat vastleggen op F-09 en in het voorraadcontrole-register. Norm: ISO 9001 §8.5.4 — dit is de borging van de open tekortkoming."
     },
@@ -64,6 +64,24 @@
       "eigenaar": "Rogier",
       "link": "03_Registraties/Actielijst.md",
       "omschrijving": "Aflopende contracten en termijnen checken: arbeidsovereenkomst Moumen, huurovereenkomsten (Nijmegen/Enschede/Sittard), verzekeringen, verwerkersovereenkomsten. Les van 2025: verlenging Moumen liep ongemerkt af."
+    },
+    {
+      "id": "brandveiligheid-halfjaar",
+      "naam": "Brandveiligheidscontrole (eigen visuele check, F-10)",
+      "frequentie": "halfjaar",
+      "maanden": [4, 10],
+      "eigenaar": "Rogier / Moumen",
+      "link": "03_Registraties/Formulieren/F-10_Brandveiligheid_en_ontruiming.md",
+      "omschrijving": "Per locatie langs de blusmiddelen: aanwezig, bereikbaar, drukmeter in het groen, verzegeling intact, keuringssticker geldig (vervaldatum noteren). Ook vluchtroutes vrij, noodverlichting, EHBO-koffer compleet en houdbaar. Vastleggen op F-10 deel A."
+    },
+    {
+      "id": "brandblusser-keuring-jaar",
+      "naam": "Jaarlijkse keuring brandblussers en noodverlichting (NEN 2559)",
+      "frequentie": "jaar",
+      "maanden": [9],
+      "eigenaar": "Rogier",
+      "link": "03_Registraties/Formulieren/F-10_Brandveiligheid_en_ontruiming.md",
+      "omschrijving": "Keuring laten uitvoeren door een gecertificeerd onderhoudsbedrijf; sticker en onderhoudsrapport opslaan en vastleggen op F-10 deel B. Op nevenlocaties eerst nagaan of de verhuurder dit doet en dan het keuringsbewijs opvragen. In dezelfde ronde de jaarlijkse ontruimingsoefening houden (F-10 deel C)."
     },
     {
       "id": "logcontrole-epd-kwartaal",

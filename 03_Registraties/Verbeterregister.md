@@ -17,7 +17,7 @@
 |---|---|---|---|---|
 | A1 | Kwaliteitsbeleid + PVI/Radiance-methode geactualiseerd (interne scope-check, zie R10) | interne audit | ✅ | Rogier |
 | A2 | Risicoregister 2026 | interne audit | ✅ | Rogier (AI-ondersteund) |
-| A3 | Voorraadregistratie hervat (kwartaalcontrole) | §8.5.4 | 🔵 | Rogier/Romy |
+| A3 | Voorraadregistratie hervat (kwartaalcontrole) | §8.5.4 | 🔵 | Rogier/Moumen |
 | A4 | Dit verbeter-/klachtenregister (AI-beheerd) | verbeterpunt 1–3 | ✅ | Rogier (AI-ondersteund) |
 | A5 | Apparatuuroverzicht + onderhoudsbewijs | interne audit | 🔵 | Rogier/Moumen |
 | A6 | Lichte RI&E / ARBO | interne audit | 🔵 | Rogier (AI-ondersteund) |
@@ -30,6 +30,10 @@
 | A13 | NEN 7510 implementeren volgens [plan](../05_Management/Plan_NEN7510_implementatie.md), fase 0 start aug 2026 | wettelijk kader + zwakke-plekken-scan | 🔵 | Rogier |
 | A14 | Maandafsluitingsblok toevoegen aan F-06 (taak vraagt erom, formulier ondersteunt het niet) | zwakke-plekken-scan Z2 | 🔵 | Rogier |
 | A15 | Awareness-instructie privacy/IB — toegezegd in SOP AVG §9, nooit gegeven; opgenomen in F-07 en als jaartaak | zwakke-plekken-scan Z7 | 🔵 | Rogier |
+| A16 | Brandveiligheidscontrole ingericht (F-10) — RI&E stond op ✅ zonder keuringsbewijs, status teruggezet naar 🔵 | zwakke-plekken-scan Z8 | ✅ 27-07-2026 | Rogier |
+| A17 | Keuringsbewijs brandblussers (NEN 2559) opvragen of laten uitvoeren per locatie | zwakke-plekken-scan Z8 | 🔴 | Rogier |
+| A18 | Actielijst en verbeterregister gelijkgetrokken; verstreken deadlines gemarkeerd | zwakke-plekken-scan Z9 | ✅ 27-07-2026 | Rogier |
+| A19 | Rolverdeling: bestellingen en voorraad van R. Bosvelt naar arts + doktersassistent (Organisatiestructuur v2.1) — rondt V3 af | directiebesluit 27-07-2026 | ✅ 27-07-2026 | Rogier |
 | — | Dossier-sjablonen (uit oud register feb 2025) | 2025 | ✅ via Clinicminds | Rogier |
 
 ## Aanpak (geborgd, niet persoonsafhankelijk)

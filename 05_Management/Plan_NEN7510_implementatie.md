@@ -22,7 +22,7 @@ Daarom:
 | Context en scope | informatiestromen en systemen |
 | Risicoregister | informatiebeveiligingsrisico's, zelfde methodiek (kans × impact) |
 | SOP-structuur | SOP's toegangsbeheer, back-up, incidenten |
-| Formulierenreeks F-01 t/m F-09 | registers voor autorisatie, datalekken, logcontrole |
+| Formulierenreeks F-01 t/m F-10 | registers voor autorisatie, datalekken, logcontrole |
 | Takenregister + signalering + escalatie | periodieke IB-taken |
 | Interne audit en directiebeoordeling | IB-paragraaf in dezelfde jaarcyclus |
 
@@ -57,10 +57,10 @@ Gap-analyse tegen NEN 7510-2: per beheersmaatregel vastleggen of die aanwezig, d
 Informatiebeveiligingsbeleid opstellen en vaststellen (scope, rollen, uitgangspunten, wie waarvoor tekent). Rolverdeling expliciet: de directeur is eindverantwoordelijk en vervult zelf de rol van security officer — bij 2,5 FTE is dat onvermijdelijk en dat benoemen we, net als bij de interne audit. Verwerkingsregister (AVG art. 30) opstellen. Systeemoverzicht: welk systeem bevat welke gegevens, wie heeft toegang, waar staat het. **Oplevering:** `01_Beleid/Informatiebeveiligingsbeleid.md`, `03_Registraties/Verwerkingsregister.md`, `03_Registraties/Systeem_en_informatieoverzicht.md`.
 
 ### Fase 2 — Toegang en logging (oktober 2026)
-IB-risico's toevoegen aan het bestaande risicoregister, met dezelfde kans × impact-methodiek. Autorisatiematrix opstellen: per systeem per persoon welke rechten, plus de procedure bij in- en uitdiensttreding. Toegangsbeheer aantoonbaar maken: 2FA aan, sessietimeout gecontroleerd, accounts opgeschoond. Logcontrole inrichten volgens NEN 7513: nagaan wat Clinicminds logt en een kwartaalcontrole op die logs beleggen. **Oplevering:** `F-10 Autorisatiematrix`, `SOP_Toegangsbeheer.md`, kwartaaltaak logcontrole.
+IB-risico's toevoegen aan het bestaande risicoregister, met dezelfde kans × impact-methodiek. Autorisatiematrix opstellen: per systeem per persoon welke rechten, plus de procedure bij in- en uitdiensttreding. Toegangsbeheer aantoonbaar maken: 2FA aan, sessietimeout gecontroleerd, accounts opgeschoond. Logcontrole inrichten volgens NEN 7513: nagaan wat Clinicminds logt en een kwartaalcontrole op die logs beleggen. **Oplevering:** `F-11 Autorisatiematrix`, `SOP_Toegangsbeheer.md`, kwartaaltaak logcontrole.
 
 ### Fase 3 — Continuïteit en incidenten (november 2026)
-Back-up- en herstelprocedure vastleggen én een echte teruglees-test uitvoeren — een back-up die nooit is teruggezet is geen back-up. Datalekregister inrichten (`F-11`), gekoppeld aan de bestaande VIM-melding F-04. Leveranciersbeheer afronden: alle verwerkersovereenkomsten binnen, inclusief de kopieën van Typeform en Resend die uit R6 nog openstaan. **Oplevering:** `SOP_Backup_en_herstel.md` met testverslag, `F-11 Datalekregister`, complete DPA-map.
+Back-up- en herstelprocedure vastleggen én een echte teruglees-test uitvoeren — een back-up die nooit is teruggezet is geen back-up. Datalekregister inrichten (`F-12`), gekoppeld aan de bestaande VIM-melding F-04. Leveranciersbeheer afronden: alle verwerkersovereenkomsten binnen, inclusief de kopieën van Typeform en Resend die uit R6 nog openstaan. **Oplevering:** `SOP_Backup_en_herstel.md` met testverslag, `F-12 Datalekregister`, complete DPA-map.
 
 ### Fase 4 — Mensen (december 2026)
 Bewustwording en training. Dit is geen nieuwe verplichting: [SOP AVG-compliance](../02_Procedures/Administratie/SOP_AVG_compliance.md) §9 belooft al een jaarlijkse privacytraining, instructie bij indiensttreding en bewustwording rond phishing — alleen is dat nooit gegeven en was er tot 27-07-2026 geen plek om het vast te leggen.
@@ -76,7 +76,7 @@ Interne audit met een informatiebeveiligingsblok, in dezelfde ronde als de ISO-a
 
 ## 5. Borging na oplevering
 
-Zonder terugkerende taken zakt dit binnen een jaar weg. Daarom zijn vijf taken toegevoegd aan het [takenregister](../taken/takenregister.json), met dezelfde signalering en escalatie als de rest:
+Zonder terugkerende taken zakt dit binnen een jaar weg. Daarom zijn zes taken toegevoegd aan het [takenregister](../taken/takenregister.json), met dezelfde signalering en escalatie als de rest:
 
 | Taak | Frequentie | Eigenaar |
 |---|---|---|

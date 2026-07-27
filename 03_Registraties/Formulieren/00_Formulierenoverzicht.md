@@ -14,6 +14,7 @@
 | F-07 | Bekwaamheidsoverzicht medewerker | doorlopend | arts | personeelsdossier |
 | F-08 | Ontvangstcontrole levering | per levering | wie de levering aanneemt | dit register |
 | F-09 | Voorraadcontrole-checklist (fysieke doorloop, 5 geplande data) | per kwartaal | doktersassistent of arts | dit register |
+| F-10 | Brandveiligheids- en ontruimingscontrole | halfjaarlijks (eigen check) + jaarlijks (keuring NEN 2559) | arts of doktersassistent | dit register |
 | — | Informed consent | per behandeling | arts | **Clinicminds** (EPD) |
 | — | Intake- en anamneseformulier | per nieuwe patiënt | arts | **Clinicminds** (EPD) |
 | — | Behandelregistratie | per behandeling | arts | **Clinicminds** (EPD) |
@@ -21,4 +22,6 @@
 
 **Toelichting voor de auditor:** de patiëntgebonden formulieren (consent, intake, behandelregistratie) zijn geen losse papieren maar sjablonen ín Clinicminds; ze worden per patiënt in het dossier vastgelegd. De praktijkgebonden registraties staan hier. Deze scheiding is bewust: patiëntgegevens blijven in het EPD, praktijkregistraties in het kwaliteitssysteem.
 
-**Eerlijke stand van zaken (26-07-2026):** F-01, F-02, F-06, F-08 en F-09 zijn op deze datum opgesteld. De onderliggende handelingen werden wel uitgevoerd maar niet vastgelegd — dat is precies het patroon dat ook bij de voorraadcontrole speelde. De registratie start per 26-07-2026; er is geen historie die wij met terugwerkende kracht invullen.
+**Gereserveerde nummers:** F-11 autorisatiematrix en F-12 datalekregister worden opgesteld in fase 2 en 3 van het [NEN 7510-implementatieplan](../../05_Management/Plan_NEN7510_implementatie.md).
+
+**Eerlijke stand van zaken (26-07-2026, aangevuld 27-07-2026):** F-01, F-02, F-06, F-08 en F-09 zijn op 26-07-2026 opgesteld, F-10 op 27-07-2026. De onderliggende handelingen werden wel uitgevoerd maar niet vastgelegd — dat is precies het patroon dat ook bij de voorraadcontrole speelde. De registratie start per 26-07-2026; er is geen historie die wij met terugwerkende kracht invullen.

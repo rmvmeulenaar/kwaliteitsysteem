@@ -58,6 +58,20 @@ Het overzicht van regelgeving noemt een beveiligd EPD "met toegangsbeveiliging e
 
 **Actie:** opgenomen als kwartaaltaak *Logcontrole toegang patiëntdossiers*, eerste uitvoering augustus 2026.
 
+### Z8. RI&E zet brand/ontruiming op "aanwezig" zonder enig keuringsbewijs
+
+Maatregel 6 van de RI&E — brand en ontruiming — stond op ✅ met als onderbouwing "calamiteitenplan, blusmiddelen, vluchtroutes". Er zijn blusmiddelen, maar er is geen keuringsbewijs, geen controleregistratie en geen vastlegging van wie op de nevenlocaties verantwoordelijk is. De eigen bewijssjablonen noemen NEN 2559 (jaarlijkse keuring door een deskundige, sticker met datum) wél als vereist servicerapport; het is alleen nooit geregeld.
+
+Ook de jaarlijkse ontruimingsoefening uit SOP Calamiteiten is nooit uitgevoerd of vastgelegd.
+
+**Actie — uitgevoerd 27-07-2026:** status teruggezet van ✅ naar 🔵; formulier [F-10](../03_Registraties/Formulieren/F-10_Brandveiligheid_en_ontruiming.md) opgesteld met een halfjaarlijkse eigen visuele controle, de jaarlijkse NEN 2559-keuring en de ontruimingsoefening; beide controles als taken in het takenregister. Het keuringsbewijs zelf moet nog worden opgevraagd of geregeld — op de nevenlocaties eerst nagaan of dat bij de verhuurder ligt.
+
+### Z9. Actielijst en verbeterregister spraken elkaar tegen
+
+De actielijst stond op de stand van 15-06-2026 en liep achter op het werk van juli: V2 stond open terwijl F-07 het bekwaamheidsoverzicht al was, en drie deadlines (A5 en A7 op 15-07, A6 op 31-07) waren verstreken zonder dat dat ergens zichtbaar was. Twee registers die iets anders zeggen over dezelfde stand — hetzelfde patroon als Z1.
+
+**Actie — uitgevoerd 27-07-2026:** actielijst gelijkgetrokken met het verbeterregister, verstreken deadlines gemarkeerd met ⏰ en voorzien van nieuwe data, en de bevindingen A8 t/m A18 toegevoegd.
+
 ### Z7. Jaarlijkse privacytraining is toegezegd maar nooit gegeven
 
 SOP AVG-compliance §9 belooft een jaarlijkse training over privacy en gegevensbescherming, instructie bij indiensttreding, en bewustwording rond phishing. Er is geen enkel bewijs dat die instructie ooit is gegeven, en het bekwaamheidsoverzicht F-07 had in de scholingstabel geen regel waarop het vastgelegd kon worden.
@@ -97,6 +111,6 @@ Het datalekregister weegt het zwaarst: het wordt in twee documenten genoemd als 
 
 ## Samenvatting
 
-Zeven bevindingen (Z1 t/m Z7, waarbij Z6 vijf ontbrekende documenten bundelt), plus vier punten die al openstonden. Eén heeft voorrang: de tegenstrijdigheid rond R6. Geen van de bevindingen raakt de patiëntveiligheid direct; ze raken allemaal de aantoonbaarheid. Dat is consistent met het beeld uit beide eerdere tekortkomingen — het handelen is in orde, de vastlegging loopt erachteraan.
+Negen bevindingen (Z1 t/m Z9, waarbij Z6 vijf ontbrekende documenten bundelt), plus vier punten die al openstonden. Eén heeft voorrang: de tegenstrijdigheid rond R6. Geen van de bevindingen raakt de patiëntveiligheid direct; ze raken allemaal de aantoonbaarheid. Dat is consistent met het beeld uit beide eerdere tekortkomingen — het handelen is in orde, de vastlegging loopt erachteraan.
 
 De opvolging loopt via het [NEN 7510-implementatieplan](Plan_NEN7510_implementatie.md) en het [verbeterregister](../03_Registraties/Verbeterregister.md). Volgende scan: bij de interne audit 2027.
