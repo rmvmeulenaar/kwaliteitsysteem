@@ -139,6 +139,16 @@
       "omschrijving": "Informatiebeveiligingsbeleid en de IB-risico's in het risicoregister herzien, gelijk met de directiebeoordeling. Voortgang van het NEN 7510-implementatieplan als vast agendapunt."
     },
     {
+      "id": "auditbevindingen-omzetten",
+      "naam": "Auditbevindingen 27-07-2026 omzetten naar acties met deadline",
+      "frequentie": "eenmalig",
+      "deadline": "2026-08-03",
+      "vooraf": 14,
+      "eigenaar": "Rogier",
+      "link": "06_DEKRA_Audit/Auditbevindingen_27-07-2026.md",
+      "omschrijving": "Binnen vijf werkdagen na de audit: elke bevinding van het bevindingenblad omzetten naar een A-nummer in het verbeterregister én een eenmalige actie met deadline in dit takenregister, zodat hij gesignaleerd en geëscaleerd wordt. Deadline naar type: bij een tekortkoming is de formele DEKRA-termijn voor het corrigerende-maatregelenplan leidend; bij een verbetermogelijkheid uiterlijk het eerstvolgende kwartaal met een concrete datum; bij een opmerking beoordelen of er een actie uit volgt en anders vastleggen waarom niet. Bij elke tekortkoming eerst de grondoorzaak vaststellen vóór de maatregel — bij beide eerdere tekortkomingen was dat een taak die van iemands geheugen afhing, en pas na die vaststelling kwam er een maatregel die daarop aangreep. Dit issue pas sluiten als alle bevindingen zijn omgezet."
+    },
+    {
       "id": "implementatie-verbeteracties-kwartaal",
       "naam": "Doorvoeren openstaande verbeteracties",
       "frequentie": "kwartaal",
