@@ -1,5 +1,5 @@
 # SOP: Hygiëne en Infectiepreventie
-*Standaard Operationele Procedures voor ISO9001-certificering — Privékliniek (2-3 FTE)*
+*Standaard Operationele Procedures voor ISO9001-certificering — Privékliniek (±2,5 FTE)*
 
 > Bron: Google Drive fileId: 1M9T8Muc0KygbBaaLSJeXTjx9q0N6GdiMmz3_J8pNRQE
 
@@ -15,9 +15,9 @@ Het doel van deze SOP is om de hygiëne en infectiepreventie binnen de kliniek t
 
 ## 3. Verantwoordelijkheden
 
-- **Kliniekmanager:** Verantwoordelijk voor naleving van protocollen en training.
+- **Directeur/arts (R. Meulenaar):** verantwoordelijk voor naleving van de protocollen en voor instructie van de medewerker.
 - **Behandelend personeel:** Uitvoeren van hygiënerichtlijnen bij alle behandelingen.
-- **Schoonmaakpersoneel:** Zorgdragen voor reiniging en desinfectie.
+- **Externe schoonmaakdienst:** algemene reiniging van de praktijkruimtes (ingehuurd, niet in loondienst). Reiniging en desinfectie van behandelkamer en instrumentarium gebeurt door de doktersassistent.
 
 ## 4. Algemene hygiënevoorschriften
 
@@ -57,7 +57,7 @@ Het doel van deze SOP is om de hygiëne en infectiepreventie binnen de kliniek t
 
 ## 10. Controle en monitoring van hygiëneprocessen
 
-- Wekelijkse hygiëne-audits door de kliniekmanager.
+- Periodieke hygiënecontrole door de directeur/arts; formeel vastgelegd bij de jaarlijkse interne audit.
 - Jaarlijkse bijscholing voor medewerkers.
 - Registratie van eventuele infectiegevallen.
 

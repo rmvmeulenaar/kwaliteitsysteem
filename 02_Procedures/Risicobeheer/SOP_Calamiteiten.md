@@ -1,5 +1,5 @@
 # SOP: Omgaan met Calamiteiten en Noodsituaties
-*Standaard Operationele Procedures voor ISO9001-certificering — Privékliniek (2-3 FTE)*
+*Standaard Operationele Procedures voor ISO9001-certificering — Privékliniek (±2,5 FTE)*
 
 > Bron: Google Drive fileId: 1ybFpxlRZIq8hHMpUi75_9_YuvpcEurFO-LFvhH8CrqI
 
@@ -22,7 +22,7 @@ Deze SOP beschrijft de procedures voor het omgaan met calamiteiten en noodsituat
 
 ### a. Medische noodsituaties
 1. Patiënt vertoont ernstige reactie (anafylaxie, flauwvallen, ademhalingsproblemen).
-2. BHV'er en behandelend arts waarschuwen.
+2. Direct de arts waarschuwen (tevens eerstehulpverlener).
 3. Zo nodig reanimatie starten en AED gebruiken.
 4. 112 bellen en patiënt stabiliseren tot ambulance arriveert.
 5. Incident registreren en evalueren.
@@ -31,7 +31,7 @@ Deze SOP beschrijft de procedures voor het omgaan met calamiteiten en noodsituat
 1. Brandalarm activeren en 112 bellen.
 2. Medewerkers begeleiden patiënten en bezoekers naar de verzamelplaats.
 3. Gebruik van blusmiddelen alleen bij beginnende branden.
-4. De BHV-coördinator controleert of iedereen geëvacueerd is.
+4. De arts controleert of iedereen — patiënten en medewerker — buiten is.
 5. Incident documenteren en verbetermaatregelen treffen.
 
 ### c. Stroomuitval
@@ -42,7 +42,7 @@ Deze SOP beschrijft de procedures voor het omgaan met calamiteiten en noodsituat
 5. Storingsrapport opstellen en analyseren.
 
 ### d. Technische storingen van kritieke apparatuur
-1. Direct melden aan kliniekmanager en technische ondersteuning.
+1. Direct melden aan de directeur/arts; die schakelt zo nodig de technische dienst van het pand in.
 2. Alternatieve behandelmethoden overwegen.
 3. Patiënten informeren over eventuele vertragingen.
 4. Apparatuurdocumentatie en onderhoudslogboeken controleren.
@@ -50,13 +50,13 @@ Deze SOP beschrijft de procedures voor het omgaan met calamiteiten en noodsituat
 
 ## 5. Alarmering en communicatieprocedures
 
-- In geval van nood: 112 bellen en BHV'er inschakelen.
-- Interne communicatie via portofoon of noodknop.
+- In geval van nood: 112 bellen; de arts verleent eerste hulp tot de hulpdiensten er zijn.
+- Interne communicatie: direct mondeling of telefonisch. Gezien de omvang van de praktijk (twee personen op locatie) zijn portofoons of een noodknop niet aan de orde.
 - Externe partijen (bijv. huisartsenpost, brandweer) direct informeren.
 
 ## 6. EHBO-voorzieningen en locatie
 
-- EHBO-koffers aanwezig in behandelkamers en receptie.
+- EHBO-koffer aanwezig in de behandelkamer op elke locatie.
 - AED bij de ingang van de kliniek.
 - Overzicht EHBO-instructies zichtbaar op centrale plekken.
 
@@ -66,12 +66,12 @@ Deze SOP beschrijft de procedures voor het omgaan met calamiteiten en noodsituat
 - **Dienstdoende arts (PVI):** R. Meulenaar, tel. 085-4013678
 - **Medische spoed buiten de kliniek:** 112 / dichtstbijzijnde SEH / huisartsenpost (HAP) — geen vaste verwijsafspraak; de arts beoordeelt en verwijst per geval
 - **Technische ondersteuning:** apparatuur via de betreffende leverancier; slotsysteem iLOQ via iLOQ Nederland BV ([support.iloq.com](https://support.iloq.com))
-- **BHV-coördinator / EHBO:** R. Meulenaar (arts), tel. 085-4013678
+- **Eerste hulp / noodcoördinatie:** R. Meulenaar (BIG-geregistreerd arts)
 
 ## 8. Jaarlijkse training en oefeningen
 
 - Jaarlijkse ontruimingsoefening.
-- EHBO- en BHV-trainingen voor alle medewerkers.
+- De arts is BIG-geregistreerd en bekwaam in spoedeisende handelingen (reanimatie, anafylaxie). De doktersassistent krijgt instructie in alarmeren, ontruimen en assisteren.
 - Evaluatie en verbetering van noodprocedures.
 
 ## 9. Evaluatie en verbeterproces na incidenten

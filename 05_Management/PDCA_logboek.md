@@ -30,6 +30,34 @@
 
 ---
 
+## Ronde 2026-07-26 — auditvoorbereiding + softwareprojecten als vast punt
+
+**Check (stand):**
+- ✅ Directiebeoordeling 2026 aangevuld: §6 risico's en kansen (§9.3.2e), actuele klanttevredenheidscijfers, adrescorrectie
+- ✅ Risicoregister: R13 (onbeheerste AI-inzet) toegevoegd, R6 gesloten, R9 gedekt
+- ✅ Koelkasttemperatuurregistratie 2025 aangeleverd en geregistreerd (52 wekelijkse controles); doorlopende registratie live via Google-formulier
+- ✅ Takensysteem live: takenregister + dagelijkse signalering via issues (AI-plan fase 2)
+- ✅ Formulieren F-01 t/m F-09 + overzicht; auditdossier compleet (simulatie, navigator, ophaallijst)
+- 🔵 Open richting audit: originele koelkastlijsten 2025 bijleggen, fysieke voorraadrondgang, servicerapporten 4 apparaten
+
+**Act (besluiten):**
+- **Softwareprojecten zijn vanaf nu een vast punt in elke PDCA-ronde.** De eigen ontwikkeling (automatisering, agents, vervanging abonnementen) is een kwaliteitsproces als elk ander: elk project heeft een doel, een status en een evaluatiemoment, en wijzigingen lopen als beheerste wijziging (§6.3) — kader in het [AI-automatiseringsplan](AI_Automatiseringsplan_2026-2027.md), risicokant in R13.
+- Gefabriceerd ogende registraties worden niet in het dossier opgenomen; herkomst van digitale overzettingen wordt altijd expliciet vermeld (besluit n.a.v. auditvoorbereiding 26-07).
+
+### Vast punt: softwareprojecten & automatisering (stand 26-07-2026)
+
+| Project | Doel | Status | Volgende Check |
+|---|---|---|---|
+| Kwaliteitsysteem-repo (GitHub) | één bron, versiebeheer §7.5 | **live** | Q4 2026 |
+| Taken-signalering (cron + issues) | borging R2, periodieke taken | **live 26-07** — activeert op main na merge | Q4 2026 |
+| Digitale registraties (Google Forms) | koelkast ✅ · klanttevredenheid ✅ · voorraad/hygiëne volgen | deels live | Q4 2026 |
+| Werkbesprekings-agent (agenda + verslag) | overlegverslagen structureel (ophaalpunt 12) | plan (fase 3) | Q4 2026 |
+| Interne-audit-agent | documentcontrole + consistentiechecks, arts stelt vast | plan (fase 4, 2027) | bij audit 2027 |
+| AI-mailbot | klantcommunicatie | **stilgelegd na datalek 2025** — herstart alleen onder R13-spelregels | bij herstart |
+| Eigen software i.p.v. abonnementen | kostenverlaging, minder leveranciersafhankelijkheid | plan (fase 5, doelstelling 8) | 2027 |
+
+---
+
 ## ⚠️ Bevinding: certificaatscope vs. dienstenaanbod (R10 / A1)
 
 **Situatie:** het certificaat (2224371) dekt *"het uitvoeren van ambulante cosmetische behandelingen, niet-chirurgisch"*. De praktijk biedt echter ook **TRT** (testosteronvervangende therapie), **GLP-1 / gewichtsverlies** en **bio-identieke hormonen (BHT)** aan — dat zijn *medische/endocriene* behandelingen, geen puur cosmetische.

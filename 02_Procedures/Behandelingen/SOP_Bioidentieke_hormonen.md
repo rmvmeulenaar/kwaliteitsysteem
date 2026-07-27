@@ -2,7 +2,9 @@
 *Conform ISO 9001-richtlijnen*
 
 > Bron: Google Drive fileId: 15D8WRBwKhdjfLXMCdoDIq_bMq8vapZxwqSU7b2LQCtA
-> Versie: 1.0 | Geldig vanaf: 01-01-2025 | Goedgekeurd door: R. M. V. Meulenaar | Volgende revisie: 01-01-2027
+> Versie: 1.1 | Geldig vanaf: 26-07-2026 | Opgesteld door: R. Meulenaar | Goedgekeurd door: Romy Bosvelt | Volgende revisie: 26-07-2028
+>
+> **Wijziging t.o.v. v1.0 (26-07-2026):** bereidingsapotheek als externe partij benoemd; niet-bestaande functies verwijderd. Inhoud van de behandeling ongewijzigd.
 
 ## 1. Doel en Toepassingsgebied
 
@@ -12,7 +14,7 @@ Deze SOP beschrijft de procedure voor de behandeling met bioidentieke hormonen i
 - De kwaliteit en continuïteit van de zorg borgen in overeenstemming met ISO 9001.
 - Voldoen aan geldende wet- en regelgeving en relevante beroepsrichtlijnen.
 
-Van toepassing op alle betrokken zorgverleners (artsen, specialisten, apothekers, diëtisten) en ondersteunend personeel.
+Van toepassing op de cosmetisch arts (uitvoerend) en de doktersassistent (assisterend). Bereidingen worden betrokken van een externe bereidingsapotheek; die apotheek is geen onderdeel van de praktijk.
 
 ## 2. Definities en Afkortingen
 
@@ -21,11 +23,13 @@ Van toepassing op alle betrokken zorgverleners (artsen, specialisten, apothekers
 
 ## 3. Verantwoordelijkheden van alle Betrokken Medewerkers
 
-1. **Behandelend Arts** — Medische intake uitvoeren, indicaties en contra-indicaties beoordelen, dosering prescriberen en bewaken, labbepalingen interpreteren, effectiviteit en veiligheid evalueren.
-2. **Verpleegkundig Specialist / Verpleegkundige** — Intake assisteren, follow-up en monitoring van patiënt, herhaalrecepten schrijven indien bevoegd.
-3. **Apotheker / Apotheekmedewerker** — Hormoonbereidingen bereiden en/of controleren, etikettering en batchnummerregistratie, geneesmiddelinteracties adviseren.
-4. **Kliniekmanager / Kwaliteitsfunctionaris** — Naleving SOP en ISO 9001, kwaliteitsgegevens verzamelen, corrigerende maatregelen coördineren.
-5. **Administratief Medewerker** — Patiëntgegevens vastleggen in EPD, planning voor consulten en herhaalrecepten, facturering.
+De praktijk telt drie betrokkenen; er zijn geen andere functies bij deze behandeling betrokken. De praktijk heeft **geen eigen apotheek en bereidt geen hormonen zelf** — bereidingen worden op recept betrokken van een geregistreerde bereidingsapotheek.
+
+1. **Cosmetisch arts (R. Meulenaar)** — voert de medische intake uit, beoordeelt indicaties en contra-indicaties, schrijft de dosering voor en bewaakt die, interpreteert de labbepalingen en evalueert effectiviteit en veiligheid. Herhaalrecepten worden uitsluitend door de arts uitgeschreven.
+2. **Doktersassistent (M. Al Saadon)** — assisteert bij de intake, verzorgt labaanvragen, bewaakt follow-up en monitoring, en legt de gegevens vast in Clinicminds.
+3. **Administratieve ondersteuning (parttime, R. Bosvelt)** — planning van consulten en herhaalrecepten, facturatie.
+
+**Externe bereidingsapotheek** — bereidt en controleert de hormoonbereidingen, verzorgt etikettering en batchnummerregistratie en adviseert over interacties. Externe partij, geen medewerker van de praktijk.
 
 ## 4. Benodigde Materialen, Medicatie en Apparatuur
 
@@ -48,7 +52,7 @@ Van toepassing op alle betrokken zorgverleners (artsen, specialisten, apothekers
 
 1. **Interpretatie Labwaarden** — Arts beoordeelt uitslagen en stelt behandelplan op: welke hormonen, in welke vorm en dosering.
 2. **Voorlichting Patiënt** — Mondeling en schriftelijk informeren over gebruik (toedieningstijdstippen, doseringsschema), interacties met andere medicatie.
-3. **Voorschrijven en Bereiding** — Recept uitschrijven (digitaal of op papier). Apotheker bereidt hormoonbereiding per voorschrift. Label medicatie met patiëntgegevens, dosering, batchnummer, houdbaarheidsdatum.
+3. **Voorschrijven en Bereiding** — Recept uitschrijven (digitaal of op papier). De externe bereidingsapotheek bereidt de hormoonbereiding per voorschrift. Label medicatie met patiëntgegevens, dosering, batchnummer, houdbaarheidsdatum.
 
 ### 5.3 Monitoring en Follow-up
 
@@ -80,7 +84,7 @@ Van toepassing op alle betrokken zorgverleners (artsen, specialisten, apothekers
 ## 9. Documentatievereisten en Receptbeheer
 
 1. Patiëntendossier: anamnese, labuitslagen, indicatiestelling, contra-indicaties, dosering, labcontroles, evaluaties.
-2. Recepten: uniek genummerd, patiëntgegevens vermeld, bewaard conform wettelijke bewaartermijn (min. 15 jaar).
+2. Recepten: uniek genummerd, patiëntgegevens vermeld, bewaard conform wettelijke bewaartermijn (min. 20 jaar, Wgbo sinds 2020).
 3. Formulieren: Intake- en Anamneseformulier, Informed Consent, Labregistratieformulier, Complicatieregistratieformulier, Kwaliteitsregistratieformulier.
 
 ## 10. Referenties Wet- en Regelgeving

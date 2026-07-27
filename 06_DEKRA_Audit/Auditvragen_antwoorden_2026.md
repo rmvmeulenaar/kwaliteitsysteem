@@ -47,7 +47,7 @@ Ja. Wij hebben de verbetermogelijkheden uit het rapport van vorig jaar één voo
 | 4 | Periodieke taken in een kalender/actielijst | ✅ actielijst met vast wekelijks/kwartaal/jaar-ritme | Actielijst |
 | 5 | ARBO opnieuw bezien | 🔵 lichte RI&E opgesteld; toetsing/afronding loopt | RI&E / ARBO |
 | 6 | Apparatuuroverzicht | ✅ overzicht aangemaakt; onderhoudsbewijs deels nog aan te vullen | Apparatuuroverzicht |
-| 7 | Sterilisator-gebruikstermijnen | ✅ geregeld | Apparatuuroverzicht |
+| 7 | Sterilisator-gebruikstermijnen | ✅ bewaartermijnen schriftelijk vastgelegd (26-07-2026) | F-02 Sterilisatielogboek + bewaartermijnen |
 
 Bij de punten die nog op 🔵 staan (5 en deels 6) is dat eerlijk weergegeven: de RI&E-toetsing en een deel van het onderhoudsbewijs worden op dit moment afgerond.
 
@@ -59,7 +59,7 @@ Eén ding melden wij eerlijk: de *registratie* van de periodieke controle is na 
 ### 6. Vooraf aan te leveren: management review en de plannen/doelstellingen voor komend jaar
 Beide worden vooraf aangeleverd:
 - De **management review** is de **[Directiebeoordeling 2026](../05_Management/Directiebeoordeling_2026.md)** (bijlage A), opgesteld conform ISO 9001 §9.3, met de werkelijke cijfers uit Clinicminds en de boekhouding.
-- De **plannen en doelstellingen voor komend jaar** staan in **§9 van diezelfde directiebeoordeling** (bijlage B): de strategische richting voor het komende jaar plus de concrete ISO-borgingsdoelen (afronding RI&E, onderhoudsbewijs compleet, voorraadcontrole structureel geborgd, bekwaamheidsborging via jaarlijkse kennistoets).
+- De **plannen en doelstellingen voor komend jaar** staan in **§10 van diezelfde directiebeoordeling** (bijlage B): de strategische richting voor het komende jaar plus de concrete ISO-borgingsdoelen (afronding RI&E, onderhoudsbewijs compleet, voorraadcontrole structureel geborgd, bekwaamheidsborging via jaarlijkse kennistoets).
 
 ---
 
@@ -68,7 +68,7 @@ Beide worden vooraf aangeleverd:
 | # | Bijlage | Onderwerp / vraag | Bestand |
 |---|---|---|---|
 | A | Directiebeoordeling 2026 | Management review (vraag 6) — ISO §9.3 | [Directiebeoordeling_2026.md](../05_Management/Directiebeoordeling_2026.md) |
-| B | Doelstellingen 2026 | Plannen/doelstellingen komend jaar (vraag 6) — §9 van bijlage A | in [Directiebeoordeling_2026.md](../05_Management/Directiebeoordeling_2026.md) §9 |
+| B | Doelstellingen 2026 | Plannen/doelstellingen komend jaar (vraag 6) — §10 van bijlage A | in [Directiebeoordeling_2026.md](../05_Management/Directiebeoordeling_2026.md) §10 |
 | C | Interne audit 2026 | Verbeterproces / corrigerende acties (vraag 4) | [Interne_audit_2026.md](../05_Management/Interne_audit_2026.md) |
 | D | SOP Voorraadbeheer + register | Tekortkoming §8.5.4 (vraag 5) | [SOP_Voorraadbeheer.md](../02_Procedures/Administratie/SOP_Voorraadbeheer.md) · [Voorraadcontrole_register.md](../07_Voorraad/Voorraadcontrole_register.md) |
 | E | Verbeter-/klachtenregister | Klachten/trend (vraag 4, punt 2) | [Verbeterregister.md](../03_Registraties/Verbeterregister.md) |

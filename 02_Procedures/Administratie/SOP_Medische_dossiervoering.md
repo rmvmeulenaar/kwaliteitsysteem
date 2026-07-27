@@ -1,5 +1,5 @@
 # SOP: Medische Dossiervoering
-*Standaard Operationele Procedures voor ISO9001-certificering — Privékliniek (2-3 FTE)*
+*Standaard Operationele Procedures voor ISO9001-certificering — Privékliniek (±2,5 FTE)*
 
 > Bron: Google Drive fileId: 1pP3APS_hbSmmm_K4QpYdA6-jZnW8qkhuKatlnn2dlj8
 > Opgesteld door: Rogier Meulenaar | Goedgekeurd door: Romy Bosvelt | Goedkeuringsdatum: 22-02-2025 | Volgende revisie: 22-02-2027
@@ -18,8 +18,8 @@ Deze SOP beschrijft de procedures voor medische dossiervoering in de kliniek, me
 ## 3. Verantwoordelijkheden
 
 - **Behandelend arts of specialist:** Verantwoordelijk voor correcte en tijdige documentatie van behandelgegevens.
-- **Kliniekmanager:** Toezicht op naleving en kwaliteitscontrole.
-- **Medisch secretaresse/assistent:** Ondersteuning bij administratieve verwerking en archivering.
+- **Directeur/arts (R. Meulenaar):** toezicht op naleving en kwaliteitscontrole.
+- **Doktersassistent (M. Al Saadon):** ondersteuning bij administratieve verwerking en archivering.
 
 ## 4. Minimale vereisten voor dossiercontent
 
@@ -66,7 +66,7 @@ Deze SOP beschrijft de procedures voor medische dossiervoering in de kliniek, me
 
 ## 7. Bewaartermijnen en archivering
 
-- Medische dossiers worden minimaal **15 jaar** bewaard (WGBO).
+- Medische dossiers worden minimaal **20 jaar** bewaard, gerekend vanaf de laatste wijziging (Wgbo, gewijzigd per 2020).
 - Digitaal archiveren in beveiligd EPD.
 - Gegevens vernietigen na het verstrijken van de bewaartermijn.
 
@@ -84,7 +84,7 @@ Deze SOP beschrijft de procedures voor medische dossiervoering in de kliniek, me
 
 ## 10. Kwaliteitscontrole van dossiers
 
-- Periodieke steekproeven door de kliniekmanager.
+- Periodieke steekproeven door de directeur/arts, jaarlijks bij de interne audit.
 - Controle op volledigheid en correctheid van medische dossiers.
 - Jaarlijkse evaluatie en bijsturing indien nodig.
 

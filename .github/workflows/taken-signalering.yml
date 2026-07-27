@@ -1,0 +1,86 @@
+name: Periodieke taken-signalering
+
+# Leest taken/takenregister.json en opent automatisch een issue wanneer een
+# periodieke taak aan de beurt is. Issue sluiten = taak uitgevoerd (traceerbare
+# registratie: wie, wanneer). Borging van risico R2 — taken hangen niet meer
+# op "of iemand eraan denkt".
+
+on:
+  schedule:
+    - cron: "30 5 * * *"   # dagelijks 05:30 UTC (07:30 NL zomertijd)
+  workflow_dispatch: {}      # handmatig te starten via de Actions-tab
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  signaleer:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const register = JSON.parse(fs.readFileSync('taken/takenregister.json', 'utf8'));
+            const nu = new Date();
+            const jaar = nu.getUTCFullYear();
+            const maand = nu.getUTCMonth() + 1; // 1-12
+
+            function periodeLabel(taak) {
+              switch (taak.frequentie) {
+                case 'maand':    return `${jaar}-${String(maand).padStart(2, '0')}`;
+                case 'kwartaal': return `Q${Math.ceil(maand / 3)}-${jaar}`;
+                case 'halfjaar': return `${maand <= 6 ? 'H1' : 'H2'}-${jaar}`;
+                case 'jaar':     return `${jaar}`;
+                default:         return `${jaar}-${String(maand).padStart(2, '0')}`;
+              }
+            }
+
+            function isAanDeBeurt(taak) {
+              if (taak.frequentie === 'maand') return true; // elke maand, dedupe op periode
+              return Array.isArray(taak.maanden) && taak.maanden.includes(maand);
+            }
+
+            // Label aanmaken als het nog niet bestaat
+            try {
+              await github.rest.issues.createLabel({
+                owner: context.repo.owner, repo: context.repo.repo,
+                name: 'periodieke-taak', color: '0e8a16',
+                description: 'Automatisch gesignaleerde taak uit het takenregister'
+              });
+            } catch (e) { /* bestaat al */ }
+
+            // Bestaande issues (open + gesloten) ophalen voor dedupe
+            const bestaand = await github.paginate(github.rest.issues.listForRepo, {
+              owner: context.repo.owner, repo: context.repo.repo,
+              labels: 'periodieke-taak', state: 'all', per_page: 100
+            });
+            const titels = new Set(bestaand.map(i => i.title));
+
+            for (const taak of register.taken) {
+              if (!isAanDeBeurt(taak)) continue;
+              const periode = periodeLabel(taak);
+              const titel = `[Taak] ${taak.naam} — ${periode}`;
+              if (titels.has(titel)) continue; // al aangemaakt (open of al uitgevoerd)
+
+              const body = [
+                `**Periodieke taak uit het [takenregister](../blob/main/taken/takenregister.json)** · periode: **${periode}**`,
+                '',
+                `**Eigenaar:** ${taak.eigenaar}`,
+                `**Document:** [${taak.link}](../blob/main/${taak.link})`,
+                '',
+                taak.omschrijving,
+                '',
+                '- [ ] Uitgevoerd en geregistreerd in het genoemde document/formulier',
+                '',
+                '_Sluit dit issue pas na registratie — het gesloten issue (met datum en naam) is zelf onderdeel van de aantoonbaarheid (ISO 9001 §7.5)._'
+              ].join('\n');
+
+              await github.rest.issues.create({
+                owner: context.repo.owner, repo: context.repo.repo,
+                title: titel, body, labels: ['periodieke-taak']
+              });
+              core.info(`Issue aangemaakt: ${titel}`);
+            }

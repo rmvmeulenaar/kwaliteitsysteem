@@ -1,5 +1,5 @@
 # SOP: Facturatie en Financiële Administratie
-*Standaard Operationele Procedures voor ISO9001-certificering — Privékliniek (2-3 FTE)*
+*Standaard Operationele Procedures voor ISO9001-certificering — Privékliniek (±2,5 FTE)*
 
 > Bron: Google Drive fileId: 1CTwmV_az-38VnJdqscWU7tSV3Wcd44i4Q4BrLPr7gOU
 > Opgesteld door: Rogier Meulenaar | Goedgekeurd door: Romy Bosvelt | Goedkeuringsdatum: 22-02-2025 | Volgende revisie: 22-02-2027
@@ -17,7 +17,7 @@ Deze SOP beschrijft de procedures voor facturatie en financiële administratie b
 
 ## 3. Verantwoordelijkheden
 
-- **Kliniekmanager:** Eindverantwoordelijk voor naleving van financiële procedures.
+- **Directeur/arts (R. Meulenaar):** eindverantwoordelijk voor naleving van de financiële procedures.
 - **Administratief medewerker:** Uitvoering van facturatie en registratie van betalingen.
 - **Externe accountant (indien van toepassing):** Controle en advies op boekhouding en belastingaangiften.
 

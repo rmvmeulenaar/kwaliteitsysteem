@@ -6,8 +6,8 @@ Zorgen voor een gestructureerde en efficiënte intake en behandelprocedure, waar
 
 ### **Verantwoordelijkheden:**
 
-  - **Medisch specialist / behandelaar:** Uitvoering van de intake en behandelingen.
-  - **Assistente / secretariaat:** Administratieve verwerking en patiëntvoorlichting.
+  - **Cosmetisch arts (R. Meulenaar):** uitvoering van de intake, indicatiestelling en alle behandelingen.
+  - **Doktersassistent (M. Al Saadon):** administratieve verwerking, voorbereiding en patiëntvoorlichting. **Administratieve ondersteuning (R. Bosvelt, parttime):** planning en facturatie.
 
 ### **Stappenplan:**
 

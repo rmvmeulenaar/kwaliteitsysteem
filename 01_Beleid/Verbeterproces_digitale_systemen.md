@@ -61,18 +61,17 @@ Een cyclus van voortdurende verbetering wordt gewaarborgd door:
 
 ### **5. Verantwoordelijkheidsmatrix**
 
-| **Systeem** | **Verantwoordelijke Persoon/Team** |
-| :-: | :-: |
-| **Clinicminds** | **Medisch coördinator** |
-| **Freshdesk** | **Klantenservice team** |
-| **WhatsApp Business** | **Klantenservice team** |
-| **Typeform** | **Kwaliteitsmanager** |
-| **Google Drive** | **Administratie & Beleidsteam** |
-| **Website CMS** | **Marketingteam** |
-| **Social media tools** | **Marketingteam** |
-| **Nieuwsbrief systeem** | **Marketingteam** |
-| **Boekhoudpakket** | **Financieel team** |
-| **Facturatie (Clinicminds)** | **Financieel team** |
+De praktijk telt 2,5 FTE en heeft geen teams of afdelingen. Elk systeem is toegewezen aan een bestaand persoon.
+
+| **Systeem** | **Verantwoordelijke** |
+| :-- | :-- |
+| **Clinicminds (EPD)** | R. Meulenaar |
+| **WhatsApp Business / telefonie** | M. Al Saadon |
+| **Typeform (klanttevredenheid)** | R. Meulenaar — meting draait geautomatiseerd |
+| **Documentbeheer kwaliteitssysteem** | R. Meulenaar, ondersteund door het AI-systeem |
+| **Website CMS, social media, nieuwsbrief** | R. Meulenaar (deels uitbesteed aan externe partij) |
+| **Boekhoudpakket** | extern administratiekantoor, aangestuurd door R. Meulenaar |
+| **Facturatie (Clinicminds)** | R. Bosvelt |
 
 ### **6. Conclusie**
 

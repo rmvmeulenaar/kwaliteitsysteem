@@ -2,7 +2,9 @@
 *Conform ISO 9001-richtlijnen*
 
 > Bron: Google Drive fileId: 16ni7NndAJaNR-d9kigjXTAK1wMmkOyjYt94d6y-k12o
-> Versie: 1.0 | Geldig vanaf: 01-01-2025 | Goedgekeurd door: R. M. V. Meulenaar | Volgende revisie: 01-01-2027
+> Versie: 1.1 | Geldig vanaf: 26-07-2026 | Opgesteld door: R. Meulenaar | Goedgekeurd door: Romy Bosvelt | Volgende revisie: 26-07-2028
+>
+> **Wijziging t.o.v. v1.0 (26-07-2026):** diëtist als externe verwijzing benoemd; niet-bestaande functies verwijderd. Inhoud van de behandeling ongewijzigd.
 
 ## 1. Doel en Toepassingsgebied
 
@@ -12,7 +14,7 @@ Deze SOP beschrijft de werkwijze voor het behandelen van patiënten met overgewi
 - Voldoen aan relevante wet- en regelgeving en de eisen van ISO 9001.
 - De kwaliteit en continuïteit van zorg borgen en verbeteren.
 
-Van toepassing op alle gekwalificeerde zorgverleners (artsen, diëtisten, verpleegkundig specialisten) en ondersteunende medewerkers.
+Van toepassing op de cosmetisch arts (uitvoerend) en de doktersassistent (assisterend). De praktijk heeft geen diëtist of verpleegkundig specialist in dienst.
 
 ## 2. Definities en Afkortingen
 
@@ -22,11 +24,11 @@ Van toepassing op alle gekwalificeerde zorgverleners (artsen, diëtisten, verple
 
 ## 3. Verantwoordelijkheden
 
-1. **Behandelend Arts** — Medische beoordeling (intake, diagnostiek), medicatie voorschrijven en monitoren, aanpassingen bepalen, patiënt informeren.
-2. **Diëtist / Voedingsdeskundige** — Voedingsanamnese uitvoeren, voedingsadviesplan opstellen, voortgang monitoren.
-3. **Verpleegkundige / Verpleegkundig Specialist** — Intake en controles assisteren (bloeddruk, gewicht, BMI), instructies geven (mits bevoegd), voortgang bewaken.
-4. **Kliniekmanager / Kwaliteitsfunctionaris** — Naleving ISO 9001, periodieke evaluatie, voorraad/opslag/distributie GW-medicatie bewaken.
-5. **Administratief Medewerker** — Afspraken inplannen, patiëntgegevens vastleggen, facturatie beheren.
+De praktijk telt drie betrokkenen; er zijn geen andere functies bij deze behandeling betrokken. De praktijk heeft **geen diëtist in dienst**; voedings- en leefstijlbegeleiding wordt door de arts gegeven en waar meer nodig is, wordt verwezen naar een externe diëtist.
+
+1. **Cosmetisch arts (R. Meulenaar)** — voert de medische beoordeling en intake uit, schrijft de medicatie voor en monitort die, bepaalt dosisaanpassingen, geeft de voedings- en leefstijladviezen en informeert de patiënt.
+2. **Doktersassistent (M. Al Saadon)** — assisteert bij intake en controles (bloeddruk, gewicht, BMI), bewaakt voortgang en controleafspraken, controleert opslag en houdbaarheid van de medicatie (koppelt aan SOP Voorraadbeheer, §8.5.4) en legt gegevens vast in Clinicminds.
+3. **Administratieve ondersteuning (parttime, R. Bosvelt)** — afspraken inplannen, facturatie beheren.
 
 ## 4. Benodigde Materialen, Medicatie en Apparatuur
 
@@ -81,7 +83,7 @@ Van toepassing op alle gekwalificeerde zorgverleners (artsen, diëtisten, verple
 ## 9. Documentatievereisten en Receptbeheer
 
 1. Patiëntendossier: anamnese, meetgegevens, medicatiehistorie (datum start, dosering, batch/lotnummer), evaluaties.
-2. Receptbeheer: uniek genummerd, ondertekend door voorschrijvend arts. Bewaartermijn min. 15 jaar.
+2. Receptbeheer: uniek genummerd, ondertekend door voorschrijvend arts. Bewaartermijn min. 20 jaar (Wgbo sinds 2020).
 3. Formulieren: Intakeformulier, Informed Consent, Complicatieregistratieformulier, Kwaliteitsregistratieformulier.
 
 ## 10. Referenties Wet- en Regelgeving

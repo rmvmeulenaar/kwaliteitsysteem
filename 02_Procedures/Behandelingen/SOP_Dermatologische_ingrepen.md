@@ -2,7 +2,9 @@
 *Conform ISO 9001-richtlijnen*
 
 > Bron: Google Drive fileId: 1oPKzOz1wK7ogcb12fqC2OyFoSDFj30pqS3nF0-Lh-fM
-> Versie: 1.0 | Geldig vanaf: 01-01-2025 | Goedgekeurd door: R. M. V. Meulenaar | Volgende revisie: 01-01-2027
+> Versie: 1.1 | Geldig vanaf: 26-07-2026 | Opgesteld door: R. Meulenaar | Goedgekeurd door: Romy Bosvelt | Volgende revisie: 26-07-2028
+>
+> **Wijziging t.o.v. v1.0 (26-07-2026):** dermatoloog vervangen door de cosmetisch arts; niet-bestaande functies verwijderd. Inhoud van de behandeling ongewijzigd.
 
 ## 1. Doel en Toepassingsgebied
 
@@ -25,10 +27,11 @@ Van toepassing op alle zorgverleners en ondersteunende medewerkers bij kleine de
 
 ## 3. Verantwoordelijkheden
 
-1. **Dermatoloog of Gekwalificeerde Behandelaar** — indicatie, risico's en contra-indicaties beoordelen; ingreep uitvoeren; patiënt informeren; nazorg toezien.
-2. **Assistent(e)/Verpleegkundige** — behandelkamer en materialen voorbereiden; behandelaar ondersteunen; wondverzorging en voorlichting.
-3. **Kliniekmanager/Kwaliteitsfunctionaris** — naleving SOP en ISO 9001; beschikbaarheid gekalibreerde apparatuur; kwaliteitsdata vastleggen.
-4. **Balie-/Administratief Medewerker** — patiëntgegevens controleren en registreren; planning en facturatie; patiëntformulieren beheren.
+De praktijk telt drie betrokkenen; er zijn geen andere functies bij deze behandeling betrokken. De praktijk heeft **geen dermatoloog in dienst** — alle ingrepen worden uitgevoerd door de cosmetisch arts.
+
+1. **Cosmetisch arts (R. Meulenaar)** — beoordeelt indicatie, risico's en contra-indicaties, voert de ingreep zelf uit, informeert de patiënt en ziet toe op de nazorg. Alle handelingen die vallen onder artikel 36 Wet BIG worden uitsluitend door de arts verricht.
+2. **Doktersassistent (M. Al Saadon)** — bereidt de behandelkamer en materialen voor, assisteert tijdens de ingreep, verzorgt wondverzorging en voorlichting na afloop, en legt de gegevens vast in Clinicminds.
+3. **Administratieve ondersteuning (parttime, R. Bosvelt)** — controleert en registreert patiëntgegevens, verzorgt planning en facturatie.
 
 ## 4. Benodigde Materialen en Apparatuur
 

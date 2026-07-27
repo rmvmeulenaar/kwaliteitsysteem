@@ -4,6 +4,11 @@
 > Origineel bestandsnaam: "Directie en kwaliteitsbeoordeling 2025 Klant.docx"
 > Datum: 18-01-2025 | Opsteller: Rogier Meulenaar (Directeur)
 
+> ⚠️ **Correctienotitie (26-07-2026) — lees dit vóór de cijfers.**
+> Dit is het historische verslag van 18-01-2025. Bij de consistentiecontrole van juli 2026 is vastgesteld dat de financiële reeks in dit document en de vermelde klanttevredenheidspercentages **niet juist zijn**. De omzet 2024 staat hier als €900.000; het werkelijke, uit de administratie herleide resultaat over 2024 is **een verlies van €22.608** bij opbrengsten van €487.091 en kosten van €509.699. De genoemde tevredenheidspercentages voor 2023 en 2024 (95% en 96%) zijn niet met een uitgevoerde meting te onderbouwen; de laatste werkelijk uitgevoerde meting dateert van 2020/21.
+> **Geldend zijn de cijfers in [Directiebeoordeling 2026](Directiebeoordeling_2026.md) §3**, rechtstreeks opgehaald uit Clinicminds en de administratie. Dit document blijft ongewijzigd bewaard als historisch record en wordt niet gebruikt als bron voor prestatiegegevens.
+> Daarnaast: delen van §1.3 en §2.3 beschrijven de situatie van 2021/2022 en zijn bij het opstellen in 2025 niet geactualiseerd. Dit is als verbeterpunt onderkend; de directiebeoordeling 2026 is opnieuw en volledig opgesteld.
+
 *Notitie voor volgende directiebeoordeling: Graag PVI methodiek ook evalueren zie PVI methode*
 
 ---

@@ -2,7 +2,9 @@
 *Conform ISO 9001-richtlijnen*
 
 > Bron: Google Drive fileId: 1j-zPj_foSPeOaTZRDdeqH9rhap9_owod9pMiZWA_AhQ
-> Versie: 1.0 | Geldig vanaf: 01-01-2025 | Goedgekeurd door: R. M. V. Meulenaar | Volgende revisie: 01-01-2027
+> Versie: 1.1 | Geldig vanaf: 26-07-2026 | Opgesteld door: R. Meulenaar | Goedgekeurd door: Romy Bosvelt | Volgende revisie: 26-07-2028
+>
+> **Wijziging t.o.v. v1.0 (26-07-2026):** injecties eenduidig bij de arts belegd; niet-bestaande functies verwijderd. Inhoud van de behandeling ongewijzigd.
 
 ## 1. Doel en Toepassingsgebied
 
@@ -12,7 +14,7 @@ Deze SOP standaardiseert de werkwijze voor de toediening van dermale fillers (zo
 - Patiëntveiligheid en kwaliteit van zorg optimaliseren.
 - Voldoen aan relevante wet- en regelgeving en ISO 9001-richtlijnen.
 
-Van toepassing op alle bevoegde zorgverleners (artsen, huidtherapeuten, gespecialiseerde verpleegkundigen) en ondersteunende medewerkers.
+Van toepassing op de cosmetisch arts (uitvoerend, verricht alle injecties) en de doktersassistent (assisterend).
 
 ## 2. Definities en Afkortingen
 
@@ -24,10 +26,11 @@ Van toepassing op alle bevoegde zorgverleners (artsen, huidtherapeuten, gespecia
 
 ## 3. Verantwoordelijkheden
 
-1. **Behandelend Arts / Gekwalificeerde Behandelaar** — Indicatie analyseren, behandelplan opstellen, behandeling uitvoeren, patiënt informeren, nazorg borgen.
-2. **Assistent(e)/Verpleegkundige** — Behandelruimte voorbereiden, materialen steriel klaarzetten, assisteren, reinigen en desinfecteren, opslag fillers en botulinumtoxine controleren.
-3. **Kliniekmanager / Kwaliteitsfunctionaris** — Naleving SOP en ISO 9001-eisen, onderhoud en kalibratie apparatuur (koelkast), kwaliteitsindicatoren analyseren.
-4. **Balie-/Administratief Medewerker** — Patiëntgegevens vastleggen, agenda beheren, formulieren uitreiken, facturatie.
+De praktijk telt drie betrokkenen; er zijn geen andere functies bij deze behandeling betrokken.
+
+1. **Cosmetisch arts (R. Meulenaar)** — analyseert de indicatie, stelt het behandelplan op, **injecteert zelf** (voorbehouden handeling, art. 36 Wet BIG), informeert de patiënt en borgt de nazorg.
+2. **Doktersassistent (M. Al Saadon)** — bereidt de behandelruimte voor, zet materialen steriel klaar, assisteert, reinigt en desinfecteert na afloop, en controleert koelkastopslag en houdbaarheid van fillers en botulinumtoxine (koppelt aan SOP Voorraadbeheer, §8.5.4).
+3. **Administratieve ondersteuning (parttime, R. Bosvelt)** — legt patiëntgegevens vast, beheert de agenda, reikt formulieren uit en verzorgt de facturatie.
 
 ## 4. Benodigde Materialen en Apparatuur
 

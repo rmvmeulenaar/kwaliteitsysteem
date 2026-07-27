@@ -85,8 +85,8 @@ Elke onbedoelde gebeurtenis tijdens het zorgproces die tot schade aan de patiën
 
 2.  **Hoe melden**
 
-      - Via het digitale VIM-formulier in het EPD-systeem
-      - Bij acute situaties: mondeling aan de kliniekmanager, gevolgd door schriftelijke melding
+      - Via het digitale incidenten-/verbeterregister van het kwaliteitssysteem (VIM-formulier)
+      - Bij acute situaties: direct mondeling aan de arts/directeur, gevolgd door schriftelijke melding
 
 3.  **Wat melden**
 
@@ -98,7 +98,7 @@ Elke onbedoelde gebeurtenis tijdens het zorgproces die tot schade aan de patiën
 
 4.  **Afhandeling**
 
-      - De VIM-commissie beoordeelt alle meldingen wekelijks
+      - De arts/directeur beoordeelt alle meldingen. Bij een organisatie van 2,5 FTE is er geen aparte VIM-commissie; meldingen komen aan de orde in het dagelijks overleg tussen arts en doktersassistent
       - Meldingen worden gecategoriseerd op ernst en type
       - Bij ernstige incidenten wordt direct actie ondernomen
       - Terugkoppeling aan melder binnen 2 weken
@@ -200,7 +200,8 @@ Het gecombineerde VIM-formulier is beschikbaar in het kwaliteitssysteem (digitaa
 
 3.  **Controle houdbaarheid**
 
-      - Maandelijkse controle op vervaldatum
+      - Controle op vervaldatum per kwartaal, conform SOP Voorraadbeheer (§8.5.4), vastgelegd in het voorraadcontrole-register
+      - Daarnaast visuele houdbaarheidscontrole bij elke uitgifte (FIFO — oudste eerst)
       - Vervallen medicatie direct afvoeren via retourbox apotheek
 
 #### **Voorschrijven en toedienen**
@@ -241,16 +242,16 @@ Het gecombineerde VIM-formulier is beschikbaar in het kwaliteitssysteem (digitaa
 
 #### **BHV-organisatie**
 
-  - BHV-coördinator: R. Meulenaar (arts), tel. 085-4013678
-  - BHV'ers: geen aparte BHV'ers — micro-organisatie (arts + 1 medewerker); de BIG-geregistreerde arts vervult de EHBO-/eerstehulprol
-  - Taken BHV'ers: brand bestrijden, ontruimen, eerste hulp verlenen
+  - **Verantwoordelijke bedrijfshulpverlening:** R. Meulenaar (BIG-geregistreerd arts). Bij een micro-organisatie van ±2,5 FTE is er geen BHV-ploeg; de Arbowet vraagt hier ten minste één aangewezen bedrijfshulpverlener en die rol vervult de arts.
+  - **Taken:** alarmeren, ontruimen, blussen met de aanwezige blusmiddelen bij een beginnende brand, en eerste hulp verlenen. De arts is als BIG-geregistreerd arts bekwaam in reanimatie en de behandeling van anafylaxie.
+  - **De doktersassistent** krijgt instructie in alarmeren, ontruimen en assisteren, en weet waar blusmiddelen, EHBO-koffer en noodmedicatie zich bevinden.
+  - **Aandachtspunt (ARBO-actie, loopt):** formele BHV-scholing en het actueel houden daarvan wordt in 2026 belegd; zie de RI&E en de actielijst.
 
 #### **Alarmering**
 
 1.  **Intern alarm**
 
-      - Mondeling/telefonisch binnen het kleine team (overzichtelijke ruimte per locatie)
-      - BHV-app op mobiele telefoons
+      - Mondeling of telefonisch binnen het kleine team; de ruimtes per locatie zijn overzichtelijk en er zijn nooit meer dan twee medewerkers aanwezig
 
 2.  **Extern alarm**
 
@@ -261,7 +262,7 @@ Het gecombineerde VIM-formulier is beschikbaar in het kwaliteitssysteem (digitaa
 
 1.  **Besluit tot ontruiming**
 
-      - BHV-coördinator beslist over ontruiming
+      - De arts beslist over ontruiming
       - Bij brand: altijd ontruimen
 
 2.  **Ontruimingsroutes**
@@ -272,16 +273,15 @@ Het gecombineerde VIM-formulier is beschikbaar in het kwaliteitssysteem (digitaa
 
 3.  **Taken tijdens ontruiming**
 
-      - Receptie: alarmering externe hulpdiensten
-      - BHV'ers: begeleiding patiënten, controle ruimtes
-      - Behandelaars: eigen patiënten begeleiden
+      - Doktersassistent: alarmeert 112 en begeleidt de aanwezige patiënten naar buiten
+      - Arts: controleert de behandelkamers en verlaat als laatste het pand
 
 #### **EHBO**
 
 1.  **EHBO-middelen**
 
-      - EHBO-koffer locatie: receptie en behandelkamer 1
-      - AED locatie: bij receptie
+      - EHBO-koffer locatie: in de behandelkamer op elke locatie
+      - AED locatie: in de behandelruimte, hoofdlocatie Nijmegen
       - Plattegrond met EHBO-middelen hangt bij entree
 
 2.  **Procedure bij ongeval**
@@ -393,26 +393,19 @@ Het gecombineerde VIM-formulier is beschikbaar in het kwaliteitssysteem (digitaa
 
 ## **9. Verantwoordelijkheden en autorisaties**
 
+De praktijk telt 2,5 FTE. Er is geen kliniekmanager, geen verpleegkundige en geen receptie; elke rol hieronder is toegewezen aan een bestaand persoon. Zie [Organisatiestructuur](Organisatiestructuur.md).
+
 | **Functie** | **Verantwoordelijkheden** | **Bevoegdheden** |
-| :-: | :-: | :-: |
-| Directeur | Eindverantwoordelijk voor kwaliteitsbeleid | Tekenbevoegdheid, budgetbevoegdheid |
-| Kliniekmanager | Dagelijkse leiding, implementatie kwaliteitsbeleid | Personeelsmanagement, klachtenafhandeling |
-| Artsen | Medische behandelingen, calamiteitenmanagement | Voorschrijven medicatie, behandelbeslissingen |
-| Verpleegkundigen | Uitvoeren verpleegkundige taken, assisteren bij behandelingen | Uitvoeren voorbehouden handelingen binnen kader wet BIG |
-| Receptie | Patiëntenadministratie, eerste aanspreekpunt | Agendabeheer, informatieverstrekking |
+| :-- | :-- | :-- |
+| Directeur / cosmetisch arts (R. Meulenaar) | Eindverantwoordelijk voor kwaliteitsbeleid, medisch handelen, calamiteiten, klachtenafhandeling, directiebeoordeling en interne audit | Teken- en budgetbevoegdheid; voorschrijven van medicatie; alle voorbehouden handelingen (art. 36 Wet BIG); behandelbeslissingen |
+| Doktersassistent (M. Al Saadon) | Assisteren bij behandelingen, voorbereiding en hygiëne, dossierregistratie, nazorg, kwartaalcontrole voorraad | Signaleren van incidenten en verbeterpunten; **geen voorbehouden handelingen** |
+| Administratieve ondersteuning (R. Bosvelt, parttime) | Patiëntenadministratie, planning, facturatie, bestellingen | Agendabeheer, informatieverstrekking, medegoedkeuring kwaliteitsdocumenten |
 
 ## **10. Procedure- en formulierenoverzicht**
 
-| **Code** | **Titel** | **Versie** | **Datum** |
-| :-: | :-: | :-: | :-: |
-| P-01 | Intake nieuwe patiënten | 1.2 | 01-01-2025 |
-| P-02 | Behandelprotocol injectables | 2.0 | 01-01-2025 |
-| P-03 | Behandelprotocol lasertherapie | 1.5 | 01-01-2025 |
-| P-04 | Nazorgprotocol | 1.1 | 01-01-2025 |
-| F-01 | Geïntegreerd patiëntformulier | 2.1 | 01-01-2025 |
-| F-02 | VIM-formulier | 1.3 | 01-01-2025 |
-| F-03 | Complicatieregistratie | 1.0 | 01-01-2025 |
-| F-04 | Checklist behandelruimte | 1.2 | 01-01-2025 |
+De procedures staan in `02_Procedures/` (behandelingen, administratie, risicobeheer). De geldende formulieren en registraties staan in **[`03_Registraties/Formulieren/00_Formulierenoverzicht.md`](../03_Registraties/Formulieren/00_Formulierenoverzicht.md)**, met per formulier de code, frequentie, invuller en bewaarplaats.
+
+*Correctie 26-07-2026: de eerdere tabel op deze plek noemde codes P-01 t/m F-04 die met geen enkel bestaand document overeenkwamen. Die tabel is vervangen door de verwijzing hierboven.*
 
 ## **11. Jaarplanning kwaliteit**
 
@@ -421,7 +414,7 @@ Het gecombineerde VIM-formulier is beschikbaar in het kwaliteitssysteem (digitaa
 | Januari | Opstellen jaarplan kwaliteit |
 | Maart | Interne audit infectiepreventie |
 | Mei | Klanttevredenheidsonderzoek |
-| Juni | BHV-training en ontruimingsoefening |
+| Juni | Instructie noodprocedures + ontruimingsoefening (formele BHV-scholing: actiepunt 2026) |
 | September | Interne audit dossiervoering |
 | November | Leveranciersbeoordeling |
 | December | Managementreview en evaluatie jaarplan |
@@ -429,10 +422,13 @@ Het gecombineerde VIM-formulier is beschikbaar in het kwaliteitssysteem (digitaa
 ## **12. Versiebeheerdocument**
 
 | **Versie** | **Datum** | **Wijzigingen** | **Auteur** |
-| :-: | :-: | :-: | :-: |
+| :-- | :-- | :-- | :-- |
 | 1.0 | 01-01-2025 | Eerste uitgave | R. Meulenaar |
+| 2.0 | 26-07-2026 | Jaarlijkse evaluatie uitgevoerd. Niet-bestaande functies (kliniekmanager, verpleegkundigen, receptie, VIM-commissie) vervangen door de werkelijke bezetting van 2,5 FTE. Frequentie houdbaarheidscontrole consistent gemaakt op kwartaal conform SOP Voorraadbeheer (§8.5.4). | R. Meulenaar |
 
-*Dit kwaliteitshandboek is eigendom van Praktijk voor Injectables. Niets uit dit handboek mag worden vermenigvuldigd of verspreid zonder toestemming van de directie.*
+**Goedgekeurd door:** Romy Bosvelt · **Goedkeuringsdatum:** 26-07-2026 · **Volgende revisie:** 26-07-2027 (jaarlijks)
+
+*Dit kwaliteitshandboek is eigendom van PVI Clinic B.V. (Praktijk voor Injectables). Niets uit dit handboek mag worden vermenigvuldigd of verspreid zonder toestemming van de directie.*
 
 **Ondertekening:**
 

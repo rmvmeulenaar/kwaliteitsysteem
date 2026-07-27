@@ -1,5 +1,5 @@
 # SOP: AVG-Compliance en Privacy
-*Standaard Operationele Procedures voor ISO9001-certificering — Privékliniek (2-3 FTE)*
+*Standaard Operationele Procedures voor ISO9001-certificering — Privékliniek (±2,5 FTE)*
 
 > Bron: Google Drive fileId: 1TancTGAdn4lffb7xQSdtJk5zaeJDXhPTPWr3WCld068
 > Opmerking: Titel in Drive heeft typefout "Privay" — correct is "Privacy"
@@ -17,7 +17,7 @@ Deze SOP beschrijft de procedures voor AVG-compliance en privacybeheer binnen de
 
 ## 3. Verantwoordelijkheden
 
-- **Kliniekmanager:** Eindverantwoordelijk voor naleving van de AVG.
+- **Directeur/arts (R. Meulenaar):** eindverantwoordelijk voor naleving van de AVG en tevens privacy-contactpersoon. De praktijk heeft geen functionaris gegevensbescherming (niet verplicht bij deze omvang).
 - **Functionaris Gegevensbescherming (FG) (indien aangesteld):** Adviseert over privacy en ziet toe op naleving.
 - **Alle medewerkers:** Zorgen voor vertrouwelijke omgang met persoonsgegevens.
 
@@ -47,13 +47,13 @@ De verwerking van persoonsgegevens binnen de kliniek gebeurt op basis van:
 - Recht op vergetelheid: verwijderen van gegevens indien niet wettelijk verplicht om te bewaren.
 
 ### d. Meldplicht datalekken
-- Datalekken direct melden aan de kliniekmanager en FG.
+- Datalekken direct melden aan de directeur/arts, die beoordeelt of melding bij de Autoriteit Persoonsgegevens nodig is.
 - Ernstige datalekken binnen 72 uur melden bij de Autoriteit Persoonsgegevens.
 - Maatregelen nemen om herhaling te voorkomen.
 
 ## 6. Bewaartermijnen en vernietiging van gegevens
 
-- Medische dossiers: minimaal 15 jaar bewaren (conform wetgeving).
+- Medische dossiers: minimaal 20 jaar bewaren (Wgbo, gewijzigd per 2020).
 - Persoonsgegevens vernietigen zodra bewaartermijn is verstreken.
 - Beveiligde vernietiging via een erkende dienstverlener.
 

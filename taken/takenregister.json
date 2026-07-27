@@ -1,0 +1,84 @@
+{
+  "_uitleg": "Machine-leesbaar takenregister. De GitHub Action (.github/workflows/taken-signalering.yml) leest dit bestand dagelijks en opent automatisch een issue wanneer een taak aan de beurt is. Issue sluiten = taak uitgevoerd (traceerbaar met datum en naam). Frequenties: maand | kwartaal | halfjaar | jaar.",
+  "taken": [
+    {
+      "id": "voorraad-kwartaal",
+      "naam": "Kwartaalcontrole voorraad (F-09)",
+      "frequentie": "kwartaal",
+      "maanden": [1, 4, 7, 10],
+      "eigenaar": "Rogier / Romy",
+      "link": "03_Registraties/Formulieren/F-09_Voorraadcontrole_checklist.md",
+      "omschrijving": "Fysieke looproute alle locaties: achterste rij, onderste plank, disposables, EpiPen noodtas, aangebroken flacons. Resultaat vastleggen op F-09 en in het voorraadcontrole-register. Norm: ISO 9001 §8.5.4 — dit is de borging van de open tekortkoming."
+    },
+    {
+      "id": "koelkast-maandcheck",
+      "naam": "Maandcheck koelkastregistratie compleet",
+      "frequentie": "maand",
+      "eigenaar": "Moumen",
+      "link": "03_Registraties/Formulieren/F-01_Temperatuurregistratie_koelkast.md",
+      "omschrijving": "Controleer in de Google Forms-antwoordensheet dat alle wekelijkse temperatuurmetingen van de afgelopen maand zijn ingevuld (elke maandag), alle waarden binnen 2–8 °C, en dat bij afwijkingen een actie genoteerd staat."
+    },
+    {
+      "id": "hygiene-maand",
+      "naam": "Maandafsluiting hygiënecontrolelijst (F-06)",
+      "frequentie": "maand",
+      "eigenaar": "Moumen",
+      "link": "03_Registraties/Formulieren/F-06_Hygienecontrolelijst.md",
+      "omschrijving": "Wekelijkse schoonmaak/hygiënecontroles van de afgelopen maand aftekenen op F-06 en de maand afsluiten."
+    },
+    {
+      "id": "klanttevredenheid-kwartaal",
+      "naam": "Kwartaalreview klanttevredenheid",
+      "frequentie": "kwartaal",
+      "maanden": [1, 4, 7, 10],
+      "eigenaar": "Rogier",
+      "link": "05_Management/Directiebeoordeling_2026.md",
+      "omschrijving": "Google Forms-resultaten van het afgelopen kwartaal doornemen: aanbevelingspercentage t.o.v. doel ≥ 90%, opvallende feedback → verbeterregister. Samenvatting noteren (doelstelling 3)."
+    },
+    {
+      "id": "gaia-kwartaal",
+      "naam": "GAIA-voortgang nascholing",
+      "frequentie": "kwartaal",
+      "maanden": [3, 6, 9, 12],
+      "eigenaar": "Rogier",
+      "link": "04_Personeel/Nascholingsplan.md",
+      "omschrijving": "GAIA-punten bijwerken t.o.v. het nascholingsplan 2026–2028 (afwijking A7: 9/200). Geplande nascholing boeken; voortgang noteren."
+    },
+    {
+      "id": "apparatuur-halfjaar",
+      "naam": "Halfjaarlijkse apparatuur- en onderhoudscheck",
+      "frequentie": "halfjaar",
+      "maanden": [3, 9],
+      "eigenaar": "Rogier / Moumen",
+      "link": "03_Registraties/Apparatuuroverzicht.md",
+      "omschrijving": "Apparatuuroverzicht doorlopen: onderhoud gepland/uitgevoerd per apparaat, servicerapporten opgeslagen, sterilisator extern onderhoud (RIVM, jaarlijks incl. sensorkalibratie) geregeld."
+    },
+    {
+      "id": "contracten-halfjaar",
+      "naam": "Contract- en verlengingscheck",
+      "frequentie": "halfjaar",
+      "maanden": [1, 7],
+      "eigenaar": "Rogier",
+      "link": "03_Registraties/Actielijst.md",
+      "omschrijving": "Aflopende contracten en termijnen checken: arbeidsovereenkomst Moumen, huurovereenkomsten (Nijmegen/Enschede/Sittard), verzekeringen, verwerkersovereenkomsten. Les van 2025: verlenging Moumen liep ongemerkt af."
+    },
+    {
+      "id": "interne-audit-jaar",
+      "naam": "Interne audit (jaarlijks)",
+      "frequentie": "jaar",
+      "maanden": [5],
+      "eigenaar": "Rogier",
+      "link": "05_Management/Interne_audit_2026.md",
+      "omschrijving": "Jaarlijkse interne audit voorbereiden en uitvoeren (mei/juni) volgens de blokkenstructuur van 2026. Vanaf 2027 agent-ondersteund conform het AI-automatiseringsplan fase 4 — de arts beoordeelt en stelt vast."
+    },
+    {
+      "id": "directiebeoordeling-jaar",
+      "naam": "Directiebeoordeling (jaarlijks)",
+      "frequentie": "jaar",
+      "maanden": [6],
+      "eigenaar": "Rogier",
+      "link": "05_Management/Directiebeoordeling_2026.md",
+      "omschrijving": "Jaarlijkse directiebeoordeling volgens §9.3: alle inputs (KPI's, klachten, audits, leveranciers, risico's en kansen, middelen) + conclusie en doelstellingen. Risicoregister tegelijk herzien."
+    }
+  ]
+}
