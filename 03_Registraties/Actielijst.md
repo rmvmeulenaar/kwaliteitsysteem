@@ -43,6 +43,10 @@
 - ✅ **A16** Brandveiligheidscontrole ingericht — [F-10](Formulieren/F-10_Brandveiligheid_en_ontruiming.md) + halfjaarlijkse eigen check en jaarlijkse NEN 2559-keuring als taken
 - ⬜ **A17** Keuringsbewijs brandblussers opvragen/laten uitvoeren per locatie; bij nevenlocaties nagaan of de verhuurder dit doet · **Eigenaar: Rogier** · **Deadline: 30-09-2026**
 - ⬜ **A18** Voorraadregister en SOP: de zin dat er dankzij kleine voorraad geen producten verlopen klopt niet meer na de vondst van 26-07 · **Deadline: 31-07-2026**
+- ✅ **A20** NPS opgenomen in [SOP Klanttevredenheidsmeting](../02_Procedures/Administratie/SOP_Klanttevredenheidsmeting.md) v1.1
+- ⬜ **A21** NPS-vraag (0–10-schaal) in het tevredenheidsformulier zetten; streefwaarde pas na 4 kwartalen nulmeting · **Deadline: vóór de kwartaalmailing van oktober 2026**
+- ⬜ **A22** Vaststellen welk formulier leidend is voor de tevredenheidsmeting — Typeform of Google Forms · **Deadline: 31-08-2026**
+- ✅ **A23** Directiebeoordeling §6 gecorrigeerd (R6 niet gesloten; 13 risico's)
 
 ## ⚙️ Systeem / operationeel
 - ✅ Clinicminds-API gekoppeld (KPI's live)

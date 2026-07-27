@@ -58,6 +58,20 @@ Het overzicht van regelgeving noemt een beveiligd EPD "met toegangsbeveiliging e
 
 **Actie:** opgenomen als kwartaaltaak *Logcontrole toegang patiëntdossiers*, eerste uitvoering augustus 2026.
 
+### Z10. Twee bronnen voor één klanttevredenheidscijfer
+
+De [SOP Klanttevredenheidsmeting](../02_Procedures/Administratie/SOP_Klanttevredenheidsmeting.md) noemt als vragenlijst een Typeform ("Klanttevredenheid 2026–2027"), en het mailscript gebruikt dat Typeform-formulier ook daadwerkelijk. De directiebeoordeling 2026 schrijft de lopende meting sinds januari 2025 echter toe aan Google Forms, en daaruit komen de circa 45 reacties en het aanbevelingspercentage van 87%.
+
+Er zijn dus twee formulieren in omloop en één cijfer dat aan beide wordt opgehangen. Op de vraag "waar komt dit cijfer vandaan" zijn nu twee antwoorden mogelijk, en dat ondermijnt een KPI die aan doelstelling 3 hangt.
+
+**Actie:** vaststellen welk formulier leidend is; de ander beëindigen of expliciet als aparte meting beschrijven. Zolang dat niet is beslecht, bij elk gerapporteerd cijfer vermelden uit welk formulier het komt. Als openstaand punt in de SOP opgenomen.
+
+### Z11. Directiebeoordeling noemde R6 gesloten
+
+§6 van de directiebeoordeling 2026 vermeldde "R6 (datalek/AVG): gesloten 26-07-2026" op grond van de aangetoonde verwerkersovereenkomsten. Dat was al te stellig — het incident van 2025 stond in datzelfde verslag onder §4 — en werd onhoudbaar toen R6 vandaag werd herwaardeerd naar score 6. Ook stond er "12 risico's" terwijl het register er dertien telt sinds R13.
+
+**Actie — uitgevoerd 27-07-2026:** beide gecorrigeerd, met de reden van de herwaardering erbij.
+
 ### Z8. RI&E zet brand/ontruiming op "aanwezig" zonder enig keuringsbewijs
 
 Maatregel 6 van de RI&E — brand en ontruiming — stond op ✅ met als onderbouwing "calamiteitenplan, blusmiddelen, vluchtroutes". Er zijn blusmiddelen, maar er is geen keuringsbewijs, geen controleregistratie en geen vastlegging van wie op de nevenlocaties verantwoordelijk is. De eigen bewijssjablonen noemen NEN 2559 (jaarlijkse keuring door een deskundige, sticker met datum) wél als vereist servicerapport; het is alleen nooit geregeld.
@@ -111,6 +125,6 @@ Het datalekregister weegt het zwaarst: het wordt in twee documenten genoemd als 
 
 ## Samenvatting
 
-Negen bevindingen (Z1 t/m Z9, waarbij Z6 vijf ontbrekende documenten bundelt), plus vier punten die al openstonden. Eén heeft voorrang: de tegenstrijdigheid rond R6. Geen van de bevindingen raakt de patiëntveiligheid direct; ze raken allemaal de aantoonbaarheid. Dat is consistent met het beeld uit beide eerdere tekortkomingen — het handelen is in orde, de vastlegging loopt erachteraan.
+Elf bevindingen (Z1 t/m Z11, waarbij Z6 vijf ontbrekende documenten bundelt), plus vier punten die al openstonden. Eén heeft voorrang: de tegenstrijdigheid rond R6. Geen van de bevindingen raakt de patiëntveiligheid direct; ze raken allemaal de aantoonbaarheid. Dat is consistent met het beeld uit beide eerdere tekortkomingen — het handelen is in orde, de vastlegging loopt erachteraan.
 
 De opvolging loopt via het [NEN 7510-implementatieplan](Plan_NEN7510_implementatie.md) en het [verbeterregister](../03_Registraties/Verbeterregister.md). Volgende scan: bij de interne audit 2027.

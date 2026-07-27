@@ -34,6 +34,10 @@
 | A17 | Keuringsbewijs brandblussers (NEN 2559) opvragen of laten uitvoeren per locatie | zwakke-plekken-scan Z8 | 🔴 | Rogier |
 | A18 | Actielijst en verbeterregister gelijkgetrokken; verstreken deadlines gemarkeerd | zwakke-plekken-scan Z9 | ✅ 27-07-2026 | Rogier |
 | A19 | Rolverdeling: bestellingen en voorraad van R. Bosvelt naar arts + doktersassistent (Organisatiestructuur v2.1) — rondt V3 af | directiebesluit 27-07-2026 | ✅ 27-07-2026 | Rogier |
+| A20 | NPS toegevoegd aan de klanttevredenheidsmeting (SOP v1.1) — rekenwijze, ritme, omgang met kleine aantallen, responspercentage | §9.1.2 verbetering | ✅ 27-07-2026 | Rogier |
+| A21 | NPS-vraag (0–10) daadwerkelijk in het tevredenheidsformulier zetten; nulmeting over 4 kwartalen vóór een streefwaarde | SOP v1.1 | 🔴 | Rogier |
+| A22 | Vaststellen welk tevredenheidsformulier leidend is (Typeform of Google Forms) — nu twee bronnen voor één cijfer | zwakke-plekken-scan Z10 | 🔴 | Rogier |
+| A23 | Directiebeoordeling §6 gecorrigeerd: R6 niet gesloten, en 13 in plaats van 12 risico's | zwakke-plekken-scan Z11 | ✅ 27-07-2026 | Rogier |
 | — | Dossier-sjablonen (uit oud register feb 2025) | 2025 | ✅ via Clinicminds | Rogier |
 
 ## Aanpak (geborgd, niet persoonsafhankelijk)
