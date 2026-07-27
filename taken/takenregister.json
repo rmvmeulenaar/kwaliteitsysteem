@@ -66,6 +66,51 @@
       "omschrijving": "Aflopende contracten en termijnen checken: arbeidsovereenkomst Moumen, huurovereenkomsten (Nijmegen/Enschede/Sittard), verzekeringen, verwerkersovereenkomsten. Les van 2025: verlenging Moumen liep ongemerkt af."
     },
     {
+      "id": "logcontrole-epd-kwartaal",
+      "naam": "Logcontrole toegang patiëntdossiers (NEN 7513)",
+      "frequentie": "kwartaal",
+      "maanden": [2, 5, 8, 11],
+      "eigenaar": "Rogier",
+      "link": "05_Management/Plan_NEN7510_implementatie.md",
+      "omschrijving": "Toegangslogs van het EPD (Clinicminds) over het afgelopen kwartaal doornemen: onverwachte toegang, inzage buiten behandelrelatie, accounts die niet meer actief horen te zijn. Bevindingen vastleggen; bij vermoeden van onrechtmatige toegang melden via F-04 en het datalekregister."
+    },
+    {
+      "id": "toegangscontrole-halfjaar",
+      "naam": "Toegangs- en autorisatiecontrole",
+      "frequentie": "halfjaar",
+      "maanden": [2, 8],
+      "eigenaar": "Rogier",
+      "link": "05_Management/Plan_NEN7510_implementatie.md",
+      "omschrijving": "Alle systemen langs (Clinicminds, Google Workspace, VREST, Typeform, Resend, GitHub, Nmbrs): wie heeft toegang, klopt dat nog, is tweefactorauthenticatie aan, zijn accounts van vertrokken gebruikers ingetrokken. Bijwerken in de autorisatiematrix."
+    },
+    {
+      "id": "backup-hersteltest-halfjaar",
+      "naam": "Back-up herstel-test",
+      "frequentie": "halfjaar",
+      "maanden": [4, 10],
+      "eigenaar": "Rogier",
+      "link": "05_Management/Plan_NEN7510_implementatie.md",
+      "omschrijving": "Daadwerkelijk een bestand of dossier terugzetten uit de back-up en vastleggen dat het lukte, hoe lang het duurde en wie het deed. Een back-up die nooit is teruggezet is geen aantoonbare maatregel."
+    },
+    {
+      "id": "leveranciers-ib-jaar",
+      "naam": "Verwerkersovereenkomsten en leveranciers-IB nalopen",
+      "frequentie": "jaar",
+      "maanden": [11],
+      "eigenaar": "Rogier",
+      "link": "06_DEKRA_Audit/BEWIJS_SJABLONEN/LEVERANCIERSLIJST.md",
+      "omschrijving": "Per leverancier met toegang tot persoonsgegevens: is er een geldige verwerkersovereenkomst, staat de kopie in het dossier, zijn de voorwaarden gewijzigd. Koppeling risico R6."
+    },
+    {
+      "id": "ib-beleid-jaar",
+      "naam": "Informatiebeveiligingsbeleid en IB-risico's herzien",
+      "frequentie": "jaar",
+      "maanden": [6],
+      "eigenaar": "Rogier",
+      "link": "05_Management/Plan_NEN7510_implementatie.md",
+      "omschrijving": "Informatiebeveiligingsbeleid en de IB-risico's in het risicoregister herzien, gelijk met de directiebeoordeling. Voortgang van het NEN 7510-implementatieplan als vast agendapunt."
+    },
+    {
       "id": "interne-audit-jaar",
       "naam": "Interne audit (jaarlijks)",
       "frequentie": "jaar",

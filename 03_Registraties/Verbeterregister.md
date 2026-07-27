@@ -22,6 +22,13 @@
 | A5 | Apparatuuroverzicht + onderhoudsbewijs | interne audit | 🔵 | Rogier/Moumen |
 | A6 | Lichte RI&E / ARBO | interne audit | 🔵 | Rogier (AI-ondersteund) |
 | A7 | Nascholingsplan 2024–2029 (GAIA) | interne audit | 🔵 | Rogier |
+| A8 | Escalatie op openstaande periodieke taken (mail naar uitvoerder, daarna directeur) | interne consistentiecontrole 27-07-2026 | ✅ | Rogier |
+| A9 | R6 (datalek) herwaarderen — kans 1 is niet houdbaar naast het datalek van 2025 | [zwakke-plekken-scan 27-07-2026](../05_Management/Zwakke_plekken_scan_2026-07-27.md) Z1 | 🔴 | Rogier |
+| A10 | Verwerkingsregister (AVG art. 30) opstellen — wettelijk verplicht, ontbreekt | zwakke-plekken-scan Z6 | 🔴 | Rogier |
+| A11 | Datalekregister inrichten en het incident van 2025 alsnog vastleggen | zwakke-plekken-scan Z6 | 🔴 | Rogier |
+| A12 | Technische beveiligingsclaims controleren en vastleggen (2FA, encryptie, sessietimeout) | zwakke-plekken-scan Z3 | 🔵 | Rogier |
+| A13 | NEN 7510 implementeren volgens [plan](../05_Management/Plan_NEN7510_implementatie.md), fase 0 start aug 2026 | wettelijk kader + zwakke-plekken-scan | 🔵 | Rogier |
+| A14 | Maandafsluitingsblok toevoegen aan F-06 (taak vraagt erom, formulier ondersteunt het niet) | zwakke-plekken-scan Z2 | 🔵 | Rogier |
 | — | Dossier-sjablonen (uit oud register feb 2025) | 2025 | ✅ via Clinicminds | Rogier |
 
 ## Aanpak (geborgd, niet persoonsafhankelijk)
