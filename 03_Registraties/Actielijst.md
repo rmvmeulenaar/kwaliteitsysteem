@@ -64,6 +64,8 @@
 
 *Alle terugkerende taken staan in het [takenregister](../taken/takenregister.json) en worden automatisch gesignaleerd; blijft er een liggen, dan volgt escalatie per mail. Deze lijst is het overzicht, het takenregister is de bron.*
 
+**Eenmalige acties worden sinds 27-07-2026 óók gesignaleerd.** Een actie met een einddatum kan als `eenmalig` met een `deadline` in het takenregister staan; het issue verschijnt vooraf (instelbaar per actie) en escaleert daarna net als de rest. Aanleiding: op deze datum bleek dat drie deadlines op deze lijst ongemerkt waren verstreken, omdat een markdownlijst geen signaal geeft. De twee onderzoeksacties A24 en A25 zijn als eerste zo ingericht; de overige gedateerde acties hierboven kunnen op dezelfde manier worden overgezet.
+
 *Kandidaat voor automatisering (jouw administratie-doelstelling): salaris/reiskosten Moumen verwerken.*
 
 ---

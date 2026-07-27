@@ -19,6 +19,18 @@ Periodieke taken hangen niet meer op "of iemand eraan denkt". Ze staan in één 
 
 Elke verzonden mail wordt als comment op het issue gezet (met datum en ontvangers). Daardoor is achteraf te zien niet alleen dát een taak te laat was, maar ook dat erop is gerappelleerd — en door wie hij uiteindelijk is afgerond.
 
+## Eenmalige acties met een deadline
+
+Niet alles is terugkerend. Onderzoeks- en verbeteracties hebben een einddatum en gebeuren daarna nooit meer — en juist die vielen buiten het systeem: ze stonden alleen in de [actielijst](../03_Registraties/Actielijst.md), waar niemand een signaal van krijgt. Op 27-07-2026 bleek dat drie deadlines ongemerkt waren verstreken.
+
+Daarom kan een taak nu ook `"frequentie": "eenmalig"` hebben met een `"deadline"` (JJJJ-MM-DD):
+
+- het issue wordt standaard **14 dagen vóór de deadline** geopend — met `"vooraf"` is dat per actie in te stellen, bijvoorbeeld 60 dagen voor iets dat uitzoekwerk vraagt;
+- in het issue staat hoeveel dagen er nog zijn, en na de deadline hoeveel dagen die verstreken is;
+- de escalatie werkt er hetzelfde op als op terugkerende taken: eerst de eigenaar, daarna de directeur erbij.
+
+Zo lopen eenmalige acties door dezelfde signalering en escalatie als de rest, in plaats van in een lijst te blijven staan die niemand op tijd naleest.
+
 ## Uitvoerders zonder GitHub-account
 
 Niet iedereen werkt in GitHub. De escalatiemail bevat daarom een **afvinkknop**: één klik opent een vooringevulde afmelding aan de directeur met de taak, de periode en het formulier erbij. De volgorde blijft: eerst registreren op het formulier — dat is het bewijs — dan afmelden. De directeur sluit het issue.

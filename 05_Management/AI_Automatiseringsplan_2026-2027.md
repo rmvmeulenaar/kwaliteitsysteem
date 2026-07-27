@@ -80,7 +80,9 @@ Een zelfgebouwde koppeling zou dus stranden op de laatste stap: transcriberen en
 
 Spelregel 3 en 4 hierboven gelden onverkort: het transcript is een **concept**, de arts controleert en stelt vast, en er gaan geen patiëntgegevens naar de tooling zonder verwerkersovereenkomst en AVG-toets. Dit valt onder risico **R13** (onbeheerste AI-inzet) — een systeem dat consultgesprekken verwerkt zit in dezelfde risicocategorie als de AI-mailbot van 2025, maar zwaarder. Dat is geen reden het niet te doen; het is de reden om het als beheerste wijziging (§6.3) te doen, met de vijf vragen hierboven vooraf beantwoord en vastgelegd.
 
-**Vervolgstap:** Quinn AI Smart Summary in de eigen Clinicminds-omgeving beoordelen. Pas als dat tekortschiet de externe route onderzoeken, en dan eerst bij Clinicminds navragen of er een schrijf-API voor dossierregels bestaat. Antwoorden vastleggen en het besluit voorleggen bij de directiebeoordeling 2027.
+**Vervolgstap — belegd, niet vrijblijvend.** Quinn AI Smart Summary in de eigen Clinicminds-omgeving beoordelen. Pas als dat tekortschiet de externe route onderzoeken, en dan eerst bij Clinicminds navragen of er een schrijf-API voor dossierregels bestaat. Antwoorden vastleggen en het besluit voorleggen bij de directiebeoordeling 2027.
+
+Dit onderzoek staat als eenmalige actie met deadline 31-12-2026 in het [takenregister](../taken/takenregister.json) (`onderzoek-quinn-dossiervoering`). Het issue opent zestig dagen vooraf en escaleert daarna per mail — hetzelfde mechanisme als de terugkerende taken. Daarmee is dit geen voornemen in een plan maar een gesignaleerde en bewaakte actie.
 
 ### Bijvangst van het onderzoek: wat de Analytics API wél biedt
 
