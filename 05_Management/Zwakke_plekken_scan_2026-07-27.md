@@ -26,7 +26,7 @@ Twee andere documenten spreken dat tegen. R13 in datzelfde register noemt explic
 
 Een risico dat zich in de meetperiode heeft voorgedaan kun je niet op kans 1 laten staan. Kans 2 × impact 3 = **score 6**, en daarmee valt R6 in de categorie die volgens het eigen register een benoemde beheersmaatregel met eigenaar vereist.
 
-**Actie:** R6 herwaarderen naar kans 2, maatregel en eigenaar expliciet maken, en het incident van 2025 als onderbouwing opnemen. Dit is de belangrijkste bevinding van de scan — niet omdat het risico groot is, maar omdat het register hier zichzelf tegenspreekt en dat de geloofwaardigheid van álle andere scores raakt.
+**Actie — uitgevoerd 27-07-2026:** R6 herwaardeerd naar kans 2, score 6; beheersmaatregel en eigenaar ingevuld; het incident van 2025 als onderbouwing opgenomen in de toelichting bij de hoogste risico's. Dit is de belangrijkste bevinding van de scan — niet omdat het risico groot is, maar omdat het register hier zichzelf tegenspreekt en dat de geloofwaardigheid van álle andere scores raakt.
 
 ### Z2. Takenregister vraagt een maandafsluiting die op het formulier niet bestaat
 
