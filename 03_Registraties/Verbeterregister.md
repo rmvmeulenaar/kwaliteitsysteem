@@ -29,6 +29,7 @@
 | A12 | Technische beveiligingsclaims controleren en vastleggen (2FA, encryptie, sessietimeout) | zwakke-plekken-scan Z3 | 🔵 | Rogier |
 | A13 | NEN 7510 implementeren volgens [plan](../05_Management/Plan_NEN7510_implementatie.md), fase 0 start aug 2026 | wettelijk kader + zwakke-plekken-scan | 🔵 | Rogier |
 | A14 | Maandafsluitingsblok toevoegen aan F-06 (taak vraagt erom, formulier ondersteunt het niet) | zwakke-plekken-scan Z2 | 🔵 | Rogier |
+| A15 | Awareness-instructie privacy/IB — toegezegd in SOP AVG §9, nooit gegeven; opgenomen in F-07 en als jaartaak | zwakke-plekken-scan Z7 | 🔵 | Rogier |
 | — | Dossier-sjablonen (uit oud register feb 2025) | 2025 | ✅ via Clinicminds | Rogier |
 
 ## Aanpak (geborgd, niet persoonsafhankelijk)

@@ -63,7 +63,13 @@ IB-risico's toevoegen aan het bestaande risicoregister, met dezelfde kans × imp
 Back-up- en herstelprocedure vastleggen én een echte teruglees-test uitvoeren — een back-up die nooit is teruggezet is geen back-up. Datalekregister inrichten (`F-11`), gekoppeld aan de bestaande VIM-melding F-04. Leveranciersbeheer afronden: alle verwerkersovereenkomsten binnen, inclusief de kopieën van Typeform en Resend die uit R6 nog openstaan. **Oplevering:** `SOP_Backup_en_herstel.md` met testverslag, `F-11 Datalekregister`, complete DPA-map.
 
 ### Fase 4 — Mensen (december 2026)
-Bewustwording en training: phishing, wachtwoorden, clean desk, wat te doen bij een vermoed datalek. Voor twee mensen is dat geen cursus maar een vastgelegde instructie met aftekening. Aansluiten op het bekwaamheidsoverzicht F-07. **Oplevering:** instructie + aftekening in F-07.
+Bewustwording en training. Dit is geen nieuwe verplichting: [SOP AVG-compliance](../02_Procedures/Administratie/SOP_AVG_compliance.md) §9 belooft al een jaarlijkse privacytraining, instructie bij indiensttreding en bewustwording rond phishing — alleen is dat nooit gegeven en was er tot 27-07-2026 geen plek om het vast te leggen.
+
+Vier onderwerpen, nu opgenomen in de scholingstabel van [F-07](../03_Registraties/Formulieren/F-07_Bekwaamheidsoverzicht.md): privacy en AVG (geheimhouding, inzagerechten, bewaartermijnen); informatiebeveiliging (wachtwoorden, tweefactor, clean desk, vergrendelen); datalekken en phishing herkennen en melden; veilig gebruik van AI-hulpmiddelen.
+
+Dat laatste onderwerp staat er niet voor de volledigheid. Het datalek van 2025 ontstond via een AI-mailbot — een systeem dat werd ingezet zonder te overzien wat eruit kon komen. Geen technische maatregel had dat tegengehouden. Bij deze praktijk is bewustwording daarmee niet de zachtste maatregel maar de meest gerichte.
+
+Bij 2,5 FTE is dit geen cursus maar een vastgelegde instructie met aftekening: datum, door wie gegeven, paraaf van beide. **Oplevering:** instructie gegeven en afgetekend in F-07; jaarlijks herhaald via het takenregister.
 
 ### Fase 5 — Aantonen (januari–februari 2027)
 Interne audit met een informatiebeveiligingsblok, in dezelfde ronde als de ISO-audit. Uitkomsten naar het verbeterregister. IB-paragraaf toevoegen aan de directiebeoordeling 2027. Vanaf dat moment is naleving aantoonbaar en loopt het mee in de jaarcyclus. **Oplevering:** IB-blok in `Interne_audit_2027.md` en `Directiebeoordeling_2027.md`.
@@ -78,6 +84,7 @@ Zonder terugkerende taken zakt dit binnen een jaar weg. Daarom zijn vijf taken t
 | Toegangs- en autorisatiecontrole | halfjaarlijks | Rogier |
 | Back-up herstel-test | halfjaarlijks | Rogier |
 | Verwerkersovereenkomsten en leveranciers-IB nalopen | jaarlijks | Rogier |
+| Awareness-instructie privacy en informatiebeveiliging | jaarlijks | Rogier |
 | Informatiebeveiligingsbeleid en IB-risico's herzien | jaarlijks | Rogier |
 
 ## 6. Wat dit kost

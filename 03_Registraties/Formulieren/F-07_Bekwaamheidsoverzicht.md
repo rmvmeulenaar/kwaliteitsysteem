@@ -36,7 +36,13 @@ Alle handelingen die vallen onder artikel 36 Wet BIG — injecteren, incisies, l
 | Hygiëne en infectiepreventie | | | |
 | Noodprocedures: alarmeren en ontruimen | | | |
 | Omgaan met de sterilisator (fabrikantshandleiding) | | | |
+| **Privacy en AVG: geheimhouding, inzagerechten, bewaartermijnen** | | | |
+| **Informatiebeveiliging: wachtwoorden, tweefactor, clean desk, vergrendelen** | | | |
+| **Herkennen en melden van datalekken en phishing** | | | |
+| **Veilig gebruik van AI-hulpmiddelen: wat mag er wel en niet in** | | | |
 | Jaarlijkse bekwaamheidstoets | | | |
+
+*De vier vetgedrukte onderwerpen vormen samen de jaarlijkse awareness-instructie uit [SOP AVG-compliance](../../02_Procedures/Administratie/SOP_AVG_compliance.md) §9 en fase 4 van het [NEN 7510-plan](../../05_Management/Plan_NEN7510_implementatie.md). Bij 2,5 FTE is dat geen cursus maar een vastgelegde instructie met aftekening — datum, door wie gegeven, paraaf van beide. Het onderwerp AI-hulpmiddelen is toegevoegd naar aanleiding van het datalek van 2025.*
 
 ## Documenten in het personeelsdossier
 

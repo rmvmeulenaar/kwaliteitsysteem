@@ -58,6 +58,14 @@ Het overzicht van regelgeving noemt een beveiligd EPD "met toegangsbeveiliging e
 
 **Actie:** opgenomen als kwartaaltaak *Logcontrole toegang patiëntdossiers*, eerste uitvoering augustus 2026.
 
+### Z7. Jaarlijkse privacytraining is toegezegd maar nooit gegeven
+
+SOP AVG-compliance §9 belooft een jaarlijkse training over privacy en gegevensbescherming, instructie bij indiensttreding, en bewustwording rond phishing. Er is geen enkel bewijs dat die instructie ooit is gegeven, en het bekwaamheidsoverzicht F-07 had in de scholingstabel geen regel waarop het vastgelegd kon worden.
+
+Dat weegt zwaarder dan een gemiste administratieve handeling: het datalek van 2025 ontstond door een AI-mailbot, dus door een systeem dat werd ingezet zonder te overzien wat eruit kon komen. Geen technische maatregel had dat tegengehouden; bewustwording wel. De maatregel die op papier al bestond, is precies de maatregel die het incident had kunnen voorkomen.
+
+**Actie:** vier onderwerpen toegevoegd aan de scholingstabel van F-07 (privacy/AVG, informatiebeveiliging, datalekken en phishing herkennen, veilig gebruik van AI-hulpmiddelen) en belegd als jaarlijkse taak, uit te voeren in fase 4 van het NEN 7510-plan (december 2026).
+
 ---
 
 ## Categorie 1 — Verwezen maar niet bestaand
@@ -89,6 +97,6 @@ Het datalekregister weegt het zwaarst: het wordt in twee documenten genoemd als 
 
 ## Samenvatting
 
-Zes bevindingen (Z1 t/m Z6, waarbij Z6 vijf ontbrekende documenten bundelt), plus vier punten die al openstonden. Eén heeft voorrang: de tegenstrijdigheid rond R6. Geen van de bevindingen raakt de patiëntveiligheid direct; ze raken allemaal de aantoonbaarheid. Dat is consistent met het beeld uit beide eerdere tekortkomingen — het handelen is in orde, de vastlegging loopt erachteraan.
+Zeven bevindingen (Z1 t/m Z7, waarbij Z6 vijf ontbrekende documenten bundelt), plus vier punten die al openstonden. Eén heeft voorrang: de tegenstrijdigheid rond R6. Geen van de bevindingen raakt de patiëntveiligheid direct; ze raken allemaal de aantoonbaarheid. Dat is consistent met het beeld uit beide eerdere tekortkomingen — het handelen is in orde, de vastlegging loopt erachteraan.
 
 De opvolging loopt via het [NEN 7510-implementatieplan](Plan_NEN7510_implementatie.md) en het [verbeterregister](../03_Registraties/Verbeterregister.md). Volgende scan: bij de interne audit 2027.

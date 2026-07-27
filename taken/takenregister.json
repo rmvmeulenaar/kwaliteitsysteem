@@ -102,6 +102,15 @@
       "omschrijving": "Per leverancier met toegang tot persoonsgegevens: is er een geldige verwerkersovereenkomst, staat de kopie in het dossier, zijn de voorwaarden gewijzigd. Koppeling risico R6."
     },
     {
+      "id": "awareness-jaar",
+      "naam": "Awareness-instructie privacy en informatiebeveiliging",
+      "frequentie": "jaar",
+      "maanden": [12],
+      "eigenaar": "Rogier",
+      "link": "03_Registraties/Formulieren/F-07_Bekwaamheidsoverzicht.md",
+      "omschrijving": "Jaarlijkse instructie aan alle medewerkers over privacy/AVG, wachtwoorden en tweefactor, clean desk, het herkennen en melden van datalekken en phishing, en veilig gebruik van AI-hulpmiddelen. Aftekenen op F-07 met datum en beide parafen. Verplichting uit SOP AVG-compliance §9; ook bij indiensttreding geven."
+    },
+    {
       "id": "ib-beleid-jaar",
       "naam": "Informatiebeveiligingsbeleid en IB-risico's herzien",
       "frequentie": "jaar",
