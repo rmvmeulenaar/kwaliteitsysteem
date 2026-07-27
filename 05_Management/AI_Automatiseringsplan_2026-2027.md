@@ -82,7 +82,19 @@ Spelregel 3 en 4 hierboven gelden onverkort: het transcript is een **concept**, 
 
 **Vervolgstap — belegd, niet vrijblijvend.** Quinn AI Smart Summary in de eigen Clinicminds-omgeving beoordelen. Pas als dat tekortschiet de externe route onderzoeken, en dan eerst bij Clinicminds navragen of er een schrijf-API voor dossierregels bestaat. Antwoorden vastleggen en het besluit voorleggen bij de directiebeoordeling 2027.
 
-Dit onderzoek staat als eenmalige actie met deadline 31-12-2026 in het [takenregister](../taken/takenregister.json) (`onderzoek-quinn-dossiervoering`). Het issue opent zestig dagen vooraf en escaleert daarna per mail — hetzelfde mechanisme als de terugkerende taken. Daarmee is dit geen voornemen in een plan maar een gesignaleerde en bewaakte actie.
+### Beleggen: onderzoek én doorvoering apart
+
+Verbeteracties stranden zelden op het onderzoek. Ze stranden op de stap erna: er wordt iets uitgezocht, besloten — en dan gebeurt de doorvoering niet, omdat daar geen moment voor staat. Daarom zijn het onderzoek en de implementatie **als twee aparte acties** in het [takenregister](../taken/takenregister.json) belegd, elk met een eigen deadline en escalatie:
+
+| Actie | Soort | Opent | Deadline |
+|---|---|---|---|
+| `onderzoek-quinn-dossiervoering` | eenmalig | 01-11-2026 | 31-12-2026 |
+| Besluit | — | directiebeoordeling 2027 | — |
+| `implementatie-dossiervoering-consult` | eenmalig | 01-04-2027 | 30-06-2027 |
+
+De implementatieactie beschrijft wat doorvoeren hier concreet betekent: verwerkersovereenkomst en opname in het verwerkingsregister, patiëntinformatie in intake en privacyverklaring met weigeringsmogelijkheid, de controlestap door de arts vastleggen, SOP Medische dossiervoering aanpassen met versienummer, instructie in F-07, en evaluatie na één cyclus in het PDCA-logboek. Bij een negatief besluit wordt het issue gesloten met de reden erbij — ook dat is een vastgelegde uitkomst.
+
+Daarnaast loopt er sinds 27-07-2026 een kwartaaltaak `implementatie-verbeteracties-kwartaal` die álle open verbeteracties doorloopt en per actie de eerstvolgende stap vastlegt. Een actie zonder voortgang gedurende twee kwartalen gaat als agendapunt naar de directiebeoordeling. Registreren is niet hetzelfde als doorvoeren; dat verschil wordt daar gecontroleerd.
 
 ### Bijvangst van het onderzoek: wat de Analytics API wél biedt
 

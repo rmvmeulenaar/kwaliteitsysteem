@@ -43,6 +43,7 @@
 | — | Dossier-sjablonen (uit oud register feb 2025) | 2025 | ✅ via Clinicminds | Rogier |
 
 ## Aanpak (geborgd, niet persoonsafhankelijk)
+- **Doorvoeren is een eigen taak.** Een verbeteractie registreren is niet hetzelfde als hem uitvoeren. Sinds 27-07-2026 loopt daarom de kwartaaltaak *Doorvoeren openstaande verbeteracties* (februari, mei, augustus, november) door dit register heen: per open actie wordt de eerstvolgende concrete stap vastgelegd met wie en wanneer. Een actie die twee kwartalen achtereen geen voortgang heeft, gaat als agendapunt naar de directiebeoordeling. Grotere verbeteringen krijgen bovendien een eigen eenmalige actie met deadline in het [takenregister](../taken/takenregister.json) — onderzoek en implementatie apart, omdat verbeteringen zelden op het onderzoek stranden maar op de doorvoering.
 - Verbeteringen én klachten lopen via dit register; bij elke PDCA-ronde (inlog-sessie) bekeken en bijgewerkt — dit is het "vaste verbetermoment" (verbeterpunt #3), geborgd in het systeem i.p.v. in een teamafspraak.
 - Klachten/complicaties: automatisch uit Clinicminds, op trend beoordeeld.
 - Acties zijn gekoppeld aan de [actielijst](Actielijst.md) en het [PDCA-logboek](../05_Management/PDCA_logboek.md).

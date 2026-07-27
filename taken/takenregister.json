@@ -139,6 +139,25 @@
       "omschrijving": "Informatiebeveiligingsbeleid en de IB-risico's in het risicoregister herzien, gelijk met de directiebeoordeling. Voortgang van het NEN 7510-implementatieplan als vast agendapunt."
     },
     {
+      "id": "implementatie-verbeteracties-kwartaal",
+      "naam": "Doorvoeren openstaande verbeteracties",
+      "frequentie": "kwartaal",
+      "maanden": [2, 5, 8, 11],
+      "eigenaar": "Rogier",
+      "link": "03_Registraties/Verbeterregister.md",
+      "omschrijving": "Loop alle open verbeteracties (A-nummers) in het verbeterregister door en duw ze vooruit. Per actie vastleggen: wat is de eerstvolgende concrete stap, wie doet die, en wanneer. Afgeronde acties op ✅ met datum. Een actie die twee kwartalen achtereen geen voortgang heeft, gaat als agendapunt naar de directiebeoordeling — registreren is niet hetzelfde als doorvoeren, en dit is het moment waarop dat verschil wordt gecontroleerd (ISO 9001 §10.2). Statussen gelijk houden met de actielijst."
+    },
+    {
+      "id": "implementatie-dossiervoering-consult",
+      "naam": "Implementatie: dossiervoering tijdens het consult (na besluit)",
+      "frequentie": "eenmalig",
+      "deadline": "2027-06-30",
+      "vooraf": 90,
+      "eigenaar": "Rogier",
+      "link": "05_Management/AI_Automatiseringsplan_2026-2027.md",
+      "omschrijving": "Alleen uitvoeren na een positief besluit bij de directiebeoordeling 2027; bij een negatief besluit dit issue sluiten met de reden erbij. Doorvoeren als beheerste wijziging (§6.3): verwerkersovereenkomst vastleggen en opnemen in het verwerkingsregister; patiëntinformatie toevoegen aan intake en privacyverklaring, inclusief de mogelijkheid om te weigeren; de controlestap door de arts vastleggen (transcript is concept, de arts stelt vast); SOP Medische dossiervoering aanpassen met versienummer en wijzigingsregel; instructie opnemen in F-07; en na één cyclus de werking evalueren in het PDCA-logboek. Bijzondere aandacht voor doseringen en productnamen — een verkeerd getranscribeerde eenheid is een patiëntveiligheidskwestie, geen administratieve fout."
+    },
+    {
       "id": "onderzoek-quinn-dossiervoering",
       "naam": "Onderzoek: dossiervoering tijdens het consult (fase 6)",
       "frequentie": "eenmalig",
